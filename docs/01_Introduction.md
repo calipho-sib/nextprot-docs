@@ -1,4 +1,4 @@
-GitBook
+GitBook Test
 =======
 
 [![Build Status](https://travis-ci.org/GitbookIO/gitbook.png?branch=master)](https://travis-ci.org/GitbookIO/gitbook)
