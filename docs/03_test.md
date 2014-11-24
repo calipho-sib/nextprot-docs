@@ -1,3 +1,3 @@
 #My test page
 
-[intro](docs/introduction)
+[intro](page/docs/introduction)
