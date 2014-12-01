@@ -53,12 +53,14 @@ Amos Bairoch and the neXtProt team at the Swiss Institute of Bioinformatics and 
 
 #Contact details
 
+```
 SIB Swiss Institute of Bioinformatics
 CMU - Rue Michel-Servet 1
 1211 Geneva
 Switzerland
 Tel : +41 22 379 5050
 
+```
 
 ----
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
