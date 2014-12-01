@@ -24,7 +24,7 @@ The team is currently working on three different challenges:
 
 #Our vision
 
-> "A journey of a thousand miles begins with a single step."
+> A journey of a thousand miles begins with a single step.
 
 Lao-Tzu, Chinese philosopher (604 BC - 531 BC)
 
