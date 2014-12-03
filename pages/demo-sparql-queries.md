@@ -10,7 +10,7 @@ select distinct ?entry where {
 ```
 
 
-####Q002 that are located both in the cytoplasm and in the nucleus
+Q002 that are located both in the cytoplasm and in the nucleus
 
 
 ```
@@ -21,7 +21,7 @@ select distinct ?entry where {
 ```
 
 
-###Q003 with 37 transmembrane regions or more
+Q003 with 37 transmembrane regions or more
 
 
 ```
@@ -35,7 +35,7 @@ HAVING(count( ?statement)>=37)
 ```
 
 
-##Q004, Proteins highly expressed in brain but not expressed in testis
+Q004, Proteins highly expressed in brain but not expressed in testis
 
 
 ```
@@ -52,7 +52,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q005 located in mitochondrion and that lack a transit peptide
+Q005 located in mitochondrion and that lack a transit peptide
 
 
 ```
@@ -64,7 +64,7 @@ select distinct ?entry where{
 ```
 
 
-##Q006 whose genes are on chromosome 2 and linked with a disease
+Q006 whose genes are on chromosome 2 and linked with a disease
 
 
 ```
@@ -75,7 +75,7 @@ select distinct ?entry where {
 ```
 
 
-##Q007 linked to diseases that are associated with cardiovascular aspects
+Q007 linked to diseases that are associated with cardiovascular aspects
 
 
 ```
@@ -85,7 +85,7 @@ select distinct ?entry  WHERE {
 ```
 
 
-##Q008 whose genes are less than 50000 bp away from the location of the gene of protein Y
+Q008 whose genes are less than 50000 bp away from the location of the gene of protein Y
 
 
 ```
@@ -98,7 +98,7 @@ select distinct ?entry where {
 ```
 
 
-##Q009 with 3 disulfide bonds and that are not hormones 
+Q009 with 3 disulfide bonds and that are not hormones 
 
 
 ```
@@ -116,7 +116,7 @@ select distinct ?entry   WHERE {
 ```
 
 
-##Q010 that are glycosylated and not located in the membrane
+Q010 that are glycosylated and not located in the membrane
 
 
 ```
@@ -128,7 +128,7 @@ select  distinct  ?entry WHERE  {
 ```
 
 
-##Q11 Proteins that are expressed in liver and involved in transport
+Q11 Proteins that are expressed in liver and involved in transport
 
 
 ```
@@ -142,7 +142,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q012 that interact with protein Y and that are involved in splicing
+Q012 that interact with protein Y and that are involved in splicing
 
 
 ```
@@ -153,7 +153,7 @@ select distinct ?entry WHERE  {
 ```
 
 
-##Q013 with a protein kinase domain but no kinase activity
+Q013 with a protein kinase domain but no kinase activity
 
 
 ```
@@ -165,7 +165,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q014 with 2 SH3 domains and 1 SH2 domain
+Q014 with 2 SH3 domains and 1 SH2 domain
 
 
 ```
@@ -180,7 +180,7 @@ select distinct ?entry  where{
 ```
 
 
-##Q015 Proteins with a PDZ domain that interact with at least 1 protein which is expressed in brain
+Q015 Proteins with a PDZ domain that interact with at least 1 protein which is expressed in brain
 
 
 ```
@@ -192,7 +192,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q016 with a mature chain <= 1000 amino acids which are secreted and do not contain cysteines in the mature chain
+Q016 with a mature chain <= 1000 amino acids which are secreted and do not contain cysteines in the mature chain
 
 
 ```
@@ -209,7 +209,7 @@ filter(!regex (?mseq,'C'))
 ```
 
 
-##Q017 Proteins >=1000 amino acids and located in nucleus and expression in nervous system
+Q017 Proteins >=1000 amino acids and located in nucleus and expression in nervous system
 
 
 ```
@@ -225,7 +225,7 @@ SELECT distinct ?entry WHERE  {
 ```
 
 
-##Q017b Proteins >=1000 amino acids and located in nucleus and expression in nervous system
+Q017b Proteins >=1000 amino acids and located in nucleus and expression in nervous system
 
 
 ```
@@ -245,7 +245,7 @@ SELECT distinct ?entry WHERE  {
 ```
 
 
-##Q18 that are acetylated and methylated and located in the nucleus
+Q18 that are acetylated and methylated and located in the nucleus
 
 
 ```
@@ -260,7 +260,7 @@ select distinct ?entry where {
 ```
 
 
-##Q020, Proteins with >=2 HPA antibodies whose genes are located on chromosome 21 and that are highly expressed at IHC level in heart
+Q020, Proteins with >=2 HPA antibodies whose genes are located on chromosome 21 and that are highly expressed at IHC level in heart
 
 
 ```
@@ -287,7 +287,7 @@ having (count(?ac)>=2)
 ```
 
 
-##Q021 with >=1 HPA antibody and located in the peroxisome
+Q021 with >=1 HPA antibody and located in the peroxisome
 
 
 ```
@@ -307,7 +307,7 @@ select  distinct ?entry  where {
 ```
 
 
-##Q022 Proteins with no function annotated 
+Q022 Proteins with no function annotated 
 
 
 ```
@@ -320,7 +320,7 @@ select distinct ?entry where  {
 ```
 
 
-##Q023 that are involved in transport and located in a membrane and that are not glycosylated (experimentally or predicted)
+Q023 that are involved in transport and located in a membrane and that are not glycosylated (experimentally or predicted)
 
 
 ```
@@ -347,7 +347,7 @@ select distinct ?entry where {
 ```
 
 
-##Q024 with more than 1 reported gold interaction
+Q024 with more than 1 reported gold interaction
 
 
 ```
@@ -362,7 +362,7 @@ having count(distinct ?interactant) > 1
 ```
 
 
-##Q025 with >=50 interactors and not involved in a disease
+Q025 with >=50 interactors and not involved in a disease
 
 
 ```
@@ -378,7 +378,7 @@ select distinct ?entry  where {
 ```
 
 
-##Q026 interacting one protein ore more which are located in the mitochondrion
+Q026 interacting one protein ore more which are located in the mitochondrion
 
 
 ```
@@ -394,7 +394,7 @@ limit 100
 ```
 
 
-##Q027 with one or more glycosylation sites reported in PubMed:X or PubMed:Y
+Q027 with one or more glycosylation sites reported in PubMed:X or PubMed:Y
 
 
 ```
@@ -409,7 +409,7 @@ select distinct ?entry ?pub where{
 ```
 
 
-##Q028 linked with a disease but without a disease-linked variant
+Q028 linked with a disease but without a disease-linked variant
 
 
 ```
@@ -421,7 +421,7 @@ select distinct ?entry where {
 ```
 
 
-##Q029 linked with a disease but without a disease-linked variant
+Q029 linked with a disease but without a disease-linked variant
 
 
 ```
@@ -432,7 +432,7 @@ select distinct ?entry where {
 ```
 
 
-##Q030 whose gene is located in chromosome 2 that belongs to families with >=5 members in the human proteome
+Q030 whose gene is located in chromosome 2 that belongs to families with >=5 members in the human proteome
 
 
 ```
@@ -445,7 +445,7 @@ select ?entry  where{
 ```
 
 
-##Q030b whose gene is located in chromosome 2 that belongs to families with >=5 members in the human proteome
+Q030b whose gene is located in chromosome 2 that belongs to families with >=5 members in the human proteome
 
 
 ```
@@ -459,7 +459,7 @@ select distinct ?entry  where{
 ```
 
 
-##Q031  with >=10 "splice" isoforms
+Q031  with >=10 "splice" isoforms
 
 
 ```
@@ -470,7 +470,7 @@ select distinct ?entry   WHERE  {
 ```
 
 
-##Q032 with a coiled coil region and involved in transcription but does not contain a bZIP domain
+Q032 with a coiled coil region and involved in transcription but does not contain a bZIP domain
 
 
 ```
@@ -485,7 +485,7 @@ select distinct ?entry where {
 ```
 
 
-##Q033 with >=1 phoshotyrosine but no phosphoserine or phosphothreonine
+Q033 with >=1 phoshotyrosine but no phosphoserine or phosphothreonine
 
 
 ```
@@ -507,7 +507,7 @@ having ( count(?ptm) >= 1 )
 ```
 
 
-##Q034 with >=1 homeobox domain and with >=1 variant in the homeobox domain(s)
+Q034 with >=1 homeobox domain and with >=1 variant in the homeobox domain(s)
 
 
 ```
@@ -526,7 +526,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q035  located in the mitochondrion and which is an enzyme
+Q035  located in the mitochondrion and which is an enzyme
 
 
 ```
@@ -538,7 +538,7 @@ SELECT distinct  ?entry   WHERE  {
 ```
 
 
-##Q036 that are oxidoreductases and bind NAD/NADP
+Q036 that are oxidoreductases and bind NAD/NADP
 
 
 ```
@@ -551,7 +551,7 @@ FILTER( ?kw in (term:KW-0520,term:KW-0521)) # NAD or NADP
 ```
 
 
-##Q037 that bind RNA but do not contain a RRM domain
+Q037 that bind RNA but do not contain a RRM domain
 
 
 ```
@@ -563,7 +563,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q038 with >=1 selenocysteine in their sequence
+Q038 with >=1 selenocysteine in their sequence
 
 
 ```
@@ -575,7 +575,7 @@ SELECT distinct ?entry WHERE  {
 ```
 
 
-##Q039 with >=1 mutagenesis in a position that correspond to an annotated active site
+Q039 with >=1 mutagenesis in a position that correspond to an annotated active site
 
 
 ```
@@ -590,7 +590,7 @@ SELECT distinct ?entry WHERE  {
 ```
 
 
-##Q040 that are enzymes and with >=1 mutagenesis that "decrease" or "abolish" activity
+Q040 that are enzymes and with >=1 mutagenesis that "decrease" or "abolish" activity
 
 
 ```
@@ -603,7 +603,7 @@ FILTER regex(?comment, '(decrease|abolish).*activity','i')
 ```
 
 
-##Q041 that are annotated with GO "F" terms prefixed by "Not"
+Q041 that are annotated with GO "F" terms prefixed by "Not"
 
 
 ```
@@ -616,7 +616,7 @@ SELECT distinct ?entry WHERE  {
 ```
 
 
-##Q042 that bind a metal and are secreted
+Q042 that bind a metal and are secreted
 
 
 ```
@@ -630,7 +630,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q043  that bind zinc and are not oxidoreductase and not involved in transcription
+Q043  that bind zinc and are not oxidoreductase and not involved in transcription
 
 
 ```
@@ -645,7 +645,7 @@ FILTER NOT EXISTS {?iso :keyword / :in term:KW-560 } # oxidoreductase
 ```
 
 
-##Q044  involved in the X pathway (from reactome for example)
+Q044  involved in the X pathway (from reactome for example)
 
 
 ```
@@ -657,7 +657,7 @@ select distinct ?entry where {
 ```
 
 
-##Q045 with >=1 active sites that is a proton acceptor
+Q045 with >=1 active sites that is a proton acceptor
 
 
 ```
@@ -669,7 +669,7 @@ SELECT distinct ?entry ?comment WHERE  {
 ```
 
 
-##Q046  with a gene alternative name which is IL27
+Q046  with a gene alternative name which is IL27
 
 
 ```
@@ -683,7 +683,7 @@ select distinct ?x ?p ?entry ?name where {
 ```
 
 
-##Q047  with a gene name CLDN*
+Q047  with a gene name CLDN*
 
 
 ```
@@ -695,7 +695,7 @@ select distinct ?entry where {
 ```
 
 
-##Q048 with >=1 variants of the type "C->" (Cys to anything else) that are linked to >=1 disease
+Q048 with >=1 variants of the type "C->" (Cys to anything else) that are linked to >=1 disease
 
 
 ```
@@ -715,7 +715,7 @@ SELECT distinct ?entry ?v  WHERE  {
 ```
 
 
-##Q049  with >=1 variants of the types "A->R" or "R->A"
+Q049  with >=1 variants of the types "A->R" or "R->A"
 
 
 ```
@@ -729,7 +729,7 @@ SELECT distinct ?entry WHERE  {
 ```
 
 
-##Q050  which are expressed in brain according to IHC but not expressed in brain according to microarray
+Q050  which are expressed in brain according to IHC but not expressed in brain according to microarray
 
 
 ```
@@ -748,7 +748,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q051  with >=1 NMR 3D structures
+Q051  with >=1 NMR 3D structures
 
 
 ```
@@ -762,7 +762,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q052 with a sequence that does not contain a lysin in the mature region
+Q052 with a sequence that does not contain a lysin in the mature region
 
 
 ```
@@ -781,7 +781,7 @@ filter(!regex (?mseq,'K'))
 ```
 
 
-##Q053   which are involved in cell adhesion according to GO with an evidence not IAE and not ISS
+Q053   which are involved in cell adhesion according to GO with an evidence not IAE and not ISS
 
 
 ```
@@ -795,7 +795,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q054   which are "Receptor binding" according to GO and Swiss-Prot keyword "Immunity"
+Q054   which are "Receptor binding" according to GO and Swiss-Prot keyword "Immunity"
 
 
 ```
@@ -809,7 +809,7 @@ select distinct ?entry where {
 ```
 
 
-##Q055 which have genes of length >=2000000 bp
+Q055 which have genes of length >=2000000 bp
 
 
 ```
@@ -822,7 +822,7 @@ order by DESC(?l)
 ```
 
 
-##Q056  which have genes with exactly 1 coding exon
+Q056  which have genes with exactly 1 coding exon
 
 
 ```
@@ -833,7 +833,7 @@ SELECT distinct ?entry  WHERE  {
 ```
 
 
-##Q057  which are located in mitochondrion with an evidence other than HPA and DKFZ-GFP
+Q057  which are located in mitochondrion with an evidence other than HPA and DKFZ-GFP
 
 
 ```
@@ -851,7 +851,7 @@ select distinct ?entry where {
 ```
 
 
-##Q058  which are located on the genome next to a protein which is involved in spermatogenesis
+Q058  which are located on the genome next to a protein which is involved in spermatogenesis
 
 
 ```
@@ -862,7 +862,7 @@ SELECT distinct ?entry  WHERE  {
 ```
 
 
-##Q059  that are glycosylated and phosphorylated on an extracellular topological domain
+Q059  that are glycosylated and phosphorylated on an extracellular topological domain
 
 
 ```
@@ -888,7 +888,7 @@ select  distinct ?entry where {
 ```
 
 
-##Q060  which have >=1 negatively charged residue (in set DE) in a transmembrane domain
+Q060  which have >=1 negatively charged residue (in set DE) in a transmembrane domain
 
 
 ```
@@ -905,7 +905,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q061  which have >=1 3D structure that spans the complete sequence of the mature protein
+Q061  which have >=1 3D structure that spans the complete sequence of the mature protein
 
 
 ```
@@ -921,7 +921,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q062 which have >=1 zinc finger of any subtype
+Q062 which have >=1 zinc finger of any subtype
 
 
 ```
@@ -933,7 +933,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q063 which have >=1 RRM RNA-binding domain and either no GO "RNA binding" or a GO "RNA binding" with evidence IEA or ISS
+Q063 which have >=1 RRM RNA-binding domain and either no GO "RNA binding" or a GO "RNA binding" with evidence IEA or ISS
 
 
 ```
@@ -962,7 +962,7 @@ SELECT distinct ?entry  WHERE {
 ```
 
 
-##Q064 which are enzymes with an incomplete EC number
+Q064 which are enzymes with an incomplete EC number
 
 
 ```
@@ -974,7 +974,7 @@ select distinct ?entry where {
 ```
 
 
-##Q065  with >1 catalytic activity
+Q065  with >1 catalytic activity
 
 
 ```
@@ -986,7 +986,7 @@ SELECT distinct ?entry    WHERE  {
 ```
 
 
-##Q066  that are cytoplasmic with alternate O-glycosylation or phosphorylation at the same positions
+Q066  that are cytoplasmic with alternate O-glycosylation or phosphorylation at the same positions
 
 
 ```
@@ -1002,7 +1002,7 @@ select  distinct ?entry where {
 ```
 
 
-##Q067 with alternative acetylation or Ubl conjugation (SUMO or Ubiquitin) at the same positions
+Q067 with alternative acetylation or Ubl conjugation (SUMO or Ubiquitin) at the same positions
 
 
 ```
@@ -1019,7 +1019,7 @@ select  distinct ?entry where {
 ```
 
 
-##Q068  with protein evidence PE=2 (transcript level)
+Q068  with protein evidence PE=2 (transcript level)
 
 
 ```
@@ -1030,7 +1030,7 @@ SELECT distinct ?entry  WHERE  {
 ```
 
 
-##Q069  phosphorylated by SRC
+Q069  phosphorylated by SRC
 
 
 ```
@@ -1046,7 +1046,7 @@ select  distinct ?entry where {
 ```
 
 
-##Q070 secreted but without a signal sequence
+Q070 secreted but without a signal sequence
 
 
 ```
@@ -1060,7 +1060,7 @@ select distinct ?entry where {
 ```
 
 
-##Q071 associated with >3 papers that are not "large scale" and not "additional"
+Q071 associated with >3 papers that are not "large scale" and not "additional"
 
 
 ```
@@ -1071,7 +1071,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q072 with a cross-reference to CCDS
+Q072 with a cross-reference to CCDS
 
 
 ```
@@ -1083,7 +1083,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q073 with no domain
+Q073 with no domain
 
 
 ```
@@ -1095,7 +1095,7 @@ select distinct ?entry where{
 ```
 
 
-##Q074 belonging to a family with at least 1 other member in human
+Q074 belonging to a family with at least 1 other member in human
 
 
 ```
@@ -1110,7 +1110,7 @@ having (count(distinct ?member) >= 2 )
 ```
 
 
-##Q075  which have been detected in the HUPO liver proteome set but not the HUPO plasma proteome set
+Q075  which have been detected in the HUPO liver proteome set but not the HUPO plasma proteome set
 
 
 ```
@@ -1125,7 +1125,7 @@ select distinct ?entry where {
 ```
 
 
-##Q076  which are located in mitochondrion and have >=1 HPA antibody and exist in >=1 proteome identification sets
+Q076  which are located in mitochondrion and have >=1 HPA antibody and exist in >=1 proteome identification sets
 
 
 ```
@@ -1142,7 +1142,7 @@ select  distinct ?entry where {
 ```
 
 
-##Q077  which are expressed in liver according to IHC data but not found in HUPO liver proteome set
+Q077  which are expressed in liver according to IHC data but not found in HUPO liver proteome set
 
 
 ```
@@ -1159,7 +1159,7 @@ select distinct ?entry where {
 ```
 
 
-##Q078  which have been identified in any proteomics set and that are secreted
+Q078  which have been identified in any proteomics set and that are secreted
 
 
 ```
@@ -1172,7 +1172,7 @@ SELECT distinct ?entry  WHERE  {
 ```
 
 
-##Q079  with >=1 3D structure and are phosphorylated
+Q079  with >=1 3D structure and are phosphorylated
 
 
 ```
@@ -1185,7 +1185,7 @@ select distinct ?entry where {
 ```
 
 
-##Q080 with >=1 3D structure of resolution <=X Angstroms
+Q080 with >=1 3D structure of resolution <=X Angstroms
 
 
 ```
@@ -1199,7 +1199,7 @@ select distinct ?entry where {
 ```
 
 
-##Q081  with >=1 3D structure and are located in the mitochondrion and are linked with a disease
+Q081  with >=1 3D structure and are located in the mitochondrion and are linked with a disease
 
 
 ```
@@ -1213,7 +1213,7 @@ SELECT distinct ?entry WHERE {
 ```
 
 
-##Q082  whose genes are on chromosome n that have "gold" variants not linked to disease (ie polymorphisms)
+Q082  whose genes are on chromosome n that have "gold" variants not linked to disease (ie polymorphisms)
 
 
 ```
@@ -1226,7 +1226,7 @@ SELECT distinct ?entry WHERE  {
 ```
 
 
-##Q083 whose genes are on chromosome n that are expressed only a single tissue/organ
+Q083 whose genes are on chromosome n that are expressed only a single tissue/organ
 
 
 ```
@@ -1244,7 +1244,7 @@ limit 50
 ```
 
 
-##Q084  whose genes are on chromosome n that are known to be glycosylated or phosphorylated or acetylated (excluding prediction)
+Q084  whose genes are on chromosome n that are known to be glycosylated or phosphorylated or acetylated (excluding prediction)
 
 
 ```
@@ -1259,7 +1259,7 @@ select distinct ?entry {
 ```
 
 
-##Q086 whose genes are located in the region 2p12 to 2p24.2
+Q086 whose genes are located in the region 2p12 to 2p24.2
 
 
 ```
@@ -1273,7 +1273,7 @@ select distinct ?entry where {
 ```
 
 
-##QTerm001 - Terms of controlled vocabularies containing some word(s)
+QTerm001 - Terms of controlled vocabularies containing some word(s)
 
 
 ```
