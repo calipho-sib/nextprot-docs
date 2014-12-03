@@ -63,5 +63,3 @@ Tel : +41 22 379 5050
 ```
 
 ----
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
