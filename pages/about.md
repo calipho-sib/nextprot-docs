@@ -1,14 +1,15 @@
 
 #About neXtProt
 
-Developed in collaboration between the SIB Swiss Institute of Bioinformatics and Geneva Bioinformatics (GeneBio) SA, neXtProt will be a comprehensive human-centric discovery platform, offering its users a seamless integration of and navigation through protein-related data.
+Developed by the SIB Swiss Institute of Bioinformatics neXtProt is a comprehensive human-centric discovery platform, offering its users a seamless integration of and navigation through protein-related data.
+
 Background
 
 In September 2008, the UniProt/Swiss-Prot group achieved the first complete manual annotation of what is believed to be the full set of human proteins (derived from about 20,000 genes). This was a major milestone as this collection of data is already quite rich in information pertinent to modern biomolecular medical research. But there remains a large gap in our knowledge of human proteins in terms of functional information as well as protein characterization (PTMs, protein/protein interactions, sub cellular locations, etc).
 
-The SIB and GeneBio have joined their efforts and expertise to bring to you neXtProt that was designed to help researchers make sense of what all these human proteins do in our bodies.
+neXtProt is designed to help researchers make sense of what all these human proteins do in our bodies.
 
-At the SIB, neXtProt is developed in the CALIPHO (Computer Analysis and Laboratory Investigation of Proteins of Human Origin) group that was created jointly with the University of Geneva. Headed by Amos Bairoch and Lydie Lane, CALIPHO is an interdisciplinary team which aims to use a variety of methodologies to help uncover the function of uncharacterized human proteins. The development of neXtProt is carried out in close collaboration with the Swiss-Prot group, which was led by Professor Bairoch for 23 years, and with GeneBio.
+At the SIB, neXtProt is developed in the CALIPHO (Computer Analysis and Laboratory Investigation of Proteins of Human Origin) group that was created jointly with the University of Geneva. Headed by Amos Bairoch and Lydie Lane, CALIPHO is an interdisciplinary team which aims to use a variety of methodologies to help uncover the function of uncharacterized human proteins. The development of neXtProt is carried out in close collaboration with the Swiss-Prot group, which was led by Professor Bairoch for 23 years.
 
 The team is currently working on three different challenges:
 
