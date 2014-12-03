@@ -1,4 +1,4 @@
-##Q001 phosphorylated and located in the cytoplasm
+Q001 phosphorylated and located in the cytoplasm
 
 
 ```
@@ -10,7 +10,7 @@ select distinct ?entry where {
 ```
 
 
-##Q002 that are located both in the cytoplasm and in the nucleus
+####Q002 that are located both in the cytoplasm and in the nucleus
 
 
 ```
@@ -21,7 +21,7 @@ select distinct ?entry where {
 ```
 
 
-##Q003 with 37 transmembrane regions or more
+###Q003 with 37 transmembrane regions or more
 
 
 ```
