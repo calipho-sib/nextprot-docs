@@ -1,1 +1,1 @@
-#neXtProt Advanced Search
+#neXtProt Advanced Search cookbook
