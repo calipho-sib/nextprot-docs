@@ -1,4 +1,4 @@
-### Need help to write your query?
+### How to write your query?
 * Select your query from the examples on the right side
 * Find terms appropriate to your query using the term finder (e.g. peroxisonme, liver)
 
