@@ -16,7 +16,7 @@ The SIB bears no responsibility for any incidental or consequential damages or d
 
 Any medical or genetic information is provided for research, educational and informational purposes only. It is not in any way intended to be used as a substitute for professional medical advice, diagnosis, treatment or care.
 
-neXtProt provides Internet links to other resources. We recommend to our users to read carefully the copyright notices and legal disclaimer of the said resources. The SIB, its employees, consultants, and agents are not responsible for the availability of these services.
+neXtProt provides Internet links to other resources. We recommend to our users to read carefully the copyright notices and legal disclaimer of the said resources. The SIB, its employees, consultants, and agents are not responsible for the availability, comprehensiveness and quality of these services.
 
 ##Personal Data
 In order to sign-up as a registered user to neXtProt, you need to complete the account registration process by providing the SIB with current, complete and accurate information as indicated in the then applicable registration form. This might include information as first and last name, e-mail address, affiliation, address, professional title, contacts, and area of focus, etc. You will also choose a password and a login name.
@@ -27,7 +27,7 @@ To make neXtProt more useful to you, our systems (which may be hosted by a third
 
 The SIB has the right to create anonymous data records from users’ personal information by excluding information (such as your name) that make the data personally identifiable to defined users. This anonymous data is used to perform statistical analyses of users' aggregate behavior to enhance neXtProt and its services and improve site navigation. The SIB reserves the right to use and disclose this anonymous information to third parties in their sole discretion.
 
-THE SIB DOES NOT CLAIM OWNERSHIP OF ANY DATA OR OTHER CONTENT YOU SUBMIT (BY, BUT NOT RESTRICTED TO, PROVIDING, POSTING, IMPORTING, UPLOADING, INPUTING, ETC.) IN THE FORM OF LABELS, COMMENTS OR FAVORITES (COLLECTIVELY CALLED CONTENT). YOU MAY CHOOSE WHO HAS THE RIGHT TO VIEW THE CONTENT YOU PROVIDE IN YOUR NEXTPROT PERSONAL SPACE. ONLY THOSE USERS CHOSEN BY YOU WILL BE GRANTED ACCESS BY NEXTPROT TO YOUR CONTENT.
+The SIB does not clain ownership of any data stored by users in their personal space (ie: queries and protein lists). The SIB will repect the privacy of the information stored in the private space of the users but reserves the right to collect anonymized statistical information on the stored queries and protein lists so as to improve its services. The SIB reserves the right to use software agents to automatically modify queries if the underlying data model is changed in view of insuring that user queries remain usable. The SIB reserves the right to disable a query if it causing technical problems to its computational infrastructure. Such disabled queries will be reported to the users.
 
 ##Security of Access
 We at the SIB are committed to protecting the security of personal data provided by our users. We use a variety of industry-standard security technologies and protocols to help protect these data from unauthorized access, use, or disclosure.
