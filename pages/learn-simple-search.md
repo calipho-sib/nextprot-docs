@@ -28,15 +28,15 @@ _Example_: Compare the results of searching for the Gene Ontology term  "Exocrin
 
 While the search in the protein section makes use of the information in all isoforms, the results are provided as “entries” and not isoforms. 
 
-Search results are shown in one of two formats:
+Search results are shown in one of two formats: **Summary** and **Details (default).**
 
-* **Summary.** The information displayed depends on the section being queried:
-* 
+In the **Summary** format, the information displayed depends on the section being queried:
 
-  ** Proteins: For each protein entry, the recommended protein name, the recommended gene name and the neXtProt entry accession code are displayed and link to the entry.
-  ** Publications: For each publication, the title and year of publication are displayed and link to the publication.
-  ** Terms: For each term, the controlled vocabulary (CV) term and its accession code are displayed and link to the term. 
-* **Details** (default). For Proteins, the _first line_ is the same as in the Summary, the _second line_ displays a snippet of text summarizing the function, the _third line_ displays numerical information concerning the protein entry (chromosomal location, number of isoforms, number of post-translational modifications (PTMs), sequence length and the number of variants), and the _last line_ summarizes whether or not there is disease, expression, mutagenesis, proteomics, 3D structure data for the entry, as well as its Proteins existence value.
+* **Proteins.** For each protein entry, the recommended protein name, the recommended gene name and the neXtProt entry accession code are displayed and link to the entry.
+* **Publications.** For each publication, the title and year of publication are displayed and link to the publication.
+* **Terms.** For each term, the controlled vocabulary (CV) term and its accession code are displayed and link to the term. 
+
+In the **Details** (default). For Proteins, the _first line_ is the same as in the Summary, the _second line_ displays a snippet of text summarizing the function, the _third line_ displays numerical information concerning the protein entry (chromosomal location, number of isoforms, number of post-translational modifications (PTMs), sequence length and the number of variants), and the _last line_ summarizes whether or not there is disease, expression, mutagenesis, proteomics, 3D structure data for the entry, as well as its Proteins existence value.
 
 ## Filtering search results
 
