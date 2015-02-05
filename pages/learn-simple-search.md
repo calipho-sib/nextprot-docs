@@ -30,14 +30,14 @@ Search results are shown in one of two formats:
   ** Terms: For each term, the controlled vocabulary (CV) term and its accession code are displayed and link to the term. 
 * Details (default). For Proteins, the _first line_ is the same as in the Summary, the _second line_ displays a snippet of text summarizing the function, the _third line_ displays numerical information concerning the protein entry (chromosomal location, number of isoforms, number of post-translational modifications (PTMs), sequence length and the number of variants), and the _last line_ summarizes whether or not there is disease, expression, mutagenesis, proteomics, 3D structure data for the entry, as well as its Proteins existence value.
 
-### Filtering search results
+## Filtering search results
 
 Filtering options depend on the section being queried:
 * Proteins: The entries displayed can be selected as having either disease, expression, mutagenesis, proteomics or 3D structure data. 
 * Publications: The publications displayed can be selected as having either "Not cited for annotation", "Cited for annotation" or "Large scale data" 
 * Terms: The terms displayed can be selected based on their source. For example, searching for [alzheimer](http://alpha-search.nextprot.org/terms/search?query=alzheimer) returns terms from GO (Gene Ontology), MeSH (Medical Subject Headings), and UniProt, among others. Searching for "alzheimer" and filtering for [NCI Thesaurus](http://alpha-search.nextprot.org/terms/search?query=alzheimer&filter=ncithesaurus) terms displays only terms found in the NCI Thesaurus which contain "alzheimer". To remove the filter, click on the "x" after the filter name.
 
-### Sorting search results
+## Sorting search results
 
 Sorting options depend on the section being queried:
 * Proteins: The entries displayed can be sorted in either _ascending or descending order_ based on either the gene name, the protein name, the protein family name, chromosomal location, accession number (ACs), protein length or the ranking score. 
