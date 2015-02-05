@@ -55,6 +55,6 @@ Filtering options depend on the section being queried:
 
 Sorting options depend on the section being queried:
 
-* **Proteins.** The entries displayed can be sorted in either _ascending or descending order_ based on either the gene name, protein name, protein family name, chromosomal location, accession number (ACs), protein length or ranking score. 
+* **Proteins.** The entries displayed can be sorted in either _ascending or descending order_ of either the gene name, protein name, protein family name, chromosomal location, accession number (ACs), protein length or ranking score. 
 * **Publications.** The publications displayed cannot be sorted. However they are displayed in descending order of year of publication. 
-* **Terms.** The terms displayed can be sorted in either _ascending or descending order_ based on either the term name or ranking score. 
+* **Terms.** The terms displayed can be sorted in either _ascending or descending order_ of either the term name or ranking score. 
