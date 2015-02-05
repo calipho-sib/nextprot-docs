@@ -2,7 +2,7 @@
 
 Our basic, Google-like full text search allows you to search the data in neXtProt. To do so, simply type in your query and hit the search button. To clear the query box, click on the "x" in the query form. Suggestions shown below the query box correspond to text found in neXtProt entries. 
 
-## Query construction
+##Query construction
 
 You can search in **three separate sections**: 
 
@@ -24,7 +24,7 @@ _Example_: ["Adrenocortical carcinoma"](http://alpha-search.nextprot.org/protein
 **By default, only Gold quality data is searched.** To find entries with both Gold and Silver data matching the query, select "Include silver".
 _Example_: Compare the results of searching for the Gene Ontology term  "Exocrine pancreas development" [GO:0031017 Gold only](http://alpha-search.nextprot.org/proteins/search?query=GO:0031017) and [GO:0031017 Include silver](http://alpha-search.nextprot.org/proteins/search?query=GO:0031017&quality=gold-and-silver).
 
-## Search results
+##Search results
 
 While the search in the protein section makes use of the information in all isoforms, the results are provided as “entries” and not isoforms. 
 
@@ -43,7 +43,7 @@ In the **Details** format, the information displayed differs only when querying 
 * _third line_ displays information concerning the protein entry: chromosomal location, number of isoforms, number of post-translational modifications (PTMs), sequence length and the number of variants.
 * _last line_ summarizes whether or not there is disease, expression, mutagenesis, proteomics, 3D structure data for the entry, as well as its Proteins existence value.
 
-## Filtering search results
+##Filtering search results
 
 Filtering options depend on the section being queried:
 
@@ -51,7 +51,7 @@ Filtering options depend on the section being queried:
 * **Publications.** The publications displayed can be selected as having either "Not cited for annotation", "Cited for annotation" or "Large scale data". 
 * **Terms.** The terms displayed can be selected based on their source. For example, searching for [alzheimer](http://alpha-search.nextprot.org/terms/search?query=alzheimer) returns terms from GO (Gene Ontology), MeSH (Medical Subject Headings), and UniProt, among others. Searching for "alzheimer" and filtering for [NCI Thesaurus](http://alpha-search.nextprot.org/terms/search?query=alzheimer&filter=ncithesaurus) terms displays only terms found in the NCI Thesaurus which contain "alzheimer". To remove the filter, click on the "x" after the filter name.
 
-## Sorting search results
+##Sorting search results
 
 Sorting options depend on the section being queried:
 
