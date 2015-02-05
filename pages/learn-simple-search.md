@@ -5,6 +5,7 @@ Our basic, Google-like full text search allows you to search the data in neXtPro
 ## Query construction
 
 You can search in **three separate sections**: 
+
 * Proteins (default). Example: [insulin](http://alpha-search.nextprot.org/proteins/search?query=insulin)
 * Publications. Example: [insulin](http://alpha-search.nextprot.org/publications/search?query=insulin)
 * Terms. Example: [insulin](http://alpha-search.nextprot.org/terms/search?query=insulin)
