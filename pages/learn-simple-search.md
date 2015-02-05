@@ -6,9 +6,9 @@ Our basic, Google-like full text search allows you to search the data in neXtPro
 
 You can search in **three separate sections**: 
 
-* Proteins (default). Example: [insulin](http://alpha-search.nextprot.org/proteins/search?query=insulin)
-* Publications. Example: [insulin](http://alpha-search.nextprot.org/publications/search?query=insulin)
-* Terms. Example: [insulin](http://alpha-search.nextprot.org/terms/search?query=insulin)
+* **Proteins (default).** Example: [insulin](http://alpha-search.nextprot.org/proteins/search?query=insulin)
+* **Publications.** Example: [insulin](http://alpha-search.nextprot.org/publications/search?query=insulin)
+* **Terms.** Example: [insulin](http://alpha-search.nextprot.org/terms/search?query=insulin)
 
 To switch between sections, simply toggle between "Proteins", "Publications" and "Terms". Note that unless you clear the query box, your last query is kept in the search field. 
 
@@ -31,6 +31,8 @@ While the search in the protein section makes use of the information in all isof
 Search results are shown in one of two formats:
 
 * **Summary.** The information displayed depends on the section being queried:
+* 
+
   ** Proteins: For each protein entry, the recommended protein name, the recommended gene name and the neXtProt entry accession code are displayed and link to the entry.
   ** Publications: For each publication, the title and year of publication are displayed and link to the publication.
   ** Terms: For each term, the controlled vocabulary (CV) term and its accession code are displayed and link to the term. 
@@ -40,14 +42,14 @@ Search results are shown in one of two formats:
 
 Filtering options depend on the section being queried:
 
-* Proteins: The entries displayed can be selected as having either disease, expression, mutagenesis, proteomics or 3D structure data. 
-* Publications: The publications displayed can be selected as having either "Not cited for annotation", "Cited for annotation" or "Large scale data" 
-* Terms: The terms displayed can be selected based on their source. For example, searching for [alzheimer](http://alpha-search.nextprot.org/terms/search?query=alzheimer) returns terms from GO (Gene Ontology), MeSH (Medical Subject Headings), and UniProt, among others. Searching for "alzheimer" and filtering for [NCI Thesaurus](http://alpha-search.nextprot.org/terms/search?query=alzheimer&filter=ncithesaurus) terms displays only terms found in the NCI Thesaurus which contain "alzheimer". To remove the filter, click on the "x" after the filter name.
+* **Proteins.** The entries displayed can be selected as having either disease, expression, mutagenesis, proteomics or 3D structure data. 
+* **Publications.** The publications displayed can be selected as having either "Not cited for annotation", "Cited for annotation" or "Large scale data" 
+* **Terms.** The terms displayed can be selected based on their source. For example, searching for [alzheimer](http://alpha-search.nextprot.org/terms/search?query=alzheimer) returns terms from GO (Gene Ontology), MeSH (Medical Subject Headings), and UniProt, among others. Searching for "alzheimer" and filtering for [NCI Thesaurus](http://alpha-search.nextprot.org/terms/search?query=alzheimer&filter=ncithesaurus) terms displays only terms found in the NCI Thesaurus which contain "alzheimer". To remove the filter, click on the "x" after the filter name.
 
 ## Sorting search results
 
 Sorting options depend on the section being queried:
 
-* Proteins: The entries displayed can be sorted in either _ascending or descending order_ based on either the gene name, protein name, protein family name, chromosomal location, accession number (ACs), protein length or ranking score. 
-* Publications: The publications displayed cannot be sorted. However they are displayed in descending order of year of publication. 
-* Terms: The terms displayed can be sorted in either _ascending or descending order_ based on either the term name or ranking score. 
+* **Proteins.** The entries displayed can be sorted in either _ascending or descending order_ based on either the gene name, protein name, protein family name, chromosomal location, accession number (ACs), protein length or ranking score. 
+* **Publications.** The publications displayed cannot be sorted. However they are displayed in descending order of year of publication. 
+* **Terms.** The terms displayed can be sorted in either _ascending or descending order_ based on either the term name or ranking score. 
