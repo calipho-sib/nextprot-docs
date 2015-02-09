@@ -1,4 +1,4 @@
-#neXtProt simple search cookbook
+#neXtProt simple search
 
 Our basic, Google-like full text search allows you to search the data in neXtProt. To do so, simply type in your query and hit the search button. To clear the query box, click on the "x" in the query form. Suggestions shown below the query box correspond to text found in neXtProt entries. 
 
