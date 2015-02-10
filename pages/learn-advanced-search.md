@@ -2,7 +2,7 @@
 
 Select the **Advanced** option below the query box to use the SPARQL Protocol and RDF Query Language (SPARQL) to access all the neXtProt protein entry data.
 
-(Data model)[http://snorql.nextprot.org/page]
+Select _SNORQL_ from the Resources menu to view the underlying **Data model**.
 
 ##Query list
 
