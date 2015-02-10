@@ -1,1 +1,1 @@
-##Hello this is the FAQ
+##Frequently Asked Questions
