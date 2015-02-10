@@ -10,7 +10,7 @@ To view and manage your protein lists, you must be logged in. Log in and select 
 There are four ways to create a list:
 
 1. Select "Create New List" and **enter a list** of neXtProt accession numbers (start with NX_). 
-2. Select "Create New List" and **upload a file** with a list of neXtProt accession numbers.
+2. Select "Create New List" and **upload a file** with a list of either neXtProt or UniProtKB accession numbers.
 3. Save the contents of the cart as a list (see below).
 4. Combining lists (see Managing lists below).
 
