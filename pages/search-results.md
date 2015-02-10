@@ -23,7 +23,7 @@ Filtering options depend on the section being queried:
 
 * **Proteins.** The entries displayed can be selected as having either disease, expression, mutagenesis, proteomics or 3D structure data. 
 * **Publications.** The publications displayed can be selected as having either "Not cited for annotation", "Cited for annotation" or "Large scale data". 
-* **Terms.** The terms displayed can be selected based on their source. For example, searching for [alzheimer](http://alpha-search.nextprot.org/terms/search?query=alzheimer) returns terms from GO (Gene Ontology), MeSH (Medical Subject Headings), and UniProt, among others. Searching for "alzheimer" and filtering for [NCI Thesaurus](http://alpha-search.nextprot.org/terms/search?query=alzheimer&filter=ncithesaurus) terms displays only terms found in the NCI Thesaurus which contain "alzheimer". To remove the filter, click on the "x" after the filter name.
+* **Terms.** The terms displayed can be selected based on their source. _Example_ Searching for [alzheimer](http://alpha-search.nextprot.org/terms/search?query=alzheimer) returns terms from GO (Gene Ontology), MeSH (Medical Subject Headings), and UniProt, among others. Searching for "alzheimer" and filtering for [NCI Thesaurus](http://alpha-search.nextprot.org/terms/search?query=alzheimer&filter=ncithesaurus) terms displays only terms found in the NCI Thesaurus which contain "alzheimer". To remove the filter, click on the "x" after the filter name.
 
 #Sorting search results
 
