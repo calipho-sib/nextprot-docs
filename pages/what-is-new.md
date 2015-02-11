@@ -1,6 +1,6 @@
 #What's new?
 
-###February 14, 2015
+**February 14, 2015**
 
 1. The graphical user interface (GUI) has been completely revamped.
 2. This new version runs on the latest data release (neXtProt release 2015-01-01).
