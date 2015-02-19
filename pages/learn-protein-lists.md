@@ -16,7 +16,7 @@ There are four ways to create a list:
 
 ##Save the contents of the cart as a list
 
-1. Do a [simple|http://alpha-search.nextprot.org] or an [advanced|http://alpha-search.nextprot.org/proteins/search?mode=advanced] search to retrieve a number of protein entries.
+1. Do a [simple](/) or an [advanced]|(proteins/search?mode=advanced) search to retrieve a number of protein entries.
 2. Select protein entries by clicking on the **Select All** button or **manually** selecting entries by clicking on the box preceding the entry name (a check mark indicates the entry is selected). You can also **Unselect All** entries or manually deselect entries. Selected entries are added to the cart. Note that if you run a second query, entries marked as selected are already in the cart. You can select further entries to be added to the content of the cart. The number of entries in the cart is shown and you can **View Cart**, **Empty Cart** or **Save Cart as List** using the drop-down menu next to the cart. 
 3. If you are not already logged in, log in to **Save Cart as List**. You will be asked to provide a **Name** and **Description** for your list.
 
