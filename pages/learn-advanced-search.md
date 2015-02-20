@@ -2,7 +2,10 @@
 
 Select the **Advanced** option below the query box to use the SPARQL Protocol and RDF Query Language (SPARQL) to access all the neXtProt protein entry data.
 
-Select _Snorql_ from the Resources menu to view the underlying **Data model**.
+The following diagram shows an overview of the neXtProt data model:
+<img width="100%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/rdf-model.png"/>
+
+A full list of resources and predicates can be found in the [Snorql resource](http://snorql.nextprot.org/page/entity/Entry) to view the details of the underlying **Data model**.
 
 ##Query list
 
@@ -26,6 +29,3 @@ To close the query list window, simply click on the "x" on the top right of the 
 2. Go to the query list window and click on the **New** button at the bottom right of the window.
 3. Enter a **Name** and **Description** for the query, as well as the SPARQL query
 4. Click **Save**. Saved queries are displayed in the query list window and in [My Queries](user/queries).
-
-##RDF Model Diagram
-<img width="100%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/rdf-model.png"/>
