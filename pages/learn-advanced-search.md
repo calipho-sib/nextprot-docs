@@ -26,3 +26,6 @@ To close the query list window, simply click on the "x" on the top right of the 
 2. Go to the query list window and click on the **New** button at the bottom right of the window.
 3. Enter a **Name** and **Description** for the query, as well as the SPARQL query
 4. Click **Save**. Saved queries are displayed in the query list window and in [My Queries](user/queries).
+
+##RDF Model Diagram
+![nextprot rdf data model](assets/rdf-model.png "Rdf Data Model")
