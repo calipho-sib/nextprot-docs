@@ -28,4 +28,4 @@ To close the query list window, simply click on the "x" on the top right of the 
 4. Click **Save**. Saved queries are displayed in the query list window and in [My Queries](user/queries).
 
 ##RDF Model Diagram
-<img width="90%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/rdf-model.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/rdf-model.png"/>
