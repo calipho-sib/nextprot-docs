@@ -1,4 +1,4 @@
-The advent of robust open-source search engines based on RDF and SPARQL query langage, such as virtuoso, allowed us to design this new efficient search system, enabling fine-grained queries, and incorporating many features and constraints not available in classical (lucene-based) query systems.
+The advent of robust open-source search engines based on RDF and SPARQL query langage, such as virtuoso, allowed us to design this new efficient search system, enabling fine-grained semantically-oriented queries, and incorporating many features and constraints not available in classical (lucene-based) query systems.
 
 With SPARQL the subjects and objects matched with a constraint become available variables ready to match the next constraints, allowing chaining and implementing the OR, AND, NOT of classical searches.
 
@@ -13,5 +13,10 @@ Potential PTM switch or cross-talk: proteins with distinct PTMs at adjacent site
 
 Indirections and inference:
 The cascading of graph operations and filters allow indirect requests unreachable with other search engines
-eg: proteins P that interact with substrates of kinase K, or proteins P that interact with a member of family F
+eg: proteins P that interact with substrates of kinase K, or proteins P that interact with a member of family F.
+or proteins P that interact with at least x proteins containing a domain D.
+
+The objects of queries and the returned results can be of any type, entries, isoforms, sites, domains, diseases, tissues, peptides, locations...
+We are in the process of buiding a suite of javascript-based widgets allowing appropriated grephical repersentations
+for the query results.
 
