@@ -10,5 +10,7 @@ The current version of the XML is not fully mature, in particular:
 
  - There is currently no XSD
  - The section on protein and gene names is not yet finalized and will undergo a number of changes
- - The information on the gene location, exons and transcripts are not exported
+ - The information on the gene chromosomal location, length, exons and transcripts are not exported
  - The ChEMBL and IPI identifiers are not exported
+ 
+Please let us know of any other issues that you may encounter while using the next neXtProt search tool
