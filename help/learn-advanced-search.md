@@ -19,9 +19,9 @@ To close the query list window, simply click on the "x" on the top right of the 
 
 ##Managing queries
 
-* **Viewing queries** In the query list window, click on the description of a query to view it, including the comments, explanations and the tags associated with it. Simply click on **Run this query!** to view the results. To return to the query list, click on the **query list** icon at the top left of the window.
-* **Editing queries** Queries must be in the search box in order to be edited. In the query list window or while viewing a query, click the **put the query in the search box** icon. 
-* **Running queries** Once your query is in the search box, click on Search. As with the simple search, the search results can be sorted and filtered.
+* **Viewing queries** In the query list window, click on the **eye** icon to view a query, including the comments, explanations and the tags associated with it. Click again on the eye icon to hide the query.
+* **Editing queries** Queries must be in the search box in order to be edited.
+* **Running queries** In the query list window or while viewing a query, click on the **link** to run the query. If you are entering your own query in the search box, click on Search. As with the simple search, the search results can be sorted and filtered.
 
 ##Saving queries
 
