@@ -7,8 +7,8 @@ Our basic, Google-like full text search allows you to search the data in neXtPro
 You can search in **three separate sections**: 
 
 * **Proteins (default).** Example: [insulin](proteins/search?query=insulin)
-* **Publications.** Example: [insulin](publications/search?query=insulin)
-* **Terms.** Example: [insulin](terms/search?query=insulin)
+* **Publications.** Example: [doolittle rf](publications/search?query=doolittle%20rf)
+* **Terms.** Example: [hypothalamus](terms/search?query=hypothalamus)
 
 To switch between sections, simply toggle between "Proteins", "Publications" and "Terms". Note that unless you clear the query box, your last query is kept in the search field. 
 
@@ -21,5 +21,5 @@ _Example_: Searching for [Adrenocortical carcinoma](proteins/search?query=Adreno
 Searching for multiple terms enclosed in **quotes** returns all entries containing both terms in the exact order (exact term string).
 _Example_: ["Adrenocortical carcinoma"](proteins/search?query=%22Adrenocortical%20carcinoma%22)
 
-**By default, only Gold quality data is searched.** To find entries with both Gold and Silver data matching the query, select "Include silver".
+**By default, only Gold quality data is searched.** To find entries with both Gold and Silver data matching the query, select "Include silver" in the drop down menu in front of the search box. Plase note that the concept of Gold/Silver quality data only applies to the search in "Proteins".
 _Example_: Compare the results of searching for the Gene Ontology term  "Exocrine pancreas development" [GO:0031017 Gold only](proteins/search?query=GO:0031017) and [GO:0031017 Include silver](proteins/search?query=GO:0031017&quality=gold-and-silver).
