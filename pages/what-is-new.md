@@ -1,5 +1,10 @@
 #What's new?
 
+**May 12, 2015**
+
+1. The latest data release (neXtProt release 2015-04-28) is implemented in this new version.
+2. The issues with the simple search autocomplete have been fixed. The autocomplete no longer concatenates words or acts weird if the query input is in upper case. In addition, the first option in the autocomplete dropdown is no longer selected by default when entering Return or clicking on the Search button.
+
 **February 14, 2015**
 
 1. The graphical user interface (GUI) has been completely revamped.

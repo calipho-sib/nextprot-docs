@@ -4,7 +4,6 @@ This new neXtProt search site is a work in progress. We are aware of the followi
 
  - You currently can not download sequences in FASTA or PEFF format
  - In the simple search you can't search for a publication DOI or an isoform alternative name
- - The simple search autocomplete is often concatenating words and is acting weird if the query input is in upper case
  - You can create a list containing invalid accession numbers
  - Lists with UniProt ACs cannot be viewed or combined with other lists
  
