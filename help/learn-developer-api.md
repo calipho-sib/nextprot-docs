@@ -10,7 +10,6 @@ Note that you can use the API or the SPARQL endpoint directly with any other lan
 * [Example 1 - Protein Secondary Structure](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
 * [Example 2 - Protein Secondary Structure with another entry passed as url parameter ](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q96EY8)
 
-NX_P06213
 ##SPARQL
 
 * [Example 1 - Protein Existence](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f)
