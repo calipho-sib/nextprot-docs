@@ -4,7 +4,7 @@ The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.n
 
 Here you can find some simple examples on how to use the javascript library. 
 
-Note that you can use the API directly with any other language.
+Note that you can use the API or the SPARQL endpoint directly with any other language.
 
 ##REST API
 * [Example 1 - Protein Secondary Structure](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
