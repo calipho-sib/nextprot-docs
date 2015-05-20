@@ -14,6 +14,7 @@ NX_P06213
 
 
 ##Viewers
-More complex viewers can be seen in here:
+More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository:
 
-https://github.com/calipho-sib/nextprot-viewers
+* [Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/annot-stats/app/assets/index.html)
+* [Peptide Viewer](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/annot-stats/app/assets/index.html)
