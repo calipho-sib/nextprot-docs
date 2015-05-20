@@ -1,6 +1,6 @@
 #Developer API
 
-The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) are wrapped by the [neXtProt javascript library](https://github.com/calipho-sib/nextprot-js). Here you can find some example on how to use the javascript library. You can also use the API directly in any other language.
+The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) are wrapped by the [neXtProt javascript library](https://github.com/calipho-sib/nextprot-js). Here you can find some simple examples on how to use the javascript library. Note that you can use the API directly with any other language.
 
 ##Learn how to use the  javascript library with the REST API with the following examples:
 * [Example 1 - Protein Secondary Structure](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
