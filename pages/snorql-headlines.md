@@ -11,7 +11,7 @@
 * Read more documentation about the SPARQL language: => [SPARQL 1.1 Query Language](http://www.w3.org/TR/sparql11-query)
 
 ### Check how to make your sparql visual:
-* [Example 1](http://tinyurl.com/nextprot-js1)
+* [Example 1 - Protein Existence](http://tinyurl.com/nextprot-js1)
 
 
 Don't hesitate to [contact us](http://www.nextprot.org/contact/us) for any question, suggestions, etc.
