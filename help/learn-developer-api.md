@@ -16,7 +16,7 @@ Note that you can use the API or the SPARQL endpoint directly with any other lan
 * [Example 2 - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
 
-##neXtProt viewers (soon integrated in neXtProt)
+##neXtProt viewers (soon integrated)
 More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository:
 
 * [Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/annot-stats/app/assets/index.html)
