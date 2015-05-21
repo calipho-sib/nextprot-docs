@@ -2,7 +2,16 @@
 
 The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) can be freely used by anyone (we just ask you to reference us). 
 
-For the ease of development we have built a javascript [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. 
+You can get the content of an entry in different format by using the api like this:
+```
+https://api.nextprot.org/entry/NX_P01308.xml //Gets the entry in xml
+https://api.nextprot.org/entry/NX_P01308/overview.xml //Gets only the overview
+https://api.nextprot.org/entry/NX_P01308/secondary-structure.xml //Gets only the secondary structure (helix, turn, beta-strand)
+```
+
+For web development, you can ask for the same urls finishing in JSON. (we will provide other formats soon)
+
+For the ease of development in javascript we have built [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. 
 
 With this library getting the overview of a protein is as simple as: 
 ```javascript
@@ -17,8 +26,6 @@ With this library getting the overview of a protein is as simple as:
   });  
   
 ```
-
-Note that you can use the API or the SPARQL endpoint directly with any other language.
 
 ##REST API viewers examples
 * [Example 1 - Protein Secondary Structure](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
