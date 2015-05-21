@@ -40,7 +40,9 @@ nx.executeSparql(sparqlQuery).then(function (result){
     console.log(seriesData);
 });
 ```
+![assets/pie-protein-chart-existence.png]
 
+See it in action here (supports: chrome, firefox or safari): (http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f)
 
 ##REST API viewers examples
 * [Example 1 - Protein Secondary Structure](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
