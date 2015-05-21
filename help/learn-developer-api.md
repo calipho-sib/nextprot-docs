@@ -44,7 +44,8 @@ nx.executeSparql(sparqlQuery).then(function (result){
 
 See it in action in [bl.ocks.org](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f) or edit it in [jsfiddle](http://jsfiddle.net/ddtxra/x3umjp67/) (supports: chrome, firefox or safari).
 
-Note that the javascript library takes insulin as default entry, but if you pass the entry as a parameter `nxentry` it gets the one you asked for. Check for instance these 2 urls [](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q96EY8) and [pirin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_O00625)
+Note that the javascript library takes insulin as default entry, but if you pass the entry as a parameter `nxentry` it gets the one you asked for. Check for instance these 2 urls [pirin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_O00625) and 
+[titin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q8WZ42)
 
 ### Other viewers 
 
