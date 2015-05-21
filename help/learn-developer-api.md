@@ -7,18 +7,15 @@ In this page you can find simple examples on how to use the [neXtProt javascript
 With this library getting the overview of a protein is as simple as: 
 ```javascript
 
-  <script src="https://cdn.rawgit.com/calipho-sib/nextprot-js/v0.0.23/dist/nextprot.min.js"></script>
-
-  var applicationInfo = "demo app to get the overview";
-  var clientInfo = "calipho group at SIB";
+  var applicationInfo = "demo app to get the overview"; //provide us with some information about what your app is doing
+  var clientInfo = "calipho group at SIB"; //provide us with some information about who you are
   var nx = new Nextprot.Client(applicationInfo, clientInfo);
-      
-  nx.getProteinOverview(function (overview){
-    console.log(overview);
-  });
-  
-  </script>
 
+  nx.getProteinOverview('NX_P01308').then(
+    function(overview){
+    console.log(overview);
+  });  
+  
 ```
 
 Note that you can use the API or the SPARQL endpoint directly with any other language.
