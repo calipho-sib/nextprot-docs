@@ -9,7 +9,7 @@ https://api.nextprot.org/entry/NX_P01308/overview.xml //Gets only the overview
 https://api.nextprot.org/entry/NX_P01308/secondary-structure.xml //Gets only the secondary structure (helix, turn, beta-strand)
 ```
 
-For web development, you can ask for the same urls finishing in JSON. (we will provide other formats soon)
+For web development, you can ask for the same urls finishing with json extension instead of xml. (we will provide other formats soon)
 
 For the ease of development in javascript we have built [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. 
 
@@ -26,6 +26,22 @@ With this library getting the overview of a protein is as simple as:
   });  
   
 ```
+
+or for executing a sparql, simply use nx.executeSparql:
+
+```javascript
+var sparqlQuery ='SELECT ?pe count(?entry) as ?cnt WHERE {?entry :existence ?pe} group by ?pe';
+      //execute sparql and retrieve result
+      nx.executeSparql(sparqlQuery).then(function (result){
+        var seriesData = [];
+        result.results.bindings.map(function (data) {
+          seriesData.push([data.pe.value, parseInt(data.cnt.value)]); //gets number of entries
+        });
+      }
+      console.log(seriesData);
+```
+
+
 
 ##REST API viewers examples
 * [Example 1 - Protein Secondary Structure](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
