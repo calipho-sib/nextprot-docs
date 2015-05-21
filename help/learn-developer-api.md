@@ -47,7 +47,7 @@ See it in live in [bl.ocks.org](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f) 
 Note that the javascript library takes insulin as default entry, but if you pass the entry as a parameter `nxentry` it gets the entry you asked for. Check for instance these 2 urls [pirin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_O00625) and 
 [titin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q8WZ42)
 
-### Other viewers 
+## Other viewers 
 
 * [sparql - Protein Existence](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f)
 * [sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
@@ -68,7 +68,7 @@ If you make a viewer that you are proud of and want to make it publicly availabl
 
 Happy programming! 
 
-### neXtProt viewers (soon integrated)
+## neXtProt viewers (soon integrated)
 More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository:
 
 * [Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/annot-stats/app/assets/index.html)
