@@ -64,11 +64,11 @@ If you are proud of your viewer and want to share it, simply [let us know](mailt
 
 Happy programming! 
 
-## neXtProt viewers (soon integrated)
+## Other viewers
 
 * [sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
-More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository:
+More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository (will be soon integrated):
 
 * [Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/annot-stats/app/assets/index.html)
 * [Peptide Viewer with entry passed as parameter](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/peptide-viewer/app/assets/index.html?nxentry=NX_P46976)
