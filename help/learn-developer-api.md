@@ -63,8 +63,9 @@ https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40
 
 Isn't that awsome :) ?
 
+If you make a viewer that you are proud of and want to make it publicly available, simply [let us know](mailto:support@nextprot.org).
+
 Happy programming! 
-Note that if you make a viewer that you are proud of and want to make it publicly available, simply [let us know](mailto:support@nextprot.org).
 
 ### neXtProt viewers (soon integrated)
 More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository:
