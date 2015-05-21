@@ -2,7 +2,7 @@
 
 The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) can be freely used by anyone. 
 
-In this page you can find simple examples on how to use the [neXtProt javascript library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint.
+We have built a javascript [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. 
 
 With this library getting the overview of a protein is as simple as: 
 ```javascript
