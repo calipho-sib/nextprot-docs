@@ -20,8 +20,7 @@ With this library getting the overview of a protein is as simple as:
   var clientInfo = "calipho group at SIB"; //provide us with some information about who you are
   var nx = new Nextprot.Client(applicationInfo, clientInfo);
 
-  nx.getProteinOverview('NX_P01308').then(
-    function(overview){
+  nx.getProteinOverview('NX_P01308').then(function(overview){
     console.log(overview);
   });  
   
