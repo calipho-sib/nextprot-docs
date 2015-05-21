@@ -1,6 +1,6 @@
 #Developer API
 
-The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) can be freely used by anyone. 
+The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) can be freely used by anyone (we just ask you to reference us). 
 
 We have built a javascript [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. 
 
