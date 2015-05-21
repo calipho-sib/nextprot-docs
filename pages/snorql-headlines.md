@@ -10,7 +10,7 @@
 
 * Read more documentation about the SPARQL language: => [SPARQL 1.1 Query Language](http://www.w3.org/TR/sparql11-query)
 
-### Check how to make your sparql visual:
+### Visualize your SPARQL queries:
 * [Example 1 - Protein Existence](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f)
 * [Example 2 - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
