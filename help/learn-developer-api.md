@@ -40,7 +40,7 @@ nx.executeSparql(sparqlQuery).then(function (result){
     console.log(seriesData);
 });
 ```
-![assets/pie-protein-chart-existence.png]
+<img width="75%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/>
 
 See it in action here (supports: chrome, firefox or safari): (http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f)
 
