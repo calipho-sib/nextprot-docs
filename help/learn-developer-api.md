@@ -42,8 +42,9 @@ nx.executeSparql(sparqlQuery).then(function (result){
 ```
 <img width="50%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/>
 
-See it in action here (supports: chrome, firefox or safari): http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f
-Or edit it here: http://jsfiddle.net/ddtxra/x3umjp67/
+See it in action in bl.ocks.org (supports: chrome, firefox or safari): http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f
+
+Or edit it live in  jsfiddle : http://jsfiddle.net/ddtxra/x3umjp67/
 
 ###Other viewersREST API viewers examples
 * [Example 1 - Protein Secondary Structure](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
@@ -54,9 +55,17 @@ Or edit it here: http://jsfiddle.net/ddtxra/x3umjp67/
 * [Example 1 - Protein Existence](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f)
 * [Example 2 - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
-
 ###neXtProt viewers (soon integrated)
 More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository:
 
 * [Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/annot-stats/app/assets/index.html)
 * [Peptide Viewer with entry passed as parameter](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/peptide-viewer/app/assets/index.html?nxentry=NX_P46976)
+
+Can't wait to code now :) ?
+
+If you want us to integrate your viewers in our platform, simply request us.
+
+For the moment you can simply try giving in the url the name of your [gist](https://gist.github.com/).
+https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40
+
+Happy programming!
