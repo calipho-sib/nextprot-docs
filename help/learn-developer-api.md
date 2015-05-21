@@ -53,7 +53,7 @@ Note that the javascript library takes insulin as default entry, but if you pass
 * [sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
 #Develop and contribute
-Can't wait to code now :) ? But wait, there is more!
+Can't wait to code now :) ? But there is more!
 
 If you make a viewer you can directly try it on our platform putting it on [gist](https://gist.github.com/) using the following url:
 
@@ -64,7 +64,7 @@ https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40
 
 Isn't that awsome :) ?
 
-If you make a viewer that you are proud of and want to make it publicly available, simply [let us know](mailto:support@nextprot.org).
+If you are proud of your viewer and want to share it, simply [let us know](mailto:support@nextprot.org). 
 
 Happy programming! 
 
