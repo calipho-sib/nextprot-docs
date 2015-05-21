@@ -52,7 +52,7 @@ See it in action in [bl.ocks.org](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f
 * [sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
 #Develop and contribute
-Can't wait to code now :) ?
+Can't wait to code now :) ? But wait, there is more!
 
 If you make a viewer you can directly try it on our platform putting it on [gist](https://gist.github.com/) using the following url:
 
@@ -61,7 +61,10 @@ https://search.nextprot.org/entry/{entryAccession}/viewer/{githubUser}/{gistId}
 for example:
 https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40
 
-Happy programming!
+Isn't that awsome :) ?
+
+Happy programming! 
+Note that if you make a viewer that you are proud of and want to make it publicly available, simply [let us know](mailto:support@nextprot.org).
 
 ### neXtProt viewers (soon integrated)
 More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository:
