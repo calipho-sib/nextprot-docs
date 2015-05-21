@@ -31,16 +31,15 @@ or for executing a sparql, simply use nx.executeSparql:
 
 ```javascript
 var sparqlQuery ='SELECT ?pe count(?entry) as ?cnt WHERE {?entry :existence ?pe} group by ?pe';
-      //execute sparql and retrieve result
-      nx.executeSparql(sparqlQuery).then(function (result){
-        var seriesData = [];
-        result.results.bindings.map(function (data) {
-          seriesData.push([data.pe.value, parseInt(data.cnt.value)]); //gets number of entries
-        });
-      }
-      console.log(seriesData);
+//execute sparql and retrieve result
+nx.executeSparql(sparqlQuery).then(function (result){
+  var seriesData = [];
+    result.results.bindings.map(function (data) {
+      seriesData.push([data.pe.value, parseInt(data.cnt.value)]); //gets number of entries
+    });
+    console.log(seriesData);
+});
 ```
-
 
 
 ##REST API viewers examples
