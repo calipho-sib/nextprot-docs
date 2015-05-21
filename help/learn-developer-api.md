@@ -46,26 +46,28 @@ See it in action in bl.ocks.org (supports: chrome, firefox or safari): http://bl
 
 Or edit it live in  jsfiddle : http://jsfiddle.net/ddtxra/x3umjp67/
 
-###Other viewersREST API viewers examples
-* [Example 1 - Protein Secondary Structure](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
-* [Example 2 - Protein Secondary Structure with another entry passed as url parameter ](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q96EY8)
+### Other viewers 
 
-###SPARQL viewers examples
+* [api - Protein Secondary Structure](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
+* [api - Protein Secondary Structure with another entry passed as url parameter ](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q96EY8)
+* [sparql - Protein Existence](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f)
+* [sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
-* [Example 1 - Protein Existence](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f)
-* [Example 2 - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
+#Develop and contribute
+Can't wait to code now :) ?
 
-###neXtProt viewers (soon integrated)
+If you make a viewer you can directly try it on our platform putting it on [gist](https://gist.github.com/) using the following url:
+
+https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40
+
+which corresponds to gist:
+https://gist.github.com/ddtxra/75545ffaa0c6db260a40
+http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40
+
+Happy programming!
+
+### neXtProt viewers (soon integrated)
 More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository:
 
 * [Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/annot-stats/app/assets/index.html)
 * [Peptide Viewer with entry passed as parameter](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/peptide-viewer/app/assets/index.html?nxentry=NX_P46976)
-
-Can't wait to code now :) ?
-
-If you want us to integrate your viewers in our platform, simply request us.
-
-For the moment you can simply try giving in the url the name of your [gist](https://gist.github.com/).
-https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40
-
-Happy programming!
