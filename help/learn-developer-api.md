@@ -1,8 +1,25 @@
 #Developer API
 
-The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) are wrapped by the  
+The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) can be freely used by anyone. 
 
-In this page you can find simple examples on how to use the [neXtProt javascript library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. 
+In this page you can find simple examples on how to use the [neXtProt javascript library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint.
+
+With this library getting the overview of a protein is as simple as: 
+```javascript
+
+  <script src="https://cdn.rawgit.com/calipho-sib/nextprot-js/v0.0.23/dist/nextprot.min.js"></script>
+
+  var applicationInfo = "demo app to get the overview";
+  var clientInfo = "calipho group at SIB";
+  var nx = new Nextprot.Client(applicationInfo, clientInfo);
+      
+  nx.getProteinOverview(function (overview){
+    console.log(overview);
+  });
+  
+  </script>
+
+```
 
 Note that you can use the API or the SPARQL endpoint directly with any other language.
 
