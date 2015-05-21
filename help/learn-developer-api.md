@@ -42,14 +42,12 @@ nx.executeSparql(sparqlQuery).then(function (result){
 ```
 <img width="50%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/>
 
-See it in action in bl.ocks.org (supports: chrome, firefox or safari): http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f
-
-Or edit it live in  jsfiddle : http://jsfiddle.net/ddtxra/x3umjp67/
+See it in action in [bl.ocks.org](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f) or edit it in [jsfiddle](http://jsfiddle.net/ddtxra/x3umjp67/) (supports: chrome, firefox or safari).
 
 ### Other viewers 
 
-* [api - Protein Secondary Structure](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
-* [api - Protein Secondary Structure with another entry passed as url parameter ](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q96EY8)
+* http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40 (api - Protein Secondary Structure)
+* Same viewer with entry passed as parameter: http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q96EY8
 * [sparql - Protein Existence](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f)
 * [sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
@@ -58,11 +56,10 @@ Can't wait to code now :) ?
 
 If you make a viewer you can directly try it on our platform putting it on [gist](https://gist.github.com/) using the following url:
 
-https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40
+https://search.nextprot.org/entry/{entryAccession}/viewer/{githubUser}/{gistId}
 
-which corresponds to gist:
-https://gist.github.com/ddtxra/75545ffaa0c6db260a40
-http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40
+for example:
+https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40
 
 Happy programming!
 
