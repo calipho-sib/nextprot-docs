@@ -5,7 +5,7 @@ Select the **Advanced** option below the query box to use the SPARQL Protocol an
 The following diagram shows an overview of the neXtProt data model:
 <img width="75%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/rdf-model.png"/>
 
-A full list of resources and predicates can be found in the [Snorql resource](http://snorql.nextprot.org/page/entity/Entry) to view the details of the underlying **Data model**.
+A full list of resources and predicates can be found in the [Snorql resource](http://snorql.nextprot.org/help/doc/introduction) to view the details of the underlying **Data model**.
 
 ##Query list
 
