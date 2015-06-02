@@ -22,7 +22,6 @@ For the ease of development in javascript we have built a [library](https://gith
 
 ```
 
-
 ###API example 
 
 Getting the overview of a protein is as simple as: (see it in live in this [jsfiddle](http://jsfiddle.net/ddtxra/Lqkmuzm3/)) 
@@ -88,7 +87,6 @@ More complex viewers can be seen in our [github](https://github.com/calipho-sib/
 
 * [Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/annot-stats/app/assets/index.html)
 * [Peptide Viewer with entry passed as parameter](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/peptide-viewer/app/assets/index.html?nxentry=NX_P46976)
-* 
 
 
 Note that the javascript library takes insulin as default entry, but if you pass the entry as a parameter `nxentry` it gets the entry you asked for. Check for instance these 2 urls [pirin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_O00625) and 
