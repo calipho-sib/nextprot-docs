@@ -64,21 +64,18 @@ See it in live in [bl.ocks.org](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f) 
 
 
 #Develop and contribute
-Can't wait to code now :) ? But there is more!
+Can't wait to code now :) ? But wait there is more!
 
 If you make a viewer you can directly try it on our platform putting it on [gist](https://gist.github.com/) using the following url:
 
 https://search.nextprot.org/entry/{entryAccession}/viewer/{githubUser}/{gistId}
 
 for example:
-[https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40] corresponds to this gist: [http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40]
+[https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40](https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40) corresponds to this gist: [http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
 
 Isn't that awesome :) ?
 
-If you developed a viewer and would like to share it, simply [let us know](mailto:support@nextprot.org). 
-
-Note that the javascript library takes insulin as default entry, but if you pass the entry as a parameter `nxentry` it gets the entry you asked for. Check for instance these 2 urls [pirin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_O00625) and 
-[titin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q8WZ42)
+If you developed a viewer and would like to share it, simply [let us know](mailto:support@nextprot.org) and we can add it to the community viewers. 
 
 Happy programming! 
 
@@ -91,3 +88,9 @@ More complex viewers can be seen in our [github](https://github.com/calipho-sib/
 
 * [Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/annot-stats/app/assets/index.html)
 * [Peptide Viewer with entry passed as parameter](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/peptide-viewer/app/assets/index.html?nxentry=NX_P46976)
+* 
+
+
+Note that the javascript library takes insulin as default entry, but if you pass the entry as a parameter `nxentry` it gets the entry you asked for. Check for instance these 2 urls [pirin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_O00625) and 
+[titin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q8WZ42)
+
