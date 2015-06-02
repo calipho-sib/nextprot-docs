@@ -25,7 +25,7 @@ For the ease of development in javascript we have built [library](https://github
 
 ###API example 
 
-Getting the overview of a protein is as simple as: 
+Getting the overview of a protein is as simple as (see it in live in this [jsfiddle](http://jsfiddle.net/ddtxra/Lqkmuzm3/): 
 ```javascript
 
   nx.getProteinOverview('NX_P01308').then(function(overview){
@@ -33,7 +33,6 @@ Getting the overview of a protein is as simple as:
   });  
   
 ```
-See it in live in this [jsfiddle](http://jsfiddle.net/ddtxra/Lqkmuzm3/)
 
 Or getting the sequence of the isoforms
 ```javascript
