@@ -14,6 +14,8 @@ For web development, you can ask for the same urls finishing with json extension
 
 For the ease of development in javascript we have built [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. 
 
+###API example 
+
 With this library getting the overview of a protein is as simple as: 
 ```javascript
 
@@ -27,7 +29,8 @@ With this library getting the overview of a protein is as simple as:
   
 ```
 
-or for executing a sparql, simply use nx.executeSparql:
+###SPARQL example 
+For executing a sparql, simply use nx.executeSparql:
 
 ```javascript
 var sparqlQuery ='SELECT ?pe count(?entry) as ?cnt WHERE {?entry :existence ?pe} group by ?pe';
