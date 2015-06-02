@@ -7,6 +7,7 @@ You can get the content of an entry in different format by using the api like th
 https://api.nextprot.org/entry/NX_P01308.xml //Gets the entry in xml
 https://api.nextprot.org/entry/NX_P01308/overview.xml //Gets only the overview
 https://api.nextprot.org/entry/NX_P01308/secondary-structure.xml //Gets only the secondary structure (helix, turn, beta-strand)
+https://api.nextprot.org/entry/NX_P01308/helix.xml //Gets only the helix annotations
 ```
 
 For web development, you can ask for the same urls finishing with json extension instead of xml. (we will provide other formats soon)
