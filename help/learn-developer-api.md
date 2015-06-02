@@ -12,16 +12,21 @@ https://api.nextprot.org/entry/NX_P01308/helix.xml //Gets only the helix annotat
 
 For web development, you can ask for the same urls finishing with json extension instead of xml. (we will provide other formats soon)
 
-For the ease of development in javascript we have built [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. 
+For the ease of development in javascript we have built [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. You just need to initialize with some information about what your application is doing and who you are.
 
-###API example 
-
-Getting the overview of a protein is as simple as: 
 ```javascript
 
   var applicationInfo = "demo app to get the overview"; //provide us with some information about what your app is doing
   var clientInfo = "calipho group at SIB"; //provide us with some information about who you are
   var nx = new Nextprot.Client(applicationInfo, clientInfo);
+
+```
+
+
+###API example 
+
+Getting the overview of a protein is as simple as: 
+```javascript
 
   nx.getProteinOverview('NX_P01308').then(function(overview){
     console.log(overview);
