@@ -70,9 +70,7 @@ If you make a viewer you can directly try it on our platform putting it on [gist
 https://search.nextprot.org/entry/{entryAccession}/viewer/{githubUser}/{gistId}
 
 for example:
-[https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40](https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40) corresponds to this gist: [http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
-
-Isn't that awesome :) ?
+[https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40](https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40) corresponds to this gist: [http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40) Isn't that awesome :) ?
 
 If you developed a viewer and would like to share it, simply [let us know](mailto:support@nextprot.org) and we can add it to the community viewers. 
 
