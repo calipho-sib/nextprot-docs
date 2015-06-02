@@ -34,6 +34,15 @@ Getting the overview of a protein is as simple as:
   
 ```
 
+Or getting the sequence of the isoforms
+```javascript
+
+  nx.getProteinSequence('NX_P01308').then(function(sequence){
+    console.log(sequence[0]); //Gets sequence of the 1st isoform
+  });  
+  
+```
+
 ###SPARQL example 
 For executing a sparql, simply use nx.executeSparql:
 
