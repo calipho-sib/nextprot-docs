@@ -12,7 +12,7 @@ https://api.nextprot.org/entry/NX_P01308/helix.xml //Gets only the helix annotat
 
 For web development, you can ask for the same urls finishing with json extension instead of xml. (we will provide other formats soon)
 
-For the ease of development in javascript we have built [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. You just need to initialize with some information about what your application is doing and who you are.
+For the ease of development in javascript we have built a [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. You just need to initialize with some information about what your application is doing and who you are.
 
 ```javascript
 
@@ -34,7 +34,7 @@ Getting the overview of a protein is as simple as: (see it in live in this [jsfi
   
 ```
 
-Or getting the sequence of the isoforms (see it in live in this [jsfiddle](http://jsfiddle.net/ddtxra/9Lt6n8jb/))
+Or getting the sequence of the isoforms (see it in live in this [jsfiddle](http://jsfiddle.net/ddtxra/9Lt6n8jb/1/))
 ```javascript
 
   nx.getProteinSequence('NX_P01308').then(function(sequence){
