@@ -57,10 +57,11 @@ nx.executeSparql(sparqlQuery).then(function (result){
     console.log(seriesData);
 });
 ```
+See it in live in [bl.ocks.org](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f) or edit it in [jsfiddle](http://jsfiddle.net/ddtxra/x3umjp67/) (supports: chrome, firefox or safari).
+
 <a href="http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f" target="_blank"> <img width="50%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/>
 </a>
 
-See it in live in [bl.ocks.org](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f) or edit it in [jsfiddle](http://jsfiddle.net/ddtxra/x3umjp67/) (supports: chrome, firefox or safari).
 
 #Develop and contribute
 Can't wait to code now :) ? But there is more!
@@ -70,9 +71,9 @@ If you make a viewer you can directly try it on our platform putting it on [gist
 https://search.nextprot.org/entry/{entryAccession}/viewer/{githubUser}/{gistId}
 
 for example:
-https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40
+(https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40) corresponds to this gist: (http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
 
-Isn't that awsome :) ?
+Isn't that awesome :) ?
 
 If you are proud of your viewer and want to share it, simply [let us know](mailto:support@nextprot.org). 
 
