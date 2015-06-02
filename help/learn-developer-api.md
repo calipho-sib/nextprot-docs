@@ -33,7 +33,7 @@ Getting the overview of a protein is as simple as: (see it in live in this [jsfi
   
 ```
 
-Or getting the sequence of the isoforms (see it in live in this [jsfiddle](http://jsfiddle.net/ddtxra/9Lt6n8jb/1/))
+Or getting the sequence of the isoforms (see it in live in this [jsfiddle](http://jsfiddle.net/ddtxra/9Lt6n8jb/3/))
 ```javascript
 
   nx.getProteinSequence('NX_P01308').then(function(sequence){
