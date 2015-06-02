@@ -71,11 +71,11 @@ If you make a viewer you can directly try it on our platform putting it on [gist
 https://search.nextprot.org/entry/{entryAccession}/viewer/{githubUser}/{gistId}
 
 for example:
-(https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40) corresponds to this gist: (http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40)
+[https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40] corresponds to this gist: [http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40]
 
 Isn't that awesome :) ?
 
-If you are proud of your viewer and want to share it, simply [let us know](mailto:support@nextprot.org). 
+If you developed a viewer and would like to share it, simply [let us know](mailto:support@nextprot.org). 
 
 Note that the javascript library takes insulin as default entry, but if you pass the entry as a parameter `nxentry` it gets the entry you asked for. Check for instance these 2 urls [pirin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_O00625) and 
 [titin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q8WZ42)
