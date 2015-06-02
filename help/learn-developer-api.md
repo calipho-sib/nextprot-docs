@@ -16,7 +16,7 @@ For the ease of development in javascript we have built [library](https://github
 
 ###API example 
 
-With this library getting the overview of a protein is as simple as: 
+Getting the overview of a protein is as simple as: 
 ```javascript
 
   var applicationInfo = "demo app to get the overview"; //provide us with some information about what your app is doing
