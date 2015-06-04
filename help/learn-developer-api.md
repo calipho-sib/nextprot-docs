@@ -42,7 +42,7 @@ Or getting the sequence of the isoforms (see it in live in this [jsfiddle](http:
   
 ```
 
-Or showing some features with our [feature viewer](https://github.com/calipho-sib/feature-viewer) [jsfiddle](http://jsfiddle.net/ddtxra/fm51dwz7/4/)
+Or you can easily visualize sequence features with our [feature viewer](https://github.com/calipho-sib/feature-viewer): See it in live in [jsfiddle](http://jsfiddle.net/ddtxra/fm51dwz7/4/)
 
 ###SPARQL example 
 For executing a sparql, simply use nx.executeSparql:
