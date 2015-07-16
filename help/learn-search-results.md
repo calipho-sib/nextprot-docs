@@ -30,6 +30,10 @@ In the **Details** format for **terms** search results:
 * _second line_ is the same as in the Summary format, i.e. the source of the term (ontology) is displayed.
 * _third line_ displays the definition of the term.
 
+**Downloading** search results
+
+For protein search results, entries or parts thereof can be downloaded. To do so, select the **Format** and the **Sub-Part** and either Click on the **Download** button or simply request the **API** by using the link provided. Unless a sort order has been specified, the data is listed in alpha-numerical order of entry accession number.
+
 #Filtering search results
 
 Filtering options are displayed on the left and depend on the section being queried:
