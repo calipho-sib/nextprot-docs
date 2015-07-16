@@ -63,8 +63,24 @@ See an example of protein existence in live in [bl.ocks.org](http://bl.ocks.org/
 <a href="http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f" target="_blank"> <img width="25%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/>
 </a>
 
-#Node and NPM
+#Node,NPM and BioJS
 We have also published an npm module in BIOJS: http://biojs.io/d/biojs-rest-nextprot
+
+To make use of the module simply type on your shell ```npm install biojs-rest-nextprot``` (requires node and npm)
+Then start playing with the API in JSON.
+To retrieve the sequence of the isoforms of an entry, create a file (ex: print-sequence.js):
+```
+var nextprot = require("biojs-rest-nextprot");
+nextprot.getProteinBlock('NX_P01308', 'isoform', function (data) {
+   data.entry.isoforms.map(function (i) {
+       console.log(i.sequence)
+   })
+});
+```
+Run "node print-sequence.js” and that’s it! You should get in your console the sequence of the insulin (NX_P01308):
+```
+	MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+```
 
 #Develop and contribute
 Can't wait to code now :) ? But wait there is more!
