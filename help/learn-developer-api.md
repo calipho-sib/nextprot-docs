@@ -67,7 +67,7 @@ See an example of protein existence in live in [bl.ocks.org](http://bl.ocks.org/
 We have also published an npm module and registered it in BIOJS.net: http://biojs.io/d/biojs-rest-nextprot
 
 To make use of the module simply type on your shell ```npm install biojs-rest-nextprot``` (requires node and npm)
-Then start playing with the API in JSON.
+
 To retrieve the sequence of the isoforms of an entry, create a file (ex: print-sequence.js):
 ```
 var nextprot = require("biojs-rest-nextprot");
