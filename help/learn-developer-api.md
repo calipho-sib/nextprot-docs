@@ -63,6 +63,8 @@ See an example of protein existence in live in [bl.ocks.org](http://bl.ocks.org/
 <a href="http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f" target="_blank"> <img width="25%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/>
 </a>
 
+#Node and NPM
+We have also published an npm module in BIOJS: http://biojs.io/d/biojs-rest-nextprot
 
 #Develop and contribute
 Can't wait to code now :) ? But wait there is more!
