@@ -5,12 +5,20 @@ The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.n
 You can get the content of an entry in different format by using the api like this:
 ```
 https://api.nextprot.org/entry/NX_P01308.xml //Gets the entry in xml
-https://api.nextprot.org/entry/NX_P01308/overview.xml //Gets only the overview
-https://api.nextprot.org/entry/NX_P01308/secondary-structure.xml //Gets only the secondary structure (helix, turn, beta-strand)
-https://api.nextprot.org/entry/NX_P01308/helix.xml //Gets only the helix annotations
+https://api.nextprot.org/entry/NX_P01308.json //Gets the entry in JSON
+https://api.nextprot.org/entry/NX_P01308.ttl //Gets the entry in TURTLE
+
+https://api.nextprot.org/entry/NX_P01308/overview.xml //Gets only the overview in xml
+https://api.nextprot.org/entry/NX_P01308/overview.json //Gets only the overview in JSON
+https://api.nextprot.org/entry/NX_P01308/overview.ttl //Gets only the overview in TURTLE
+
+https://api.nextprot.org/entry/NX_P01308/secondary-structure.xml //Gets only the secondary structure (helix, turn, beta-strand) in XML
+https://api.nextprot.org/entry/NX_P01308/secondary-structure.json //Gets only the secondary structure (helix, turn, beta-strand) in JSON
+
+https://api.nextprot.org/entry/NX_P01308/helix.xml //Gets only the helix annotations in XML
+https://api.nextprot.org/entry/NX_P01308/helix.json //Gets only the helix annotations in JSON
 ```
 
-For web development, you can ask for the same urls finishing with json extension instead of xml. (we will provide other formats soon)
 
 For the ease of development in javascript we have built a [library](https://github.com/calipho-sib/nextprot-js) that wraps the API and SPARQL endpoint. You just need to initialize with some information about what your application is doing and who you are.
 
