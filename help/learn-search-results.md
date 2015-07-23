@@ -30,10 +30,6 @@ In the **Details** format for **terms** search results:
 * _second line_ is the same as in the Summary format, i.e. the source of the term (ontology) is displayed.
 * _third line_ displays the definition of the term.
 
-**Downloading** search results
-
-For protein search results, entries or parts thereof can be downloaded. To do so, select the **Format** and the **Sub-Part** and either Click on the **Download** button or simply request the **API** by using the link provided. Unless a sort order has been specified, the data is listed in alpha-numerical order of entry accession number.
-
 #Filtering search results
 
 Filtering options are displayed on the left and depend on the section being queried:
@@ -48,4 +44,8 @@ Sorting options depend on the section being queried:
 
 * **Proteins.** The entries displayed can be sorted in either _ascending or descending order_ of either the gene name, protein name, protein family name, chromosomal location, accession number (ACs), protein length or ranking score. 
 * **Publications.** The publications displayed cannot be sorted. However they are displayed in descending order of year of publication. 
-* **Terms.** The terms displayed can be sorted in either _ascending or descending order_ of either the term name or ranking score. 
+* **Terms.** The terms displayed can be sorted in either _ascending or descending order_ of either the term name or ranking score.
+
+#Downloading search results
+
+For protein search results, entries or parts thereof can be downloaded. To do so, select the **Format** and the **Sub-Part** and either Click on the **Download** button or simply request the **API** by using the link provided. Unless a sort order has been specified, the data is listed in alpha-numerical order of entry accession number.
