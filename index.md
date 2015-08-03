@@ -3,52 +3,27 @@
 #Introduction
 
 * **The human proteome**
-* **Citing neXtProt**
+* **Glossary**
+* **Citing and linking to neXtProt**
 
 #Search
 
 neXtProt content can be queried using either a **simple** text or **advanced** SPARQL search:
 
 * **[Simple search](/help/learn-simple-search)**
-* **[Advanced search](/help/learn-advanced-search)**
-** Query list
-** Managing queries
-** Saving queries
-* **[Search results](/help/learn-search-results)** 
-** Filtering search results
-** Sorting search results
-** Downloading search results
+* **[Advanced search](/help/learn-advanced-search)** covering _Query list_, _Managing queries_ and _Saving queries_
+* **[Search results](/help/learn-search-results)** covering _Filtering search results_, _Sorting search results_ and _Downloading search results_
 
 #Explore
 
 Browse the following neXtProt content:
 
-* **Entry**
-** Protein
-*** Function view
-*** Medical view
-*** Expression view
-*** Interactions view
-*** Localisation view
-*** Sequence view
-*** Proteomics view
-*** Structures view
-*** Identifiers view
-** Gene
-*** Exons view
-*** Identifiers view
-** References
-*** Curated publications
-*** Additional publications
-*** Patents
-*** Submissions
-*** Web resources
+* **Entry** information is presented in three sections: 
+**(1) Protein** subdivided into the _Function_, _Medical_, _Expression_, _Interactions_, _Localisation_, _Sequence_, _Proteomics_, _Structures_ and _Identifiers_ views
+**(2) Gene** subdivided into the _Exons_ and _Identifiers_ views
+**(3) References** subdivided into the _Curated publications_, _Additional publications_ , _Patents_, _Submissions_ and _Web resources_ sections
 * **Publication**
-* **Term**
-** Proteins
-** Documentation
-** Ancestors graph
-** Tree browser
+* **Term** with the _Proteins_, _Documentation_, _Ancestors graph_ and _Tree browser_ displays
 
 
 #Analyze
@@ -69,7 +44,3 @@ The data in neXtProt can be analyzed using the following tools:
 
 * **[API](/help/learn-developer-api)**
 * **[RDF help](/help/learn-developer-api)** 
-
-#Glossary
-
-#References
