@@ -4,15 +4,15 @@
 
 * **The human proteome**
 * **Glossary**
-* **Citing and linking to neXtProt**
+* **[Citing and linking to neXtProt](/about/citing-nextprot)**
 
 #Search
 
 neXtProt content can be queried using either a **simple** text or **advanced** SPARQL search:
 
 * **[Simple search](/help/learn-simple-search)**
-* **[Advanced search](/help/learn-advanced-search)** covering _Query list_, _Managing queries_ and _Saving queries_
-* **[Search results](/help/learn-search-results)** covering _Filtering search results_, _Sorting search results_ and _Downloading search results_
+* **[Advanced search](/help/learn-advanced-search)**: _Query list_, _Managing queries_ and _Saving queries_
+* **[Search results](/help/learn-search-results)**: _Filtering search results_, _Sorting search results_ and _Downloading search results_
 
 #Explore
 
@@ -23,7 +23,7 @@ Browse the following neXtProt content:
 **(2) Gene** subdivided into the _Exons_ and _Identifiers_ views
 **(3) References** subdivided into the _Curated publications_, _Additional publications_ , _Patents_, _Submissions_ and _Web resources_ sections
 * **Publication**
-* **Term** with the _Proteins_, _Documentation_, _Ancestors graph_ and _Tree browser_ displays
+* **Term**: _Proteins_, _Documentation_, _Ancestors graph_ and _Tree browser_ 
 
 
 #Analyze
