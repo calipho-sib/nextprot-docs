@@ -4,7 +4,7 @@
 
 * **The human proteome**
 * **Glossary**
-* **[Citing and linking to neXtProt](/about/citing-nextprot)**
+* **[Citing and linking to neXtProt](/pages/citing-nextprot)**
 
 #Search
 
