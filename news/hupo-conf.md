@@ -1,5 +1,6 @@
 # Hupo Conference
-##### 24.08.2015
+
+Should we include the date?
 
 The Hupo conference is approaching soon....
 
