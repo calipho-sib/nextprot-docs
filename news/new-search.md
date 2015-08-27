@@ -1,4 +1,4 @@
-##Title New search available
+##New search available
 
-New search available from today
+New search available from today ...
 
