@@ -102,7 +102,7 @@ for example:
 
 If you develop a viewer and would like to integrate it in neXtProt, simply [edit this file](https://github.com/calipho-sib/nextprot-viewers/edit/master/community-viewers.json) and create a pull request or [let us know](mailto:support@nextprot.org) by email.
 
-To start with, you can clone an existing [gist](http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76).
+To start with, you can clone an existing [gist](https://gist.github.com/ddtxra/a3a860b6d0c0e1ab0f76).
 
 Note that the entry is pass as an http parameter `nxentry`. Check for instance these 2 urls [pirin](http://bl.ocks.org/ddtxra/raw/a3a860b6d0c0e1ab0f76/?nxentry=NX_O00625) and 
 [titin](http://bl.ocks.org/ddtxra/raw/a3a860b6d0c0e1ab0f76/?nxentry=NX_Q8WZ42)
