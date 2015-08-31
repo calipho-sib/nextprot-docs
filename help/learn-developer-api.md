@@ -110,6 +110,8 @@ Note that the entry is pass as an http parameter `nxentry`. Check for instance t
 
 Happy programming! 
 
+If you need some help, don't hesitate to [contact us](mailto:support@nextprot.org). One of our developer will be more than happy to assist you.
+
 ## Other viewers
 
 * [sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
