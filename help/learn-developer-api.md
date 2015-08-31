@@ -91,19 +91,24 @@ Run "node print-sequence.js” and that’s it! You should get in your console t
 ```
 
 #Develop and contribute
-Can't wait to code now :) ? But wait there is more!
 
-If you make a viewer you can directly try it on our platform putting it on [gist](https://gist.github.com/) using the following url:
+You can create viewers that integrates very easily in our platform putting it on [gist](https://gist.github.com/).
+If you add your index.htlm in gist, you can use neXtProt with  the following url:
 
-https://search.nextprot.org/entry/{entryAccession}/viewer/{githubUser}/{gistId}
+https://search.nextprot.org/entry/{entryAccession}/gist/{githubUser}/{gistId}
 
 for example:
-[https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40](https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/75545ffaa0c6db260a40) corresponds to this gist: [http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40](http://bl.ocks.org/ddtxra/75545ffaa0c6db260a40) Isn't that awesome :) ?
+[https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/a3a860b6d0c0e1ab0f76](https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/a3a860b6d0c0e1ab0f76) corresponds to this gist: [http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76](http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76).
 
-If you developed a viewer and would like to share it, simply [let us know](mailto:support@nextprot.org) and we can add it to the community viewers. 
+If you develop a viewer and would like to integrate it in neXtProt, simply [edit this file](https://github.com/calipho-sib/nextprot-viewers/edit/master/community-viewers.json) and create a pull request or [let us know](mailto:support@nextprot.org) by email.
+
+To start with, you can clone an existing [gist](http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76).
+
+Note that the entry is pass as an http parameter `nxentry`. Check for instance these 2 urls [pirin](http://bl.ocks.org/ddtxra/raw/a3a860b6d0c0e1ab0f76/?nxentry=NX_O00625) and 
+[titin](http://bl.ocks.org/ddtxra/raw/a3a860b6d0c0e1ab0f76/?nxentry=NX_Q8WZ42)
+
 
 Happy programming! 
-
 
 ## Other viewers
 
@@ -113,8 +118,4 @@ More complex viewers can be seen in our [github](https://github.com/calipho-sib/
 
 * [Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/annot-stats/app/assets/index.html)
 * [Peptide Viewer with entry passed as parameter](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/peptide-viewer/app/assets/index.html?nxentry=NX_P46976)
-
-
-Note that the javascript library takes insulin as default entry, but if you pass the entry as a parameter `nxentry` it gets the entry you asked for. Check for instance these 2 urls [pirin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_O00625) and 
-[titin](http://bl.ocks.org/ddtxra/raw/75545ffaa0c6db260a40/?nxentry=NX_Q8WZ42)
 
