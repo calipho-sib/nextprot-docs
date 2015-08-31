@@ -98,7 +98,7 @@ If you add your index.htlm in gist, you can use neXtProt with  the following url
 https://search.nextprot.org/entry/{entryAccession}/gist/{githubUser}/{gistId}
 
 for example:
-[https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/a3a860b6d0c0e1ab0f76](https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/a3a860b6d0c0e1ab0f76) corresponds to this gist: [http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76](http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76).
+[https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/a3a860b6d0c0e1ab0f76](https://search.nextprot.org/entry/NX_P01308/gist/ddtxra/a3a860b6d0c0e1ab0f76) corresponds to this gist: [http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76](http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76).
 
 If you develop a viewer and would like to integrate it in neXtProt, simply [edit this file](https://github.com/calipho-sib/nextprot-viewers/edit/master/community-viewers.json) and create a pull request or [let us know](mailto:support@nextprot.org) by email.
 
