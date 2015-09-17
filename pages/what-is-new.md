@@ -1,5 +1,10 @@
 #What's new?
 
+**July 16, 2015**
+
+1. Sequences (FASTA) and accession numbers (TXT) for protein search results and list contents can now be downloaded. Unless a sort order has been specified, the data is listed in alpha-numerical order of the entry accession number.
+2. All protein and gene names, as well as gene chromosomal location, exons and transcripts are now available in the API.
+
 **May 12, 2015**
 
 1. The latest data release (neXtProt release 2015-04-28) is implemented in this new version.
