@@ -26,6 +26,6 @@ To close the query list window, simply click on the "x" on the top right of the 
 ##Saving queries
 
 1. Log in. You must be logged in to save and manage your queries.
-2. Go to the query list window and click on the **New** button at the bottom right of the window.
-3. Enter a **Name** and **Description** for the query, as well as the SPARQL query
+2. To save a query in the search box, simply click on the **+**. Alternatively, select the **New query** button in the query list window or select **Create new query** while viewing your saved queries.
+3. Enter a **Name** and **Description** (optional) for the query.
 4. Click **Save**. Saved queries are displayed in the query list window and in [My Queries](user/queries).
