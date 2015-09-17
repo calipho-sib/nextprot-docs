@@ -4,13 +4,11 @@ This new neXtProt search site is a work in progress. We are aware of the followi
 
  - You currently can not download sequences in PEFF format
  - In the simple search you can't search for a publication DOI or an isoform alternative name
- - You can create a list containing invalid accession numbers
- - Lists with UniProt ACs cannot be viewed or combined with other lists
  
 The current version of the XML is not fully mature, in particular:
 
  - There is currently no XSD
- - The ChEMBL, IPI and MIM identifiers are not exported
+ - Additional publications are not exported
  
 Please let us know of any other issues that you may encounter while using this neXtProt search tool.
 
