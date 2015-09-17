@@ -1,5 +1,13 @@
 #What's new?
 
+**September ??, 2015**
+
+1. The latest data release (neXtProt release 2015-09-01) is implemented in this new version.
+2. Files with UniProt ACs can be uploaded to generate a list that can be viewed and combined with other lists.
+2. Multiple files can now be uploaded to generate a single list.
+3. When a file containing invalid accession numbers is uploaded, an error message is displayed and the list is not created.
+4. The ChEMBL, IPI and MIM identifiers are now exported.
+
 **July 16, 2015**
 
 1. Sequences (FASTA) and accession numbers (TXT) for protein search results and list contents can now be downloaded. Unless a sort order has been specified, the data is listed in alpha-numerical order of the entry accession number.
