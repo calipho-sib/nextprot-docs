@@ -25,7 +25,6 @@ Browse the following neXtProt content:
 * **Publication**
 * **Term**: _Proteins_, _Documentation_, _Ancestors graph_ and _Tree browser_ 
 
-
 #Analyze
 
 The data in neXtProt can be analyzed using the following tools:
@@ -33,12 +32,7 @@ The data in neXtProt can be analyzed using the following tools:
 * **[BLAST]()** 
 * **[List management](/help/learn-protein-lists)** 
 
-#Download
-
-* **TXT**
-* **FASTA**
-* **PEFF**
-* **XML**
+#[Download](/help/learn-download)
 
 #Programmatic access
 
