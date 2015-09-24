@@ -2,13 +2,13 @@
 
 #Introduction
 
-* **The human proteome**
+* **[The human proteome](/pages/human-proteome)**
 * **Glossary**
 * **[Citing and linking to neXtProt](/pages/citing-nextprot)**
 
-#Search
+#[Search](/help/learn-all-searches)
 
-neXtProt content can be queried using either a **simple** text or **advanced** SPARQL search:
+Query neXtProt content:
 
 * **[Simple search](/help/learn-simple-search)**
 * **[Advanced search](/help/learn-advanced-search)**: _Query list_, _Managing queries_ and _Saving queries_
