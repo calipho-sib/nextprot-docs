@@ -1,6 +1,6 @@
 #What's new?
 
-**September ??, 2015**
+**September 24, 2015**
 
 1. The latest data release (neXtProt release 2015-09-01) is implemented in this new version.
 2. Lists can now be created by entering or uploading a file with UniProtKB accession numbers.
