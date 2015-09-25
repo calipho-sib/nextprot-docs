@@ -2,7 +2,7 @@
 
 **September 24, 2015**
 
-1. The latest data release (neXtProt release 2015-09-01) is implemented in this new version.
+1. The latest data release (neXtProt release 2015-09-01) is implemented in this new version. For details, refer to the [September 2015 neXtProt release notes](http://www.nextprot.org/news/nextprot/2015-09-24/september-2015-nextprot-release).
 2. Lists can now be created by entering or uploading a file with UniProtKB accession numbers.
 2. Multiple list files can be uploaded to generate a single list.
 3. When creating a new list which includes an invalid accession number, an error message is displayed and the list is not created.
