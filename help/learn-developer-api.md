@@ -117,7 +117,7 @@ If you need some help, don't hesitate to [contact us](mailto:support@nextprot.or
 
 * [sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
-More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository (will be soon integrated):
+More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository:
 
 * [Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/statistics/annotations/app/index.html)
 * [Peptide viewer with entry passed as parameter](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/peptides/app/index.html?nxentry=NX_P46976)
