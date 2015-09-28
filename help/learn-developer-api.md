@@ -92,13 +92,14 @@ Run "node print-sequence.js” and that’s it! You should get in your console t
 
 #Develop and contribute
 
-You can create viewers that integrates very easily in our platform putting it on [gist](https://gist.github.com/).
-If you add your index.htlm in gist, you can use neXtProt with  the following url:
+You can create viewers that integrates very easily in our platform putting them on GitHub. You have 2 options:
 
+* [Gist](https://gist.github.com/): If you add your index.htlm in gist, you can use neXtProt with  the following url:
 https://search.nextprot.org/entry/{entryAccession}/gist/{githubUser}/{gistId}
-
 for example:
 [https://search.nextprot.org/entry/NX_P01308/gist/ddtxra/a3a860b6d0c0e1ab0f76](https://search.nextprot.org/entry/NX_P01308/gist/ddtxra/a3a860b6d0c0e1ab0f76) corresponds to this gist: [http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76](http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76).
+
+* [Github repo](https://github.com/): (this will be soon documented!)
 
 If you develop a viewer and would like to integrate it in neXtProt interface, you can simply [edit this file](https://github.com/calipho-sib/nextprot-viewers/edit/master/community/community-entry-viewers.json) and create a pull request or [let us know](mailto:support@nextprot.org) by email.
 
