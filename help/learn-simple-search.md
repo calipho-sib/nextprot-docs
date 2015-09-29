@@ -7,7 +7,7 @@ Our basic, Google-like full text search allows you to search the data in neXtPro
 You can search in **three separate sections**: 
 
 * **Proteins (default).** Example: [insulin](proteins/search?query=insulin)
-* **Publications.** Example: [doolittle rf](publications/search?query=doolittle%20rf)
+* **Publications.** Example: [doolittle r f](publications/search?query=doolittle r f)
 * **Terms.** Example: [hypothalamus](terms/search?query=hypothalamus)
 
 To switch between sections, simply toggle between "Proteins", "Publications" and "Terms". Note that unless you clear the query box, your last query is kept in the search field. 
