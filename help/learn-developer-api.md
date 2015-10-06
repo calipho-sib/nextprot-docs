@@ -72,14 +72,16 @@ See an example of protein existence in live in [bl.ocks.org](http://bl.ocks.org/
 </a>
 
 #Node, npm and BioJS
-We have also published an npm module and registered it in BIOJS.net: http://biojs.io/d/biojs-rest-nextprot
+We have also published an npm module and registered it in BIOJS.net: http://biojs.io/d/nextprot-cli
 
-To make use of the module simply type on your shell ```npm install biojs-rest-nextprot``` (requires node and npm)
+To make use of the module simply type on your shell ```npm install nextprot-cli``` (requires node and npm)
 
 To retrieve the sequence of the isoforms of an entry, create a file (ex: print-sequence.js):
 ```
-var nextprot = require("biojs-rest-nextprot");
-nextprot.getProteinBlock('NX_P01308', 'isoform', function (data) {
+var NextProtClient = require("nextprot-cli");
+var nx = new NextProtClient("test applicaton", "student at UNIGE");
+
+nx.getProteinBlock('NX_P01308', 'isoform', function (data) {
    data.entry.isoforms.map(function (i) {
        console.log(i.sequence)
    })
