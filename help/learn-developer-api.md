@@ -96,7 +96,7 @@ We have registered 3 modules on BioJS that we use to build our views.
 
 * Sequence Viewer (independent of neXtProt): [http://biojs.io/d/sequence-viewer](http://biojs.io/d/sequence-viewer)
 * Feature Viewer (independent of neXtProt): [http://biojs.io/d/feature-viewer](http://biojs.io/d/feature-viewer)
-* nextprot-cli (independent of neXtProt): [http://biojs.io/d/nextprot-cli](http://biojs.io/d/nextprot-cli)
+* nextprot-cli: [http://biojs.io/d/nextprot-cli](http://biojs.io/d/nextprot-cli)
 
 We are glad to share those modules with you and if you are interested to collaborate on one of them let us know.
 
