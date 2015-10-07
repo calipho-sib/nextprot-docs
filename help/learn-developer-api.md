@@ -71,8 +71,7 @@ See an example of protein existence in live in [bl.ocks.org](http://bl.ocks.org/
 <a href="http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f" target="_blank"> <img width="25%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/>
 </a>
 
-#Node, npm and BioJS
-We have also published an npm module and registered it in BIOJS.net: http://biojs.io/d/nextprot-cli
+#Node
 
 To make use of the module simply type on your shell ```npm install nextprot-cli``` (requires node and npm)
 
@@ -91,6 +90,13 @@ Run "node print-sequence.js” and that’s it! You should get in your console t
 ```
 	MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
 ```
+
+#BioJS
+We have registered 3 modules on BioJS:
+
+* Sequence Viewer: http://biojs.io/d/sequence-viewer
+* Feature Viewer: http://biojs.io/d/feature-viewer
+* neXtProt-cli: http://biojs.io/d/nextprot-cli
 
 #Develop and contribute
 
