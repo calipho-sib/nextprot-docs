@@ -34,7 +34,4 @@ The data in neXtProt can be analyzed using the following tools:
 
 #[Download](/help/learn-download)
 
-#Programmatic access
-
-* **[API](/help/learn-developer-api)**
-* **[RDF help](/help/learn-developer-api)** 
+#[Programmatic access](/help/learn-programmatic-access.md)
