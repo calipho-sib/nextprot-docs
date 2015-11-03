@@ -17,9 +17,7 @@ Query neXtProt content:
 #Explore
 
 
-#Analyze
-
-The data in neXtProt can be analyzed using the following tools:
+#[Analyze](/help/learn-analyze)
 
 * **[BLAST]()** 
 * **[List management](/help/learn-protein-lists)** 
