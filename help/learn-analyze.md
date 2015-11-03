@@ -2,5 +2,10 @@
 
 The data in neXtProt can be analyzed using the following tools:
 
-* **[BLAST]()** 
-* **[List management](/help/learn-protein-lists)** 
+**BLAST** 
+
+neXtProt provides access to a simple BLAST implementation. To find other entries in neXtProt containing the same or a similar sequence, you can:
+* BLAST the entire sequence by clicking on the "BLAST sequence" button
+* Select part of the sequence (shown highlighted) and click on the "BLAST selection" button 
+
+**[List management](/help/learn-protein-lists)** 
