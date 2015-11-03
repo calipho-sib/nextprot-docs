@@ -19,7 +19,7 @@ Query neXtProt content:
 
 #[Analyze](/help/learn-analyze)
 
-* **[BLAST]()** 
+* **[BLAST](/help/learn-analyze)** 
 * **[List management](/help/learn-protein-lists)** 
 
 #[Download](/help/learn-download)
