@@ -3,7 +3,9 @@
 #Introduction
 
 * **[The human proteome](/pages/human-proteome)**
-* **Glossary**
+* **[neXtProt](/pages/about)** 
+* **[What's new](/pages/what-is-new)**
+* **[Known issues](/pages/known-issues)** 
 * **[Citing and linking to neXtProt](/pages/citing-nextprot)**
 
 #[Search](/help/learn-all-searches)
@@ -14,8 +16,7 @@ Query neXtProt content:
 * **[Advanced search](/help/learn-advanced-search)**: _Query list_, _Managing queries_ and _Saving queries_
 * **[Search results](/help/learn-search-results)**: _Filtering search results_, _Sorting search results_ and _Downloading search results_
 
-#Explore
-
+#[Explore](/help/learn-advanced-search)
 
 #[Analyze](/help/learn-analyze)
 
@@ -25,3 +26,5 @@ Query neXtProt content:
 #[Download](/help/learn-download)
 
 #[Programmatic access](/help/learn-programmatic-access.md)
+
+#Glossary
