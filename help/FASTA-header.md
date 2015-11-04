@@ -1,6 +1,6 @@
 The FASTA header for neXtProt entries has the following format:
 
-\>db|UniqueIdentifier|GeneName|ProteinName|IsoformName
+> \>db|UniqueIdentifier|GeneName|ProteinName|IsoformName
 
 Where:
 
@@ -12,10 +12,12 @@ Where:
 
 Examples:
 
-\>nxp|NX_P24298-1|GPT|Alanine aminotransferase 1|Iso 1
+```
+>nxp|NX_P24298-1|GPT|Alanine aminotransferase 1|Iso 1
 
-\>nxp|NX_Q6UXH0-1|C19orf80|Angiopoietin-like protein 8|Iso 1
+>nxp|NX_Q6UXH0-1|C19orf80|Angiopoietin-like protein 8|Iso 1
 
-\>nxp|NX_P0DMU3-1|-|FAM231A/C-like protein LOC102723383|Iso 1
+>nxp|NX_P0DMU3-1|-|FAM231A/C-like protein LOC102723383|Iso 1
 
-\>nxp|NX_Q13557-10|CAMK2D|Calcium/calmodulin-dependent protein kinase type II subunit delta|Delta 10
+>nxp|NX_Q13557-10|CAMK2D|Calcium/calmodulin-dependent protein kinase type II subunit delta|Delta 10
+```
