@@ -18,13 +18,21 @@ Query neXtProt content:
 
 #[Explore](/help/learn-advanced-search)
 
+Explore the universe of human proteins using our advanced search.
+
 #[Analyze](/help/learn-analyze)
+
+Use neXtProt tools to analyze data:
 
 * **[BLAST](/help/learn-analyze)** 
 * **[List management](/help/learn-protein-lists)** 
 
 #[Download](/help/learn-download)
 
+Export data to use it locally.
+
 #[Programmatic access](/help/learn-programmatic-access.md)
+
+Developer's corner.
 
 #Glossary
