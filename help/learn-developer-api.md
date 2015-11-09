@@ -1,6 +1,6 @@
 #Developer API
 
-The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) can be freely used by anyone (we simply ask you to reference us somehow). 
+The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) can be freely used by anyone. 
 
 You can get the content of an entry in different format by using the api like this:
 ```
