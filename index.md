@@ -2,45 +2,37 @@
 
 #Introduction
 
-* **The human proteome**
-* **Glossary**
+* **[The human proteome](/pages/human-proteome)**
+* **[neXtProt](/pages/about)** 
+* **[What's new](/pages/what-is-new)**
+* **[Known issues](/pages/known-issues)** 
 * **[Citing and linking to neXtProt](/pages/citing-nextprot)**
 
-#Search
+#[Search](/help/learn-all-searches)
 
-neXtProt content can be queried using either a **simple** text or **advanced** SPARQL search:
+Query neXtProt content:
 
 * **[Simple search](/help/learn-simple-search)**
 * **[Advanced search](/help/learn-advanced-search)**: _Query list_, _Managing queries_ and _Saving queries_
 * **[Search results](/help/learn-search-results)**: _Filtering search results_, _Sorting search results_ and _Downloading search results_
 
-#Explore
+#[Explore](/help/learn-advanced-search)
 
-Browse the following neXtProt content:
+Explore the universe of human proteins using our advanced search.
 
-* **Entry** information is presented in three sections: 
-**(1) Protein** subdivided into the _Function_, _Medical_, _Expression_, _Interactions_, _Localisation_, _Sequence_, _Proteomics_, _Structures_ and _Identifiers_ views
-**(2) Gene** subdivided into the _Exons_ and _Identifiers_ views
-**(3) References** subdivided into the _Curated publications_, _Additional publications_ , _Patents_, _Submissions_ and _Web resources_ sections
-* **Publication**
-* **Term**: _Proteins_, _Documentation_, _Ancestors graph_ and _Tree browser_ 
+#[Analyze](/help/learn-analyze)
 
+Use neXtProt tools to analyze data:
 
-#Analyze
-
-The data in neXtProt can be analyzed using the following tools:
-
-* **[BLAST]()** 
+* **[BLAST](/help/learn-analyze)** 
 * **[List management](/help/learn-protein-lists)** 
 
-#Download
+#[Download](/help/learn-download)
 
-* **TXT**
-* **FASTA**
-* **PEFF**
-* **XML**
+Export data to use it locally.
 
-#Programmatic access
+#[Programmatic access](/help/learn-programmatic-access.md)
 
-* **[API](/help/learn-developer-api)**
-* **[RDF help](/help/learn-developer-api)** 
+Developer's corner.
+
+#Glossary
