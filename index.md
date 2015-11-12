@@ -16,9 +16,9 @@ Query neXtProt content:
 * **[Advanced search](/help/learn-advanced-search.md)**: _Query list_, _Managing queries_ and _Saving queries_
 * **[Search results](/help/learn-search-results.md)**: _Filtering search results_, _Sorting search results_ and _Downloading search results_
 
-#[Explore](/help/learn-advanced-search.md)
+#Explore
 
-Explore neXtProt content:
+Explore neXtProt content
 
 #[Analyze](/help/learn-analyze.md)
 
