@@ -1,5 +1,10 @@
 [
     {
+        "title": "Protein Existence Level",
+        "user": "ddtxra",
+        "repository" : "protein-existence-levels"
+    },
+    {
         "title": "Protein 3D structure",
         "user": "ddtxra",
         "repository" : "Protein-3D-structure"
