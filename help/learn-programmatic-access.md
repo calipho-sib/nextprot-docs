@@ -98,7 +98,10 @@ The following URL will match the GitHub repositry for the given user.
 Please note that the branch should be named gh-pages and an index.html should be in the root folder
 https://search.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubRepositry}
 
-To start with, you can fork a simple example on [GitHub](https://github.com/ddtxra/protein-existence-levels). Instruction on how to publish are on the readme file.
+Look at a specific case now:
+https://search.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels
+
+To start with, you can fork the simple example on https://search.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels. Instruction on how to publish are on the readme file.
 
 Happy programming! 
 
