@@ -1,16 +1,7 @@
 [
     {
-        "title": "3D structure improved",
-        "type": "gist",
-        "id": "ddtxra/b5fd92b02cab9a6c7750",
-        "owner": "ddtxra",
-        "email": "daniel.teixeira@isb-sib.ch"
-    },
-    {
-        "title": "3D structure (old)",
-        "type": "gist",
-        "id": "ddtxra/a3a860b6d0c0e1ab0f76",
-        "owner": "ddtxra",
-        "email": "daniel.teixeira@isb-sib.ch"
+        "title": "Protein 3D structure",
+        "user": "ddtxra",
+        "repository" : "Protein-3D-structure"
     }
 ]
