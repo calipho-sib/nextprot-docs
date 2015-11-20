@@ -103,7 +103,7 @@ https://search.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubReposi
 Look at a real example now:
 https://search.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels
 
-To start with, you can fork the simple example on https://search.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels. Instruction on how to publish are on the readme file.
+To start with, you can fork the sources of the real example on GitHub: [https://github.com/ddtxra/protein-existence-levels](https://github.com/ddtxra/protein-existence-levels). Instruction on how to publish in nextprot website are part of the readme file.
 
 Happy programming! 
 
