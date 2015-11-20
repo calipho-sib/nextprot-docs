@@ -94,11 +94,13 @@ Run "node print-sequence.js” and that’s it! You should get in your console t
 
 You can create viewers that integrates very easily in our platform putting them on [GitHub](https://www.github.com/).
 
-The following URL will match the GitHub repositry for the given user.
-Please note that the branch should be named gh-pages and an index.html should be in the root folder
+The following URL will match the GitHub repositry for the given user:
+
 https://search.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubRepositry}
 
-Look at a specific case now:
+* Please note that the branch should be named gh-pages and an index.html should be in the root folder
+
+Look at a real example now:
 https://search.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels
 
 To start with, you can fork the simple example on https://search.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels. Instruction on how to publish are on the readme file.
