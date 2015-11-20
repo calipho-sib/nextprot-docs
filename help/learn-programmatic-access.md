@@ -92,21 +92,13 @@ Run "node print-sequence.js” and that’s it! You should get in your console t
 
 #Develop and contribute
 
-You can create viewers that integrates very easily in our platform putting it on [gist](https://gist.github.com/).
-If you add your index.htlm in gist, you can use neXtProt with  the following url:
+You can create viewers that integrates very easily in our platform putting them on [GitHub](https://www.github.com/).
 
-https://search.nextprot.org/entry/{entryAccession}/gist/{githubUser}/{gistId}
+The following URL will match the GitHub repositry for the given user.
+Please note that the branch should be named gh-pages and an index.html should be in the root folder
+https://search.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubRepositry}
 
-for example:
-[https://search.nextprot.org/entry/NX_P01308/viewer/ddtxra/a3a860b6d0c0e1ab0f76](https://search.nextprot.org/entry/NX_P01308/gist/ddtxra/a3a860b6d0c0e1ab0f76) corresponds to this gist: [http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76](http://bl.ocks.org/ddtxra/a3a860b6d0c0e1ab0f76).
-
-If you develop a viewer and would like to integrate it in neXtProt, simply [edit this file](https://github.com/calipho-sib/nextprot-viewers/edit/master/community-viewers.json) and create a pull request or [let us know](mailto:support@nextprot.org) by email.
-
-To start with, you can clone an existing [gist](https://gist.github.com/ddtxra/a3a860b6d0c0e1ab0f76).
-
-Note that the entry is pass as an http parameter `nxentry`. Check for instance these 2 urls [pirin](http://bl.ocks.org/ddtxra/raw/a3a860b6d0c0e1ab0f76/?nxentry=NX_O00625) and 
-[titin](http://bl.ocks.org/ddtxra/raw/a3a860b6d0c0e1ab0f76/?nxentry=NX_Q8WZ42)
-
+To start with, you can fork a simple example on [GitHub](https://github.com/ddtxra/protein-existence-levels). Instruction on how to publish are on the readme file.
 
 Happy programming! 
 
