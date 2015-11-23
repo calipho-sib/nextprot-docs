@@ -1,5 +1,3 @@
-# September 2015 neXtProt release
-
 This latest release of neXtProt includes:
 - An update of Ensembl so that neXtProt entries are now aligned on the most recent version of the reference human genome assembly, GRCh38
 - Updates of COSMIC, IntAct, and GO annotations
