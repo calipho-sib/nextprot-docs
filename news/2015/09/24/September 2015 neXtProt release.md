@@ -4,6 +4,7 @@ This latest release of neXtProt includes:
 * Updates of COSMIC, IntAct, and GO annotations
 
 These updates lead to:
+
 * 310,779 new protein variants
 * 5,194 new post-translational modifications
 * 604 new protein-protein interactions
