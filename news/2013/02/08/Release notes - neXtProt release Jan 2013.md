@@ -12,3 +12,5 @@ The L-MSVM applet, developed by BIONEXT ([www.bio-next.com/](http://www.bio-next
 * Cellosaurus: A comprehensive thesaurus on cell lines, containing cell lines from over 30 resources, including ATCC, IMGT/HLA, CHEMBL, PubMed, MeSH, Brenda, EFO, MCCL, and CLO.
 * Files with mappings of neXtProt entries to MGI, HGNC, Geneid, RefSeq, and Ensembl.
 * A new file, stats_by_chromosome.txt, file with the following data for each chromosome: Number of genes, number of entries, number of entries with proteomics data, and number of entries with evidence at protein level (PE1).
+
+this is a test
