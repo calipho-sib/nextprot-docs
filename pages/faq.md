@@ -1,4 +1,4 @@
-#FAQ
+#FAQ (Draft under development ...)
 
 ## FAQ_001 How is neXtProt different from Uniprot?
 
