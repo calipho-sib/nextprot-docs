@@ -1,8 +1,14 @@
 #What's new?
 
-**September ??, 2015**
+**November 27, 2015**
+1. A new, re-designed HOME page is implemented in this new version. Four pannels, "Getting started", "Data sources", "News" and a release pannel link to documentation, sources of data integrated in neXtProt, news (release, research and press releases), and release contents and statistics.
+2. Additional publications are now exported in the XML.
+3. Excel (.xls) export file now includes all gene names and chromosomal locations for an entry.
+4. Searches in publications which include "and", "the", etc. no longer return no results.
 
-1. The latest data release (neXtProt release 2015-09-01) is implemented in this new version.
+**September 24, 2015**
+
+1. The latest data release (neXtProt release 2015-09-01) is implemented in this new version. For details, refer to the [September 2015 neXtProt release notes](http://www.nextprot.org/news/nextprot/2015-09-24/september-2015-nextprot-release).
 2. Lists can now be created by entering or uploading a file with UniProtKB accession numbers.
 2. Multiple list files can be uploaded to generate a single list.
 3. When creating a new list which includes an invalid accession number, an error message is displayed and the list is not created.
