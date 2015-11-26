@@ -12,7 +12,7 @@
 
 Query neXtProt content:
 
-* **[Simple search](/help/learn-simple-search)**
+* **[Simple search](/help/learn-simple-search)**: Search in _Proteins_, _Publications_ and _Terms_
 * **[Advanced search](/help/learn-advanced-search)**: _Query list_, _Managing queries_ and _Saving queries_
 * **[Search results](/help/learn-search-results)**: _Filtering search results_, _Sorting search results_ and _Downloading search results_
 
