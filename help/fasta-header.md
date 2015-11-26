@@ -1,3 +1,5 @@
+#FASTA header
+
 The FASTA header for neXtProt entries has the following format:
 
 > \>db|UniqueIdentifier|GeneName|ProteinName|IsoformName
