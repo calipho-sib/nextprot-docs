@@ -1,6 +1,7 @@
 #What's new?
 
 **November 27, 2015**
+
 1. A new, re-designed HOME page is implemented in this new version. Four pannels, "Getting started", "Data sources", "News" and a release pannel link to documentation, sources of data integrated in neXtProt, news (release, research and press releases), and release contents and statistics.
 2. Additional publications are now exported in the XML.
 3. Excel (.xls) export file now includes all gene names and chromosomal locations for an entry.
