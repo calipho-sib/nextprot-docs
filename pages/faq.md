@@ -2,9 +2,12 @@
 
 ## FAQ_001 How is neXtProt different from Uniprot?
 
-## FAQ_002 How do we compute protein existence?
+## FAQ_002 How do we compute protein existence ?
 
-To classify a protein as PE1 , we need to have one unique peptide of at least 9 aa identified in a biological sample.
+By default each entry is given the protein existence level (PE) assigned by UniProt. See http://www.uniprot.org/help/protein_existence .
+Then we use the proteomics data we obtain from other data sources (mainly PeptideAtlas) to increase to PE1 the protein existence level of entries having experimental evidence at transcript level (PE2), protein existence inferred from homology (PE3) and protein predicted (PE4).
+
+To promote a protein to PE1 , we need to have one unique peptide of at least 9 aa identified in a biological sample.
 For example In the case of A6NN73 four peptides have been identified in biological samples, but none of them is unique (they are labelled 
 " found in other entries"). Therefore we cannot validate the existence of the protein.
 
