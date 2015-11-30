@@ -105,7 +105,7 @@ We are glad to share those modules with you and if you are interested to collabo
 
 #Develop and contribute
 
-You can create viewers that integrates very easily in our platform putting them on [GitHub](https://www.github.com/).
+You can create viewers that integrates very easily on neXtProt platform by sharing your code on [GitHub](https://www.github.com/).
 
 The following URL will match the GitHub repositry for the given user:
 
@@ -115,7 +115,9 @@ https://search.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubReposi
 
 Look at a real example now: https://search.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels
 
-To start with, you can fork the sources of the real example on GitHub: [https://github.com/ddtxra/protein-existence-levels](https://github.com/ddtxra/protein-existence-levels). Instruction on how to publish in nextprot website are part of the readme file.
+To start with, you can fork the sources of this real example on GitHub: [https://github.com/ddtxra/protein-existence-levels](https://github.com/ddtxra/protein-existence-levels). 
+
+To publish it, simply edit [this file](https://github.com/calipho-sib/nextprot-docs/edit/master/json-config/community-entry-viewers.json) or [send us an email](mailto:support@nextprot.org).
 
 Happy programming!
 
