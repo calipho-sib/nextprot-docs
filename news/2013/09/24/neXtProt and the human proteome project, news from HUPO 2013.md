@@ -1,0 +1,9 @@
+We are just back from the HUPO2013 meeting, which took place in Yokohama from September 14th to 18th!
+
+This conference highlighted the numerous advances in the global understanding of the human proteome, in particular thanks to the contributions of all the teams involved in the international [HUPO](http://www.hupo.org/) [Human Proteome Project (HPP)](http://www.thehpp.org/) . It also allowed us to reinforce our collaborations with major resources such as the [Human Protein Atlas](http://www.proteinatlas.org/), [PeptideAtlas](http://www.peptideatlas.org/) and [GPMdb](http://gpmdb.thegpm.org/).
+
+We are very pleased to inform you that neXProt has been confirmed as the reference knowledgebase for human protein annotation in the context of HPP, and in particular for the chromosome-centric projects [c-HPP](http://www.c-hpp.org/), a global effort to validate in vivo the existence of at least one protein species per protein-coding gene, using a compendium of mass spectrometry and antibody-based techniques.
+
+neXtProt is the only resource that provides validation scores for the existence of proteins based on integrated criteria, including high-quality mass-spectrometry identification, antibody-based studies, biochemical characterization, 3D structure determination, or direct protein sequencing. Notably, the integration of the very last datasets from PeptideAtlas in the current neXtProt version extensively improved the coverage of validated proteins. The lists of entries currently validated at protein level in neXtProt per chromosome (available at [ftp://ftp.nextprot.org/pub/current_release/custom/hpp/](ftp://ftp.nextprot.org/pub/current_release/custom/hpp/)) will be used as the baseline for the c-HPP projects. We hope that they will also be useful to the broader scientific community.
+
+For more details on the use of neXtProt in the context of HPP, please refer to [doi/abs/10.1021/pr300830v](http://pubs.acs.org/doi/abs/10.1021/pr300830v).

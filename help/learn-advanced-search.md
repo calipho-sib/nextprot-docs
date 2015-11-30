@@ -28,4 +28,4 @@ To close the sample queries window, simply click on the "x" on the top right of 
 1. Log in. You must be logged in to save and manage your queries.
 2. To save a query in the search box, simply click on the **+**. Alternatively, select the **New query** button in the sample queries window or select **Create new query** while viewing your saved queries.
 3. Enter a **Name** and **Description** (optional) for the query.
-4. Click **Save**. Saved queries are displayed in the sample queries window and in [My Queries](user/queries).
+4. Click **Save**. Saved queries are displayed in the sample queries window and in [My Queries](user/queries). The URL for saved queries can now be used to share a query (there is no need to login to launch it).
