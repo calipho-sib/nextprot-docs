@@ -33,3 +33,8 @@ Si c'est pour une documentation plus technique:
 
 
 ## FAQ_004 Not all of the Ensembl isoforms are present. Based on what criteria are the other sequences discarded?
+
+
+## FAQ_005 Is there a way to obtain a multiple alignment of the different isoforms corresponding to an entry?
+
+There is currently no possibility to align the sequences of all the isoforms for an entry in neXtProt. However, this possibility exists in UniProtKB which has the same isoforms as in neXtProt. If you go to the Protein > Identifiers tab for the entry and follow the link for the UniProtKB, you can then select the "Align" (Align this entry with its isoforms) option. 
