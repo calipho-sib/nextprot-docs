@@ -1,5 +1,12 @@
 #The human proteome
 
+∼ &#126;
+
+“ &#34; &quot;
+
+‘ &#39;
+
+
 Around 20,300 protein-coding genes have been predicted from the analysis of the human genome. Transcriptomic analyses such as DNA microarray or RNA sequencing have shown that these genes are expressed in a large dynamic range in the ∼230 cell types that comprise the human body. More than fifty percent of them give rise to alternative splicing isoforms. During or after translation, numerous chemical modifications of the protein products can occur (processing, post-translational modifications, etc.), resulting in a huge variability of proteoforms that vary with time, location, and physiologic or disease conditions. One can estimate that one million proteoforms coexist in a single individual. This variability does not take into account the inter-individual variations due to frequent polymorphisms or rare mutations. Due to recent progress in DNA sequencing technologies, this inter-individual variability can now be analyzed in detail across populations. Recent advances in proteomics technologies allow detecting and quantifying proteins and their modifications with a higher precision. However, many proteins predicted from genomic or transcriptomic analyses still escape detection, either because they were improperly predicted, or because their expression is restricted in time and/or space, or their biophysical and chemical properties are not compatible with usual proteomics experiments.
 
 The aim of neXtProt is to document and reflect the inter- and intra-individual diversity of human proteins at genomic, transcriptomic and proteomic levels. With a few exceptions, all the proteoforms arising from a given protein-coding gene are described in a single entry. In the current neXtProt release there are XXX  entries (NXQ_00209.rq.unpub), encompassing YYY splicing isoforms (NXQ_00210.rq.unpub), XXX single amino acid variations (NXQ_00211.rq.unpub) and YYY PTMs (NXQ_00212.rq.unpub). 
