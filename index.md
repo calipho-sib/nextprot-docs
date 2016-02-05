@@ -2,37 +2,35 @@
 
 #Introduction
 
--	**[The human proteome](/pages/human-proteome.md)**
--	**[neXtProt](/pages/about.md)**
--	**[What's new](/pages/what-is-new.md)**
--	**[Known issues](/pages/known-issues.md)**
--	**[Citing and linking to neXtProt](/pages/citing-nextprot.md)**
+-	**[The human proteome](/pages/human-proteome)**
+-	**[neXtProt](/pages/about)**
+-	**[What's new](/pages/what-is-new)**
+-	**[Known issues](/pages/known-issues)**
+-	**[Citing and linking to neXtProt](/pages/citing-nextprot)**
 
-\#[Search](/help/learn-all-searches.md)
+\#[Search](/help/learn-all-searches)
 
 Query neXtProt content:
 
--	**[Simple search](/help/learn-simple-search.md)**: Search in *Proteins*, *Publications* and *Terms*
--	**[Advanced search](/help/learn-advanced-search.md)**: *Query list*, *Managing queries* and *Saving queries*
--	**[Search results](/help/learn-search-results.md)**: *Filtering search results*, *Sorting search results* and *Downloading search results*
+-	**[Simple search](/help/learn-simple-search)**: Search in *Proteins*, *Publications* and *Terms*
+-	**[Advanced search](/help/learn-advanced-search)**: *Query list*, *Managing queries* and *Saving queries*
+-	**[Search results](/help/learn-search-results)**: *Filtering search results*, *Sorting search results* and *Downloading search results*
 
 #Explore
 
 Explore neXtProt content
 
-\#[Analyze](/help/learn-analyze.md)
+\#[Analyze](/help/learn-analyze)
 
 Use neXtProt tools to analyze data:
 
--	**[BLAST](/help/learn-analyze.md)**
--	**[List management](/help/learn-protein-lists.md)**
+-	**[BLAST](/help/learn-analyze)**
+-	**[List management](/help/learn-protein-lists)**
 
-\#[Download](/help/learn-download.md)
+\#[Download](/help/learn-download)
 
 Export data to use it locally.
 
-\#[Programmatic access](/help/learn-programmatic-access.md)
+\#[Programmatic access](/help/learn-programmatic-access)
 
 Developer's corner.
-
-#Glossary
