@@ -8,7 +8,7 @@
 -	**[Known issues](/pages/known-issues)**
 -	**[Citing and linking to neXtProt](/pages/citing-nextprot)**
 
-\#[Search](/help/learn-all-searches)
+#[Search](/help/learn-all-searches.md)
 
 Query neXtProt content:
 
@@ -20,17 +20,17 @@ Query neXtProt content:
 
 Explore neXtProt content
 
-\#[Analyze](/help/learn-analyze)
+#[Analyze](/help/learn-analyze.md)
 
 Use neXtProt tools to analyze data:
 
 -	**[BLAST](/help/learn-analyze)**
 -	**[List management](/help/learn-protein-lists)**
 
-\#[Download](/help/learn-download)
+#[Download](/help/learn-download.md)
 
 Export data to use it locally.
 
-\#[Programmatic access](/help/learn-programmatic-access)
+#[Programmatic access](/help/learn-programmatic-access.md)
 
 Developer's corner.
