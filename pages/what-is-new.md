@@ -1,8 +1,8 @@
 #What's new?
 
-**February 15, 2016**
+**February 12, 2016**
 
-1. The latest data release (neXtProt release 2016-01-11) is implemented in this new version. For details, refer to the [February 2016 neXtProt release notes](http://www.nextprot.org/news/nextprot/2016-02-??/february-2016-nextprot-release).
+1. The latest data release (neXtProt release 2016-01-11) is implemented in this new version. For details, refer to the [February 2016 neXtProt release notes](http://www.nextprot.org/news/nextprot/2016-02-12/february-2016-nextprot-release).
 2. The HOME page now links to [The human proteome](https://search.nextprot.org/human-proteome) information page.
 3. A new [protein existence view](https://search.nextprot.org/view/statistics/protein-existence) showing the detailed distribution of the "protein existence" status of the entries across chromosomes for the release is now available.
 4. The [Download](https://search.nextprot.org/help/learn-download) documentation page has been updated to include the ttl files available from our FTP site.
