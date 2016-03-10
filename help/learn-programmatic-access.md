@@ -107,9 +107,9 @@ We are glad to share those modules with you and if you are interested to collabo
 
 You can create viewers that integrates very easily on neXtProt platform by sharing your code on [GitHub](https://www.github.com/).
 
-The following URL will match the GitHub repositry for the given user:
+The following URL will match the GitHub repository for the given user:
 
-https://search.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubRepositry\}
+https://search.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubRepository\}
 
 -	Please note that the branch should be named gh-pages and an index.html should be in the root folder
 
