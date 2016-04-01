@@ -20,7 +20,7 @@ Lane L, Argoud-Puy G, Britan A, Cusin I, Duek PD, Evalet O, Gateau A, Gaudet P, 
 
 The standard way of linking to a neXtProt entry is to link to the HTML view using the neXtProt accession number (AC) as _identifier_ .
 
-Example:  Insulin (INS)  with AC NX_P01308 [http://www.nextprot.org/db/entry/NX_P01308](http://www.nextprot.org/db/entry/NX_P01308)
+Example:  Insulin (INS)  with AC NX_P01308 [http://www.nextprot.org/db/entry/NX\_P01308](http://www.nextprot.org/db/entry/NX_P01308)
 
 Additional formats for entries can be displayed using our [API](https://api.nextprot.org/).
 
