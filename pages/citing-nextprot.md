@@ -27,6 +27,7 @@ Additional formats for entries can be displayed using our [API](https://api.next
 Note that all individual entries and queries are accessible using simple URLs (REST). All pages (in particular query results) can therefore be bookmarked and linked. 
 
 Examples:
+
 * Simple search in proteins for "insulin": [https://search.nextprot.org/proteins/search?query=insulin](https://search.nextprot.org/proteins/search?query=insulin)
 * Filter the results above for entries with disease data: [https://search.nextprot.org/proteins/search?query=insulin&filter=filterdisease](https://search.nextprot.org/proteins/search?query=insulin&filter=filterdisease)
 * Advanced search NXQ_00003 for proteins with 7 transmembrane regions: [https://search.nextprot.org/proteins/search?mode=advanced&queryId=NXQ_00003](https://search.nextprot.org/proteins/search?mode=advanced&queryId=NXQ_00003)
