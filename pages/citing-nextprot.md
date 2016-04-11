@@ -20,15 +20,16 @@ Lane L, Argoud-Puy G, Britan A, Cusin I, Duek PD, Evalet O, Gateau A, Gaudet P, 
 
 The standard way of linking to a neXtProt entry is to link to the HTML view using the neXtProt accession number (AC) as _identifier_ .
 
-Example:  Insulin (INS)  with AC NX_P01308 [http://www.nextprot.org/db/entry/NX_P01308](http://www.nextprot.org/db/entry/NX_P01308)
+Example:  Insulin (INS)  with AC NX_P01308 [http://www.nextprot.org/db/entry/NX\_P01308](http://www.nextprot.org/db/entry/NX_P01308)
 
 Additional formats for entries can be displayed using our [API](https://api.nextprot.org/).
 
 Note that all individual entries and queries are accessible using simple URLs (REST). All pages (in particular query results) can therefore be bookmarked and linked. 
 
 Examples:
+
 * Simple search in proteins for "insulin": [https://search.nextprot.org/proteins/search?query=insulin](https://search.nextprot.org/proteins/search?query=insulin)
 * Filter the results above for entries with disease data: [https://search.nextprot.org/proteins/search?query=insulin&filter=filterdisease](https://search.nextprot.org/proteins/search?query=insulin&filter=filterdisease)
-* Advanced search NXQ_00003 for proteins with 7 transmembrane regions: [https://search.nextprot.org/proteins/search?mode=advanced&queryId=NXQ_00003](https://search.nextprot.org/proteins/search?mode=advanced&queryId=NXQ_00003)
+* Advanced search NXQ\_00003 for proteins with 7 transmembrane regions: [https://search.nextprot.org/proteins/search?mode=advanced&queryId=NXQ\_00003](https://search.nextprot.org/proteins/search?mode=advanced&queryId=NXQ_00003)
 
 Please note that it is only possible to link to the current release for a neXtProt entry or query.

@@ -1,5 +1,13 @@
 #What's new?
 
+**April 11, 2016**
+
+1. The search in the HOME page now always includes the "Gold only" and "Include silver" options.
+2. It is now possible to search for a publication DOI in the simple search.
+3. A new version of the XML and the corresponding XSD (XML Schema Definition) are provided. This new version: (1) reflects the RDF data model implemented, (2) includes all the data in neXtProt (for instance it now includes peptides mapped to entries), and (3) makes use, whenever possible, of the same format for controlled vocabulary terms, cross-references, identifiers and publication. In order for users to make a gradual transition to this new format, we will continue to provide the neXtprot releases in the old format until 2017. Please refer to the FTP [README](ftp://ftp.nextprot.org/README) for the location of these files.
+4. Additional data, including topological domains and membrane, are now shown in the new peptide viewer which is under construction.
+5. Documentation on [Citing neXtProt](https://search.nextprot.org/citing-nextprot) is now online.
+
 **February 12, 2016**
 
 1. The latest data release (neXtProt release 2016-01-11) is implemented in this new version. For details, refer to the [February 2016 neXtProt release notes](http://www.nextprot.org/news/nextprot/2016-02-12/february-2016-nextprot-release).
