@@ -6,6 +6,7 @@
 * **Protein Variant** - ...
 
 
-## BRCA portal
+## Gene specific portals
+These portals provide information about the functional impact of genetic variants and artificially generated mutants.  
 
 
