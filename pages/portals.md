@@ -14,23 +14,13 @@ These portals provide information about the functional impact of genetic variant
 
 * **Mutation origin**:  The mutation origin describes either inherited mutation (germline_variant), acquired mutation (somatic_variant), or artificial (mutated_variant_site) according to Sequence Ontology http://www.sequenceontology.org 
 
-
--	somatic_variant: http://www.sequenceontology.org/miso/current_svn/term/SO:0001777
-
--	germline_variant: http://www.sequenceontology.org/browser/current_svn/term/SO:0001778
-
--	mutated_variant_site: Artificial mutation that has not been yet detected in one individual http://www.sequenceontology.org/browser/current_svn/term/SO:0001148
-
 * **Relation**: In-house relations describing the functional defect/phenotype (Impact), or the absence of functional defect/phenotype (No impact)
 
-
 * **Function**: 
--	(cvTerm) GO
--	Protein
--	Chemical
--	(cvTerm) MAMMALIAN_PHENOTYPE
--	Complex
--	proteinGroup
+-	Effect on protein function/process/cellular localization is captured with Gene Ontology terms
+-	Effect on binding to proteins and protein complexes is captured with neXtProt entry IDs
+-	Effect on binding to chemicals is captured with CHEBI terms
+-	Effect on electrophysiological parameters are captured with the ICEPO ontology (relevant to ion channels)
 
 
 * **Phenotype intensity**: Amplitude of the functional defect/phenotype observed: severe, moderate, or mild. Not applicable for observation where the mutant has no significant impact: N/A
