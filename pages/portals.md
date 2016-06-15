@@ -24,7 +24,7 @@ These portals provide information about the functional impact of genetic variant
 
 * **Data confidence**: Evidence is tagged 'Gold' or 'Silver' according to curator judgment on the quality of the data
 
-* **Evidence codes**: Terms describing the experimental protocols supporting the evidence http://www.evidenceontology.org/
+* **Evidence codes**: Terms describing the experimental protocols supporting the evidence [http://www.evidenceontology.org/](http://www.evidenceontology.org/)
 
 * **Reference**: Pubmed ID reference of the study supporting the evidence [http://www.ncbi.nlm.nih.gov/pubmed](http://www.ncbi.nlm.nih.gov/pubmed)
 
