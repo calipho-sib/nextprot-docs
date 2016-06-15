@@ -6,11 +6,11 @@ These portals provide information about the functional impact of genetic variant
 
 * **Position**: Position of the mutation on the canonical protein sequence. The position is only shown for variants annotated to the canonical sequence. However, some variants are related to a specific isoform, indicated in the protein mutation name. In this case, no position is indicated in the column.
 
-* **Protein Variant**: Protein mutation name according to HGVS nomenclature http://varnomen.hgvs.org/recommendations/protein/
+* **Protein Variant**: Protein mutation name according to HGVS nomenclature [http://varnomen.hgvs.org/recommendations/protein/] (http://varnomen.hgvs.org/recommendations/protein/)
 
-* **Mutation type**: The mutation type describes the impact of the mutation on the protein, according to Sequence Ontology http://www.sequenceontology.org 
+* **Mutation type**: The mutation type describes the impact of the mutation on the protein, according to Sequence Ontology [http://www.sequenceontology.org] (http://www.sequenceontology.org)
 
-* **Mutation origin**: The mutation origin describes either inherited mutation (germline_variant), acquired mutation (somatic_variant) or artificial (mutated_variant_site) according to Sequence Ontology http://www.sequenceontology.org 
+* **Mutation origin**: The mutation origin describes either inherited mutation (germline_variant), acquired mutation (somatic_variant) or artificial (mutated_variant_site) according to Sequence Ontology 
 
 * **Phenotype intensity**: Amplitude of the functional defect/phenotype observed: severe, moderate or mild. Not applicable for observation where the mutant has no significant impact: N/A
 
@@ -20,7 +20,7 @@ These portals provide information about the functional impact of genetic variant
   * Effect on protein function/biological process/cellular localization is captured with Gene Ontology terms
   * Effect on binding to proteins and protein complexes is captured with neXtProt entry IDs
   * Effect on binding to chemicals is captured with CHEBI terms
-  * Effect on electrophysiological parameters is captured with the ICEPO ontology (relevant to ion channels) ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/
+  * Effect on electrophysiological parameters is captured with the ICEPO ontology (relevant to ion channels) [ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/)
 
 * **Data confidence**: Evidence is tagged 'Gold' or 'Silver' according to curator judgment on the quality of the data
 
