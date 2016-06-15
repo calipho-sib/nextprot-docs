@@ -26,7 +26,7 @@ These portals provide information about the functional impact of genetic variant
 
 * **Evidence codes**: Terms describing the experimental protocols supporting the evidence http://www.evidenceontology.org/
 
-* **Reference**: Pubmed ID reference of the study supporting the evidence http://www.ncbi.nlm.nih.gov/pubmed
+* **Reference**: Pubmed ID reference of the study supporting the evidence [http://www.ncbi.nlm.nih.gov/pubmed](http://www.ncbi.nlm.nih.gov/pubmed)
 
 * **Protein Origin**: Organism species from which the protein being studied was derived. Note that it is different from the experimental system (see below)
 
