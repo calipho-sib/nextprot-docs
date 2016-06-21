@@ -33,3 +33,4 @@ This portal provide information about the functional impact of genetic variants 
 * **Experimental system**: Organism species of the model in which the mutated protein is studied, such as cell lines, primary cells and whole organism. In vitro studies are annotated as "None (in vitro)". 
 
 
+If you have any comments or feedback, write to support @ nextprot.org. 
