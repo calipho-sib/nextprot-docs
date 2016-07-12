@@ -1,36 +1,36 @@
 [
   {
-    "id": "/",
+    "url": "/",
     "title": "neXtProt platform",
     "metaDescription": "A knowledge platform on human proteins. It strives to be a comprehensive resource that provides a variety of types of information on human proteins.",
     "h1": "neXtProt platform"
   },
   {
-    "id": "/proteins/search",
+    "url": "/proteins/search",
     "title": "neXtProt simple search system",
     "metaDescription": "Search proteins, publications, terms using keywords",
     "h1": "neXtprot simple search system"
   },
   {
-    "id": "/proteins/search?mode=advanced",
+    "url": "/proteins/search?mode=advanced",
     "title": "neXtProt advanced search system",
     "metaDescription": "Search proteins using SPARQL queries",
     "h1": "neXtProt advanced search system"
   },
   {
-    "id": "/user/proteins/lists",
+    "url": "/user/proteins/lists",
     "title": "User protein lists",
     "metaDescription": "Management of user protein lists",
     "h1": "User protein lists"
   },
   {
-    "id": "/user/queries",
+    "url": "/user/queries",
     "title": "User queries",
     "metaDescription": "Management of user SPARQL queries",
     "h1": "User queries"
   },
   {
-    "id": "/tools/unicity-checker",
+    "url": "/tools/unicity-checker",
     "title": "Pepti",
     "metaDescription": "unicity-checker",
     "metaDescription": "Tool checking the unicity of peptides in human proteins taking into account known variants ",
@@ -38,85 +38,85 @@
     "metaDescription": "unicity-checker"
   },
   {
-    "id": "/portals/breast-cancer",
+    "url": "/portals/breast-cancer",
     "title": "Breast cancer portal",
     "metaDescription": "Breast cancer portal",
     "h1": "Breast cancer portal"
   },
   {
-    "id": "/portals/navmut",
+    "url": "/portals/navmut",
     "title": "Sodium ion channel portal",
     "metaDescription": "Sodium ion channel portal",
     "h1": "Sodium ion channel portal"
   },
   {
-    "id": "/portals/protein-kinases",
+    "url": "/portals/protein-kinases",
     "title": "Protein-kinases portal",
     "metaDescription": "Protein-kinases portal",
     "h1": "Protein-kinases portal"
   },
   {
-    "id": "/about",
+    "url": "/about",
     "title": "About neXtProt concept",
     "metaDescription": "About neXtProt concept",
     "h1": "About neXtProt concept"
   },
   {
-    "id": "/about/nextprot",
+    "url": "/about/nextprot",
     "title": "About neXtProt concept",
     "metaDescription": "About neXtProt concept",
     "h1": "About neXtProt concept"
   },
   {
-    "id": "/about/release",
+    "url": "/about/release",
     "title": "About current release",
     "metaDescription": "About current release",
     "h1": "About current release"
   },
   {
-    "id": "/about/human-proteome",
+    "url": "/about/human-proteome",
     "title": "About human proteome",
     "metaDescription": "About human proteome",
     "h1": "About human proteome"
   },
   {
-    "id": "/about/citing-nextprot",
+    "url": "/about/citing-nextprot",
     "title": "Citing neXtProt",
     "metaDescription": "Citing neXtProt",
     "h1": "Citing neXtProt"
   },
   {
-    "id": "/copyright",
+    "url": "/copyright",
     "title": "neXtProt copyright",
     "metaDescription": "neXtProt copyright",
     "h1": "neXtProt copyright"
   },
   {
-    "id": "/legal-disclaimer",
+    "url": "/legal-disclaimer",
     "title": "neXtProt legal disclaimer",
     "metaDescription": "neXtProt legal disclaimer",
     "h1": "neXtProt legal disclaimer"
   },
   {
-    "id": "/release",
+    "url": "/release",
     "title": "Release contents",
     "metaDescription": "Release data contents",
     "h1": "Release contents"
   },
   {
-    "id": "/release/contents",
+    "url": "/release/contents",
     "title": "Release contents",
     "metaDescription": "Release data contents",
     "h1": "Release contents"
   },
   {
-    "id": "/release/statistics",
+    "url": "/release/statistics",
     "title": "Release statistics",
     "metaDescription": "Release statistics",
     "h1": "Release statistics"
   },
   {
-    "id": "/release/protein-existence",
+    "url": "/release/protein-existence",
     "title": "Protein existence",
     "metaDescription": "Graphical view of protein existence by chromosome ",
     "h1": "Protein existence"
