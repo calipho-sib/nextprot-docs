@@ -1,0 +1,121 @@
+# test file
+
+ID /  
+TI neXtProt platform
+DE A knowledge platform on human proteins. It strives to be a comprehensive resource that provides a variety of types of information on human proteins.
+H1 neXtProt platform
+//
+
+ID /proteins/search
+TI neXtProt simple search system
+DE Search proteins, publications, terms using keywords
+H1 neXtprot simple search system
+//
+
+ID /proteins/search?mode=advanced
+TI neXtProt advanced search system
+DE Search proteins using SPARQL queries
+H1 neXtProt advanced search system
+//
+
+ID /user/proteins/lists
+TI User protein lists
+DE Management of user protein lists
+H1 User protein lists
+//
+
+ID /user/queries
+TI User queries
+DE Management of user SPARQL queries
+H1 User queries
+//
+
+ID /tools/unicity-checker
+TI Peptide unicity-checker
+DE Tool checking the unicity of peptides in human proteins taking into account known variants 
+H1 Peptide unicity-checker
+//
+
+ID /portals/breast-cancer
+TI Breast cancer portal
+DE Breast cancer portal
+H1 Breast cancer portal
+//
+
+ID /portals/navmut
+TI Sodium ion channel portal
+DE Sodium ion channel portal
+H1 Sodium ion channel portal
+//
+
+ID /portals/protein-kinases
+TI Protein-kinases portal
+DE Protein-kinases portal
+H1 Protein-kinases portal
+//
+
+ID /about
+TI About neXtProt concept
+DE About neXtProt concept
+H1 About neXtProt concept
+//
+
+ID /about/nextprot
+TI About neXtProt concept
+DE About neXtProt concept
+H1 About neXtProt concept
+//
+
+ID /about/release
+TI About current release
+DE About current release
+H1 About current release
+//
+
+ID /about/human-proteome
+TI About human proteome
+DE About human proteome
+H1 About human proteome
+//
+
+ID /about/citing-nextprot
+TI Citing neXtProt
+DE Citing neXtProt
+H1 Citing neXtProt
+//
+
+ID /copyright
+TI neXtProt copyright
+DE neXtProt copyright
+H1 neXtProt copyright
+//
+
+ID /legal-disclaimer
+TI neXtProt legal disclaimer
+DE neXtProt legal disclaimer
+H1 neXtProt legal disclaimer
+//
+
+ID /release
+TI Release contents
+DE Release data contents
+H1 Release contents
+//
+
+ID /release/contents
+TI Release contents
+DE Release data contents
+H1 Release contents
+//
+
+ID /release/statistics
+TI Release statistics
+DE Release statistics
+H1 Release statistics
+//
+
+ID /release/protein-existence
+TI Protein existence
+DE Graphical view of protein existence by chromosome 
+H1 Protein existence
+//
