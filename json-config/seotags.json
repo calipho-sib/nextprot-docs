@@ -1,0 +1,122 @@
+[
+  {
+    "url": "/",
+    "title": "neXtProt platform",
+    "metaDescription": "A knowledge platform on human proteins. It strives to be a comprehensive resource that provides a variety of types of information on human proteins.",
+    "h1": "neXtProt platform"
+  },
+  {
+    "url": "/proteins/search",
+    "title": "neXtProt simple search system",
+    "metaDescription": "Search proteins, publications, terms using keywords",
+    "h1": "neXtprot simple search system"
+  },
+  {
+    "url": "/proteins/search?mode=advanced",
+    "title": "neXtProt advanced search system",
+    "metaDescription": "Search proteins using SPARQL queries",
+    "h1": "neXtProt advanced search system"
+  },
+  {
+    "url": "/user/proteins/lists",
+    "title": "User protein lists",
+    "metaDescription": "Management of user protein lists",
+    "h1": "User protein lists"
+  },
+  {
+    "url": "/user/queries",
+    "title": "User queries",
+    "metaDescription": "Management of user SPARQL queries",
+    "h1": "User queries"
+  },
+  {
+    "url": "/tools/unicity-checker",
+    "title": "Unicity checker",
+    "metaDescription": "Tool checking the unicity of peptides in human proteins taking into account known variants ",
+    "h1": "Unicity checker"
+  },
+  {
+    "url": "/portals/breast-cancer",
+    "title": "Breast cancer portal",
+    "metaDescription": "Breast cancer portal",
+    "h1": "Breast cancer portal"
+  },
+  {
+    "url": "/portals/navmut",
+    "title": "Sodium ion channel portal",
+    "metaDescription": "Sodium ion channel portal",
+    "h1": "Sodium ion channel portal"
+  },
+  {
+    "url": "/portals/protein-kinases",
+    "title": "Protein-kinases portal",
+    "metaDescription": "Protein-kinases portal",
+    "h1": "Protein-kinases portal"
+  },
+  {
+    "url": "/about",
+    "title": "About neXtProt concept",
+    "metaDescription": "About neXtProt concept",
+    "h1": "About neXtProt concept"
+  },
+  {
+    "url": "/about/nextprot",
+    "title": "About neXtProt concept",
+    "metaDescription": "About neXtProt concept",
+    "h1": "About neXtProt concept"
+  },
+  {
+    "url": "/about/release",
+    "title": "About current release",
+    "metaDescription": "About current release",
+    "h1": "About current release"
+  },
+  {
+    "url": "/about/human-proteome",
+    "title": "About human proteome",
+    "metaDescription": "About human proteome",
+    "h1": "About human proteome"
+  },
+  {
+    "url": "/about/citing-nextprot",
+    "title": "Citing neXtProt",
+    "metaDescription": "Citing neXtProt",
+    "h1": "Citing neXtProt"
+  },
+  {
+    "url": "/copyright",
+    "title": "neXtProt copyright",
+    "metaDescription": "neXtProt copyright",
+    "h1": "neXtProt copyright"
+  },
+  {
+    "url": "/legal-disclaimer",
+    "title": "neXtProt legal disclaimer",
+    "metaDescription": "neXtProt legal disclaimer",
+    "h1": "neXtProt legal disclaimer"
+  },
+  {
+    "url": "/release",
+    "title": "Release contents",
+    "metaDescription": "Release data contents",
+    "h1": "Release contents"
+  },
+  {
+    "url": "/release/contents",
+    "title": "Release contents",
+    "metaDescription": "Release data contents",
+    "h1": "Release contents"
+  },
+  {
+    "url": "/release/statistics",
+    "title": "Release statistics",
+    "metaDescription": "Release statistics",
+    "h1": "Release statistics"
+  },
+  {
+    "url": "/release/protein-existence",
+    "title": "Protein existence",
+    "metaDescription": "Graphical view of protein existence by chromosome ",
+    "h1": "Protein existence"
+  }
+]

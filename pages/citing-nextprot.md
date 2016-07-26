@@ -16,6 +16,10 @@ Lane L, Argoud-Puy G, Britan A, Cusin I, Duek PD, Evalet O, Gateau A, Gaudet P, 
 **neXtProt: a knowledge platform for human proteins.**
 [Nucleic Acids Res. 2012 Jan;40(Database issue):D76-83.](http://dx.doi.org/doi:10.1093/nar/gkr1179)
 
+To cite a particular neXtProt release, please use "neXtProt release" followed by the _date of the release_ shown in the HOME page. 
+
+Example: neXtProt release 2016-01-11
+
 #Linking to us
 
 The standard way of linking to a neXtProt entry is to link to the HTML view using the neXtProt accession number (AC) as _identifier_ .
