@@ -1,4 +1,4 @@
-#How to cite us
+##How to cite us
 
 If neXtProt has been useful to your work, please consider citing our latest publication:
 
@@ -20,7 +20,7 @@ To cite a particular neXtProt release, please use "neXtProt release" followed by
 
 Example: neXtProt release 2016-01-11
 
-#Linking to us
+##Linking to us
 
 The standard way of linking to a neXtProt entry is to link to the HTML view using the neXtProt accession number (AC) as _identifier_ .
 

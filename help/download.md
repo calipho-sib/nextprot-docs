@@ -1,4 +1,4 @@
-#Download neXtProt
+##How to Download neXtProt
 
 You can download neXtProt data in three ways:
 
