@@ -90,25 +90,19 @@
     "h1": "neXtProt legal disclaimer"
   },
   {
-    "url": "/release",
+    "url": "/about/contents",
     "title": "Release contents",
     "metaDescription": "Release data contents",
     "h1": "Release contents"
   },
   {
-    "url": "/release/contents",
-    "title": "Release contents",
-    "metaDescription": "Release data contents",
-    "h1": "Release contents"
-  },
-  {
-    "url": "/release/statistics",
+    "url": "/about/statistics",
     "title": "Release statistics",
     "metaDescription": "Release statistics",
     "h1": "Release statistics"
   },
   {
-    "url": "/release/protein-existence",
+    "url": "/about/protein-existence",
     "title": "Protein existence",
     "metaDescription": "Graphical view of protein existence by chromosome ",
     "h1": "Protein existence"
