@@ -1,6 +1,4 @@
 
-#About neXtProt
-
 Developed by the SIB Swiss Institute of Bioinformatics neXtProt is a comprehensive human-centric discovery platform, offering its users a seamless integration of and navigation through protein-related data.
 
 Background

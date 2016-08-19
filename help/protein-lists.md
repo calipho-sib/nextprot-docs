@@ -1,4 +1,3 @@
-#Protein lists
 
 A **list** is a collection of protein entries that you have created. 
 

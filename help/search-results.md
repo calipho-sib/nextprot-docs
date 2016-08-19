@@ -1,4 +1,3 @@
-#Search results
 
 While the search in the protein section makes use of the information in all isoforms, the results are provided as "entries" and not isoforms. 
 

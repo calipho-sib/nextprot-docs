@@ -1,4 +1,3 @@
-#Advanced search
 
 Select the **Advanced** option below the query box to use the SPARQL Protocol and RDF Query Language (SPARQL) to access all the neXtProt protein entry data.
 

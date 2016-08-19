@@ -1,4 +1,4 @@
-#Developer API
+##Developer API
 
 The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) can be freely used by anyone.
 
@@ -72,7 +72,7 @@ See an example of protein existence in live in [bl.ocks.org](http://bl.ocks.org/
 
 <a href="http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f" target="_blank"> <img width="25%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/></a>
 
-#Node
+##Node
 
 To make use of the module simply type on your shell `npm install nextprot-cli` (requires node and npm)
 
@@ -95,7 +95,7 @@ Run "node print-sequence.js” and that’s it! You should get in your console t
 	MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
 ```
 
-#BioJS We have registered 3 modules on BioJS that we use to build our views.
+##BioJS We have registered 3 modules on BioJS that we use to build our views.
 
 -	Sequence Viewer (independent of neXtProt): [http://biojs.io/d/sequence-viewer](http://biojs.io/d/sequence-viewer)
 -	Feature Viewer (independent of neXtProt): [http://biojs.io/d/feature-viewer](http://biojs.io/d/feature-viewer)
@@ -103,7 +103,7 @@ Run "node print-sequence.js” and that’s it! You should get in your console t
 
 We are glad to share those modules with you and if you are interested to collaborate on one of them let us know.
 
-#Develop and contribute
+##Develop and contribute
 
 You can create viewers that integrates very easily on neXtProt platform by sharing your code on [GitHub](https://www.github.com/).
 
