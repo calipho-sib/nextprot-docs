@@ -22,6 +22,7 @@ Finally a newer version of **blast** (2.3.0) has been installed.
 We have taken this opportunity to freshen up our user interface while maintaining the look and feel of our original web site. We hope you will take this opportunity to explore the universe of human proteins on neXtProt and let us know what you think. 
 
 **Changes to the XML**
+
 A new version of our XSD, version 2, is on the FTP site. Changes are documented in a comment at the beginning of the XSD file. Due to technical constraints the old XML format can no longer be provided.
 
 **Changes to the files available by FTP**
