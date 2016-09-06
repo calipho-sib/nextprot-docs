@@ -37,15 +37,15 @@
   },
   {
     "url": "/portals/breast-cancer",
-    "title": "Breast cancer portal",
-    "metaDescription": "Breast cancer portal",
-    "h1": "Breast cancer portal"
+    "title": "Cancer Variants Portal",
+    "metaDescription": "Cancer Variants Portal",
+    "h1": "Cancer Variants Portal"
   },
   {
     "url": "/portals/navmut",
-    "title": "Sodium ion channel portal",
-    "metaDescription": "Sodium ion channel portal",
-    "h1": "Sodium ion channel portal"
+    "title": "Ion Channels Variants Portal",
+    "metaDescription": "Ion Channels Variants Portal",
+    "h1": "Ion Channels Variants Portal"
   },
   {
     "url": "/portals/protein-kinases",
