@@ -37,15 +37,15 @@
   },
   {
     "url": "/portals/breast-cancer",
-    "title": "Cancer Variants Portal",
-    "metaDescription": "Cancer Variants Portal",
-    "h1": "Cancer Variants Portal"
+    "title": "Cancer variants portal",
+    "metaDescription": "Cancer variants portal",
+    "h1": "Cancer variants portal"
   },
   {
     "url": "/portals/navmut",
-    "title": "Ion Channels Variants Portal",
-    "metaDescription": "Ion Channels Variants Portal",
-    "h1": "Ion Channels Variants Portal"
+    "title": "Ion channels variants portal",
+    "metaDescription": "Ion channels variants portal",
+    "h1": "Ion channels variants portal"
   },
   {
     "url": "/portals/protein-kinases",
