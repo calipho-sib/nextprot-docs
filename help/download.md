@@ -14,4 +14,4 @@ The following file formats are available:
 -	**TTL** Available from the Download option or the FTP site. Please refer to the [README file](ftp://ftp.nextprot.org/README) for a description of the files.
 -	**TXT** Available from the Download option or the FTP site. Text file with neXtProt accession numbers (e.g., NX\_P01308, NX\_P06213).
 -	**XLS** Available from the Download option.
--	**XML** Available from the Export entry and Download options or the FTP site. Please refer to the XML Schema for neXtProt ([XSD](https://api.nextprot.org/nextprot-export-v1.xsd)) for information.
+-	**XML** Available from the Export entry and Download options or the FTP site. Please refer to the XML Schema for neXtProt ([XSD](https://api.nextprot.org/nextprot-export-v2.xsd)) for information.
