@@ -25,5 +25,5 @@ A new version of our XSD, version 2, is on the FTP site. Changes are documented 
 
 **Changes to the files available by FTP**
 
-1. Two new controlled vocabularies used in the variant phenotype data have been included: cv_protein_property.obo and cv_modification_effect.obo
+1. Two new controlled vocabularies used in the variant phenotype data have been included: cv\_protein\_property.obo and cv\_modification\_effect.obo
 2. The Cellosaurus files have been moved to the ExPaSy FTP site (ftp://ftp.expasy.org/databases/cellosaurus/) and removed from the neXtProt FTP site.
