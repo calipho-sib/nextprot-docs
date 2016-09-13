@@ -4,8 +4,8 @@ We are pleased to announce that new variant phenotype data annotated by the neXt
 
 The data is also presented in greater detail in the new portals for the following entries:
 
-1. **[Cancer Variants Portal](/portals/breast-cancer)**: BRCA1 
-2. **[Ion Channels Variants Portal](/portals/navmut)** on sodium channels: SCN1A, SCN2A, SCN3A, SCN4A, SCN5A, SCN8A, SCN9A, SCN10A, SCN11A
+1. **[Cancer variants portal](/portals/breast-cancer)**: BRCA1 
+2. **[Ion channels variants portal](/portals/navmut)** on sodium channels: SCN1A, SCN2A, SCN3A, SCN4A, SCN5A, SCN8A, SCN9A, SCN10A, SCN11A
 
 This release of neXtProt also includes an update to Ensembl (Release 84), as well as updates of UniProtKB (Release 2016_06), IntAct and GO annotations. Compared to our previous release, over 2,500,000 new variants have been incorporated. 
 
