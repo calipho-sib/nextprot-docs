@@ -1,7 +1,7 @@
 
 A **list** is a collection of protein entries that you have created. 
 
-To view and manage your protein lists, you must be logged in. Log in and select [My protein lists](user/protein/lists) from the login drop-down menu.
+To view and manage your protein lists, you must be logged in. Log in and select **My protein lists** from the login drop-down menu.
 
 
 ##Creating a list
