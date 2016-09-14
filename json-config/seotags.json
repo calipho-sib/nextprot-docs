@@ -55,15 +55,15 @@
   },
   {
     "url": "/about/nextprot",
-    "title": "About neXtProt concept",
-    "metaDescription": "About neXtProt concept",
-    "h1": "About neXtProt concept"
+    "title": "neXtProt concept",
+    "metaDescription": "neXtProt concept",
+    "h1": "neXtProt concept"
   },
   {
     "url": "/about/human-proteome",
-    "title": "About human proteome",
-    "metaDescription": "About human proteome",
-    "h1": "About human proteome"
+    "title": "The human proteome",
+    "metaDescription": "The human proteome",
+    "h1": "The human proteome"
   },
   {
     "url": "/about/citing-nextprot",
@@ -97,9 +97,9 @@
   },
   {
     "url": "/about/protein-existence",
-    "title": "Protein existence",
+    "title": "Protein existence status",
     "metaDescription": "Graphical view of protein existence by chromosome ",
-    "h1": "Protein existence"
+    "h1": "Protein existence status"
   },
   {
     "url": "/help/programmatic-access",
