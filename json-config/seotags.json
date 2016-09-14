@@ -100,5 +100,11 @@
     "title": "Protein existence",
     "metaDescription": "Graphical view of protein existence by chromosome ",
     "h1": "Protein existence"
+  },
+  {
+    "url": "/help/programmatic-access",
+    "title": "Developer API",
+    "metaDescription": "Developer API",
+    "h1": "Developer API"
   }
 ]
