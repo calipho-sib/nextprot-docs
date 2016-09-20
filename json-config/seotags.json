@@ -5,6 +5,12 @@
     "metaDescription": "A knowledge platform on human proteins. It strives to be a comprehensive resource that provides a variety of types of information on human proteins.",
     "h1": "neXtProt platform"
   },
+   {
+    "url": "/toto/test",
+    "title": "toto platform",
+    "metaDescription": "A knowledge platform on toto jokes",
+    "h1": "neXtProt platform"
+  },
   {
     "url": "/proteins/search",
     "title": "neXtProt simple search system",
