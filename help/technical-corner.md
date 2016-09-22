@@ -133,7 +133,7 @@ If you need some help, don't hesitate to [contact us](mailto:support@nextprot.or
 
 Our viewers are javascript components that can freely be re-used under the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
-The code source can be found on [www.github.com/calipho-sib|GitHub Calipho SIB repository] and also on [http://www.biojs.io/|BioJS registry].
+The code source can be found on [GitHub Calipho SIB repository](www.github.com/calipho-sib) and also on [BioJS registry](http://www.biojs.io/).
 
 ###Feature viewer
 
