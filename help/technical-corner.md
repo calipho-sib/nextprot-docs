@@ -3,7 +3,7 @@ The technical corner is dedicated to developers willing to get data programmatic
 * Programmatic access (JSON, XML using our REST API). SPARQL endpoint 
 * Viewer libraries
 
-#h2 Programmatic access
+##Programmatic access
 
 The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) can be freely used by anyone.
 
@@ -130,7 +130,7 @@ If you need some help, don't hesitate to [contact us](mailto:support@nextprot.or
 
 <h1 id="viewers">Viewer Libraries</h1>
 
-#h2 Viewers
+##Viewers
 
 -------------
 
