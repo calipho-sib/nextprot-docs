@@ -133,6 +133,7 @@ If you need some help, don't hesitate to [contact us](mailto:support@nextprot.or
 
 ###Feature viewer
 <img src="assets/feature-viewer-screenshot.png"></img>
+<a href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.40/examples/index.html" target="_blank"> <img width="25%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/></a>
 
 -	[sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
