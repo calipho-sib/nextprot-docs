@@ -114,17 +114,13 @@ You can create viewers that integrates very easily on neXtProt platform by shari
 
 The following URL will match the GitHub repository for the given user:
 
-https://search.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubRepository\}
+https://www.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubRepository\}
 
 -	Please note that the branch should be named gh-pages and an index.html should be in the root folder
 
-Look at a real example now: https://search.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels
+Look at a real example now: https://www.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels
 
 To start with, you can fork the sources of this real example on GitHub: [https://github.com/ddtxra/protein-existence-levels](https://github.com/ddtxra/protein-existence-levels). 
-
-To publish it, simply edit [this file](https://github.com/calipho-sib/nextprot-docs/edit/master/json-config/community-entry-viewers.json) or [send us an email](mailto:support@nextprot.org).
-
-Happy programming!
 
 If you need some help, don't hesitate to [contact us](mailto:support@nextprot.org). One of our developer will be more than happy to assist you.
 
@@ -139,12 +135,22 @@ The code source can be found on [GitHub Calipho SIB repository](www.github.com/c
 
 A javascript tool based on the library D3, will allow you to display the features covering your sequence of DNA, protein, or others.
 
-</img>
-<a href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.40/examples/index.html" target="_blank"> <img width="25%" src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/feature-viewer-screenshot.png"/></a>
+<a href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.40/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/feature-viewer-screenshot.png"/></a>
+
+###Sequence viewer
+
+This javascript tool will allows to display sequences of DNA, protein, or others, formatted FASTA-like, and apply some visual improvment for selection and coverage
+
+<a href="https://cdn.rawgit.com/calipho-sib/sequence-viewer/master/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/sequence-viewer-screenshot.png"/></a>
+
+
+###Hierarchical Heatmap Table 
+
+This javascript component will allow to display hierarchical tables with custom templates.
+
+<a href="https://cdn.rawgit.com/calipho-sib/hierarchic-heatmap-table-component/master/doc/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/hierarchical-heatmap-table.png"/></a>
+
+
+##Snippets and demo Examples  
 
 -	[sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
-
-More complex viewers can be seen in our [github](https://github.com/calipho-sib/nextprot-viewers) repository:
-
--	[Annotation Statistics](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/statistics/annotations/app/index.html)
--	[Peptide viewer with entry passed as parameter](https://cdn.rawgit.com/calipho-sib/nextprot-viewers/master/peptides/app/index.html?nxentry=NX_P46976)
