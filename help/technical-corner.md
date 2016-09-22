@@ -124,8 +124,7 @@ To start with, you can fork the sources of this real example on GitHub: [https:/
 
 If you need some help, don't hesitate to [contact us](mailto:support@nextprot.org). One of our developer will be more than happy to assist you.
 
-##Viewers
-<a id="viewers"></a><!-- used for the anchor -->
+<h1><a name="viewers"/>Viewers</h1><!-- used like this because of the anchor -->
 
 Our viewers are javascript components that can freely be re-used under the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
@@ -135,13 +134,13 @@ The code source can be found on [GitHub Calipho SIB repository](www.github.com/c
 
 A javascript tool based on the library D3, will allow you to display the features covering your sequence of DNA, protein, or others.
 
-<a href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.40/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/feature-viewer-screenshot.png"/></a>
+<a href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.40/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/feature-viewer.png"/></a>
 
 ###Sequence viewer
 
 This javascript tool will allows to display sequences of DNA, protein, or others, formatted FASTA-like, and apply some visual improvment for selection and coverage
 
-<a href="https://cdn.rawgit.com/calipho-sib/sequence-viewer/master/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/sequence-viewer-screenshot.png"/></a>
+<a href="https://cdn.rawgit.com/calipho-sib/sequence-viewer/master/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/sequence-viewer.png"/></a>
 
 
 ###Hierarchical Heatmap Table 
@@ -151,6 +150,6 @@ This javascript component will allow to display hierarchical tables with custom 
 <a href="https://cdn.rawgit.com/calipho-sib/hierarchic-heatmap-table-component/master/doc/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/hierarchical-heatmap-table.png"/></a>
 
 
-##Snippets and demo Examples  
+##Snippets and demo examples  
 
 -	[sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
