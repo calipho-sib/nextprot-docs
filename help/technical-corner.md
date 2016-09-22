@@ -121,6 +121,8 @@ Happy programming!
 
 If you need some help, don't hesitate to [contact us](mailto:support@nextprot.org). One of our developer will be more than happy to assist you.
 
+<h1 id="viewers">Viewer Libraries</h1>
+
 Other viewers
 -------------
 
