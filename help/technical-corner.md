@@ -131,8 +131,15 @@ If you need some help, don't hesitate to [contact us](mailto:support@nextprot.or
 ##Viewers
 <h1 id="viewers"></h1>
 
+Our viewers are javascript components that can freely be re-used under the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+The code source can be found on [www.github.com/calipho-sib|GitHub Calipho SIB repository] and also on [http://www.biojs.io/|BioJS registry].
+
 ###Feature viewer
-<img src="assets/feature-viewer-screenshot.png"></img>
+
+A javascript tool based on the library D3, will allow you to display the features covering your sequence of DNA, protein, or others.
+
+</img>
 <a href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.40/examples/index.html" target="_blank"> <img width="25%" src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/feature-viewer-screenshot.png"/></a>
 
 -	[sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
