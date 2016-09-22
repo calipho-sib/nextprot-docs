@@ -125,7 +125,7 @@ To start with, you can fork the sources of this real example on GitHub: [https:/
 If you need some help, don't hesitate to [contact us](mailto:support@nextprot.org). One of our developer will be more than happy to assist you.
 
 ##Viewers
-<h1 id="viewers"></h1>
+<a id="viewers"></a><!-- used for the anchor -->
 
 Our viewers are javascript components that can freely be re-used under the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
