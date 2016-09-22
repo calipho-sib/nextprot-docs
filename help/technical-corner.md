@@ -128,11 +128,11 @@ Happy programming!
 
 If you need some help, don't hesitate to [contact us](mailto:support@nextprot.org). One of our developer will be more than happy to assist you.
 
-<h1 id="viewers">Viewer Libraries</h1>
-
 ##Viewers
+<h1 id="viewers"></h1>
 
--------------
+###Feature viewer
+<img src="assets/feature-viewer-screenshot.png"></img>
 
 -	[sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
