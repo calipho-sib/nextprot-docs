@@ -1,3 +1,10 @@
+The technical corner is dedicated to developers willing to get data programmatically or use our viewer libraries.
+
+* Programmatic access (JSON, XML using our REST API). SPARQL endpoint 
+* Viewer libraries
+
+#h2 Programmatic access
+
 The [REST api](https://api.nextprot.org) and the [SPARQL endpoint](https://api.nextprot.org/sparql) can be freely used by anyone.
 
 You can get the content of an entry in different format by using the api like this:
@@ -123,7 +130,8 @@ If you need some help, don't hesitate to [contact us](mailto:support@nextprot.or
 
 <h1 id="viewers">Viewer Libraries</h1>
 
-Other viewers
+#h2 Viewers
+
 -------------
 
 -	[sparql - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
