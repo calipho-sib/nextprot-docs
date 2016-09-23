@@ -1,7 +1,7 @@
 The technical corner is dedicated to developers willing to get data programmatically or use our viewer libraries.
 
-* Viewer libraries
-* Programmatic access (JSON, XML using our REST API). SPARQL endpoint 
+* [Viewer libraries](#viewers)
+* [Programmatic access](#programmatic-access) (JSON, XML using our REST API). SPARQL endpoint 
 
 <h1><a id="viewers"/>Viewers</h1><!-- used like this because of the anchor -->
 
