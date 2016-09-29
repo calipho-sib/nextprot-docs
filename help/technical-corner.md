@@ -1,33 +1,7 @@
-The technical corner is dedicated to developers wanting to use our viewer libraries or to get our data programmatically.
+The technical corner is dedicated to developers wanting to get our data programmatically or to use our viewer libraries.
 
+* [Programmatic access](#programmatic-access) (JSON, XML using our REST API; SPARQL endpoint)
 * [Viewer libraries](#viewers)
-* [Programmatic access](#programmatic-access) (JSON, XML using our REST API; SPARQL endpoint)  
-
-<h1><a id="viewers"/>Viewers</h1><!-- used like this because of the anchor -->
-
-Our viewers are javascript components that can be freely re-used under the GNU General Public License as published by the Free Software Foundation (either version 2 or greater of the License).
-
-The source code and examples are found in the [GitHub Calipho SIB repository](http://www.github.com/calipho-sib) and in [BioJS registry](http://www.biojs.io/).
-
-###Feature viewer
-
-A javascript tool, based on the library D3, which allows you to display features mapping to your sequence (DNA, protein, or other).
-
-<a href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.40/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/feature-viewer.png"/></a>
-
-###Sequence viewer
-
-This javascript tool allows you to display a sequence (DNA, protein, or other) in a FASTA-like formatted and to apply some visual improvements for selection and coverage.
-
-<a href="https://cdn.rawgit.com/calipho-sib/sequence-viewer/master/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/sequence-viewer.png"/></a>
-
-
-###Hierarchical Heatmap Table 
-
-This javascript component allows hierarchical tables to be displayed using custom templates.
-
-<a href="https://cdn.rawgit.com/calipho-sib/hierarchic-heatmap-table-component/master/doc/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/hierarchical-heatmap-table.png"/></a>
-
 
 <h1><a id="programmatic-access"/>Programmatic Access</h1><!-- used like this because of the anchor -->
 
@@ -127,3 +101,30 @@ If you need some help, don't hesitate to [contact us](mailto:support@nextprot.or
 View an example of protein existence live in [bl.ocks.org](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f) or edit it in [jsfiddle](http://jsfiddle.net/ddtxra/x3umjp67/) (supports: chrome, firefox or safari, microsoft edge).
 
 <a href="http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f" target="_blank"> <img width="25%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/></a>
+
+
+
+<h1><a id="viewers"/>Viewers</h1><!-- used like this because of the anchor -->
+
+Our viewers are javascript components that can be freely re-used under the GNU General Public License as published by the Free Software Foundation (either version 2 or greater of the License).
+
+The source code and examples are found in the [GitHub Calipho SIB repository](http://www.github.com/calipho-sib) and in [BioJS registry](http://www.biojs.io/).
+
+###Feature viewer
+
+A javascript tool, based on the library D3, which allows you to display features mapping to your sequence (DNA, protein, or other).
+
+<a href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.40/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/feature-viewer.png"/></a>
+
+###Sequence viewer
+
+This javascript tool allows you to display a sequence (DNA, protein, or other) in a FASTA-like formatted and to apply some visual improvements for selection and coverage.
+
+<a href="https://cdn.rawgit.com/calipho-sib/sequence-viewer/master/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/sequence-viewer.png"/></a>
+
+
+###Hierarchical Heatmap Table 
+
+This javascript component allows hierarchical tables to be displayed using custom templates.
+
+<a href="https://cdn.rawgit.com/calipho-sib/hierarchic-heatmap-table-component/master/doc/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/hierarchical-heatmap-table.png"/></a>
