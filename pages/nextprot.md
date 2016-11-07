@@ -1,4 +1,3 @@
-
 Developed by the SIB Swiss Institute of Bioinformatics neXtProt is a comprehensive human-centric discovery platform, offering its users a seamless integration of and navigation through protein-related data.
 
 Background
@@ -58,7 +57,6 @@ CMU - Rue Michel-Servet 1
 1211 Geneva
 Switzerland
 Tel : +41 22 379 5050
-
 ```
 
 ----
