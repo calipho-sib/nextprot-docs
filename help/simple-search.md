@@ -25,12 +25,12 @@ _Example_: ["Adrenocortical carcinoma"](proteins/search?query=%22Adrenocortical%
 
 Searching in publications returns all publications containing the term(s) in either the citation data or abstract. By using **prefixes** in the search, the search can be restricted to one of the following fields:
 
-* **author** Example: [author:Doolittle](publications/search?query=author:Doolittle)
-* **year** Example: [year:2007](publications/search?query=year:2007)
-* **journal** Example: [journal:plos biology](publications/search?query=journal:plos%20biology)
 * **title** Example: [title:prion](publications/search?query=title:prion)
 * **abstract** Example: [abstract:BRCA1](publications/search?query=abstract:BRCA1)
+* **author** Example: [author:Doolittle](publications/search?query=author:Doolittle)
+* **journal** Example: [journal:plos biology](publications/search?query=journal:plos%20biology)
 * **volume** Example: [volume:51](publications/search?query=volume:51)
+* **year** Example: [year:2007](publications/search?query=year:2007)
 
 Searching for multiple terms containing prefixes returns all publications matching both constraints.
 
