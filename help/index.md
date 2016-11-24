@@ -1,5 +1,3 @@
-#Help pages
-
 -	**[Simple search](/help/simple-search)**: Search in *Proteins*, *Publications* and *Terms*
 -	**[Advanced search](/help/advanced-search)**: *Query list*, *Managing queries* and *Saving queries*
 -	**[Search results](/help/search-results)**: *Filtering search results*, *Sorting search results* and *Downloading search results*
