@@ -1,1 +1,0 @@
-Navigate through help pages to the left
