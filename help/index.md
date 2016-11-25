@@ -1,8 +1,23 @@
--	**[Simple search](/help/simple-search)**: Search in *Proteins*, *Publications* and *Terms*
--	**[Advanced search](/help/advanced-search)**: *Query list*, *Managing queries* and *Saving queries*
--	**[Search results](/help/search-results)**: *Filtering search results*, *Sorting search results* and *Downloading search results*
--	**[Tools](/help/tools)**: The data in neXtProt can be analyzed using tools
+**Search**
+
+-	**[Simple search](/help/simple-search)**: Searching in *Proteins*, *Publications* and *Terms*
+-	**[Advanced search](/help/advanced-search)**: *Query list*, *managing* and *saving* queries
+-	**[Search results](/help/search-results)**: *Filtering*, *sorting* and *downloading* search results
+
+**Tools**
+
+-	**[Tools](/help/tools)**: Tools to analyze the data in neXtProt
+-	**[Protein lists](/help/protein-lists)**: Managing your lists of protein entries
+
+**neXtProt data**
+
 -	**[Data model](/help/data-model)**: neXtProt data model
--	**[Protein lists](/help/protein-lists)**: A list is a collection of protein entries that you have created
--	**[Download](/help/download)**: Download neXtProt
--	**[Technical corner](/help/technical-corner)**: Dedicated to developers
+-	**[Download](/help/download)**: Downloading neXtProt data
+
+**For developers**
+
+-	**[Technical corner](/help/technical-corner)**: *Programmatic access* and *Viewer libraries*
+
+**Need help?**
+
+[Contact us](mailto:support@nextprot.org) with any questions you may have
