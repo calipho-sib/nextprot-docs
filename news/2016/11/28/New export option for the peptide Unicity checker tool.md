@@ -1,4 +1,4 @@
-Developed for the proteomics community, the [Peptide Unicity Checker](/tools/unicity-checker) analyzes up to 1,000 peptides from mass spectrometry experiments. It determines the proteotypicity of the peptides, be it with respect to entries or isoforms, using the human protein sequences in neXtProt. This tool is more than just a simple mapping tool - leucine and isoleucine are considered equivalent and known sequence variants can be taken into account.
+Developed for the proteomics community, the peptide [Unicity checker](/tools/unicity-checker) analyzes up to 1,000 peptides from mass spectrometry experiments. It determines the proteotypicity of the peptides, be it with respect to entries or isoforms, using the human protein sequences in neXtProt. This tool is more than just a simple mapping tool - leucine and isoleucine are considered equivalent and known sequence variants can be taken into account.
 
 **New export feature**
 
