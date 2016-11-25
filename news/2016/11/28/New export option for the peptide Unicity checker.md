@@ -2,11 +2,12 @@ Developed for the proteomics community, the peptide [Unicity checker](/tools/uni
 
 **New export feature**
 
-The new “Download” option allows users to download the results in CSV format. Please note that this option is not functional in all browsers.
+The new "Download" option allows users to download the results in CSV format. Please note that this option is not functional in all browsers.
 
 **Additional changes**
 
 A number of changes have been made to the user interface so as to improve usability:
+
 * It is now possible to upload a TXT file containing peptide sequences for analysis.
 * In order to return relevant results, duplicate peptides are removed and their number reported. Matching entries or isoforms are calculated and displayed for each distinct peptide. 
-* A “Reset” button has been added that clears the form. 
+* A "Reset" button has been added that clears the form. 
