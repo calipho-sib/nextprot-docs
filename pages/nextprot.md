@@ -1,7 +1,6 @@
-
 Developed by the SIB Swiss Institute of Bioinformatics neXtProt is a comprehensive human-centric discovery platform, offering its users a seamless integration of and navigation through protein-related data.
 
-Background
+#Background
 
 In September 2008, the UniProt/Swiss-Prot group achieved the first complete manual annotation of what is believed to be the full set of human proteins (derived from about 20,000 genes). This was a major milestone as this collection of data is already quite rich in information pertinent to modern biomolecular medical research. But there remains a large gap in our knowledge of human proteins in terms of functional information as well as protein characterization (PTMs, protein/protein interactions, sub cellular locations, etc).
 
@@ -58,7 +57,5 @@ CMU - Rue Michel-Servet 1
 1211 Geneva
 Switzerland
 Tel : +41 22 379 5050
-
 ```
 
-----
