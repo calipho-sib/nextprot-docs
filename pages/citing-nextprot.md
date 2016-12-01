@@ -2,11 +2,15 @@
 
 If neXtProt has been useful to your work, please consider citing our latest publication:
 
+Gaudet P, Michel PA, Zahn-Zabal M, Britan A, Cusin I, Domagalski M, Duek PD, Gateau A, Gleizes A, Hinard V, Rech de Laval V, Lin JJ, Nikitin F, Schaeffer M, Teixeira D, Lane L, Bairoch A. 
+**The neXtProt knowledgebase on human proteins: 2017 update.**
+[Nucl. Acids Res. first published online November 29, 2016](http://nar.oxfordjournals.org/content/early/2016/11/29/nar.gkw1062.full) doi:10.1093/nar/gkw1062
+
+Additional publications:
+
 Gaudet P, Michel PA, Zahn-Zabal M, Cusin I, Duek PD, Evalet O, Gateau A, Gleizes A, Pereira M, Teixeira D, Zhang Y, Lane L, Bairoch A.
 **The neXtProt knowledgebase on human proteins: current status.**
 [Nucleic Acids Res. 2015 Jan;43(Database issue):D764-70.](http://dx.doi.org/doi:10.1093/nar/gku1178)
-
-Additional publications:
 
 Gaudet P, Argoud-Puy G, Cusin I, Duek P, Evalet O, Gateau A, Gleizes A, Pereira M, Zahn-Zabal M, Zwahlen C, Bairoch A, Lane L.
 **neXtProt: organizing protein knowledge in the context of human proteome projects.**
