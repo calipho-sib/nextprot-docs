@@ -1,4 +1,4 @@
-New Publication: The neXtProt knowledgebase on human proteins: 2017 update
+The neXtProt knowledgebase on human proteins: 2017 update
 
 Gaudet P, Michel PA, Zahn-Zabal M, Britan A, Cusin I, Domagalski M, Duek PD, Gateau A, Gleizes A, Hinard V, Rech de Laval V, Lin JJ, Nikitin F, Schaeffer M, Teixeira D, Lane L, Bairoch A.
 
