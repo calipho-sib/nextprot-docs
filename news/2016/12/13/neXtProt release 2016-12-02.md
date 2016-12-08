@@ -7,3 +7,7 @@ This release also includes an update to Ensembl Release 86, as well as updates o
 **Changes to the tools**
 
 We recently added a "Download" option to the peptide [Unicity checker](/tools/unicity-checker) which allows users to get the results in CSV format. However this option was restricted to use in the Chrome and Firefox browsers. This option is now also functional in Internet Explorer and Safari.
+
+**Changes to the files available by FTP**
+
+The 'cosmosaurus.txt' file containing the mapping of COSMIC disease terms to the NCI Thesaurus has been removed from the FTP file. It is no longer used by neXtProt as COSMIC now uses the NCI Thesaurus terms to describe diseases.
