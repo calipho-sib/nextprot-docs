@@ -4,9 +4,11 @@ This last release of the year builds on UniProtKB 2016_10. UniProtKB has updated
 
 This release also includes an update to Ensembl Release 86, as well as updates of COSMIC, IntAct, and the Human Protein Atlas. The release version for each source of data incorporated in the current neXtProt release is found in the [Release contents](/about/contents).
 
+The 5 million sequence variant mark has been reached.
+
 **Changes to the tools**
 
-We recently added a "Download" option to the peptide [Unicity checker](/tools/unicity-checker) which allows users to get the results in CSV format. However this option was restricted to use in the Chrome and Firefox browsers. This option is now also functional in Internet Explorer and Safari.
+We recently added a "Download" option to the peptide [Unicity checker](/tools/unicity-checker) which allows users to get the results in CSV format. This option is now also functional in Internet Explorer and Safari.
 
 **Changes to the files available by FTP**
 
