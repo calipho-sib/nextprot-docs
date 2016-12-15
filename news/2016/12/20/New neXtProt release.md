@@ -1,3 +1,5 @@
+**neXtProt release 2016-12-02**
+
 **Changes to the data**
 
 This last release of the year builds on UniProtKB 2016_10. UniProtKB has updated 107 human immunoglobulin entries so that they are now mapped to the human genome assembly thus allowing their integration in neXtProt. As a consequence, all UniProtKB Reviewed human entries are now found in neXtProt with the exception of 6 entries - the Ig mu heavy chain disease protein (P04220) and 5 T-cell receptor V regions (P04436 P04437 P01737 P01733 P04435) which are not yet compatible with the current human genome assembly.
