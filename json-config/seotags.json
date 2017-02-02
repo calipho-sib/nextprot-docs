@@ -31,9 +31,9 @@
   },
   {
     "url": "/tools/unicity-checker",
-    "title": "Unicity checker",
+    "title": "Peptide Unicity checker",
     "metaDescription": "Tool checking the unicity of peptides in human proteins taking into account known variants ",
-    "h1": "Unicity checker"
+    "h1": "Peptide Unicity checker"
   },
   {
     "url": "/portals/breast-cancer",
