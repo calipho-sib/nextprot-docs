@@ -13,7 +13,7 @@ neXtProt provides access to a simple BLAST implementation. To find other entries
 
 A list is a collection of protein entries that you have created. neXtProt allows you to create and manage private lists.
 
-**Peptide Unicity Checker**
+**Peptide unicity checker**
 
 The "unicity checker" was designed to help scientists determine which peptides are unambiguous and can thus be used to confidently identify protein entries. Up to 999 peptides can be analyzed with this tool.
 
