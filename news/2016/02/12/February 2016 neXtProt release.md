@@ -16,4 +16,4 @@ The FTP site now includes:
 * The controlled vocabulary file cv_carbohydrate.txt
 * The new cellosaurus_faq.txt file
 * Files listing the PE1 entries with the current and previous criteria
-* Some of the RDF ttl files have been renamed. All chromosome files now start with "nextprot_chromosome_", whereas all expression files start with "expression_".
+* Some of the RDF ttl files have been renamed. All chromosome files now start with "nextprot\_chromosome\_", whereas all expression files start with "expression_".
