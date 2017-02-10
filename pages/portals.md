@@ -17,7 +17,7 @@ This portal provides information about the functional impact of genetic variants
  * Moderate: 20 to 80%
  * Mild: 10 to 20%
 
-* **Relation**: In-house [relations vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/) describing the type of effect of the mutation. 
+* **Relation**: In-house [relations vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_modification_effect.obo) describing the type of effect of the mutation. 
 
 * **Function**: Object of the annotation triplet, describing: 
  * Effect on protein function/biological process/cellular localization, captured with [Gene Ontology terms](http://www.geneontology.org/).
