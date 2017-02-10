@@ -9,9 +9,9 @@ This portal provides information about the functional impact of genetic variants
 
 * **Protein Variant**: Subject of the annotation, corresponding to a protein mutation named according to [HGVS nomenclature](http://varnomen.hgvs.org/recommendations/protein/). Variants are annotated to the canonical sequence or to the specific isoforms sequence. In this case, the protein mutation name will contain "-iso". 
 
-* **Mutation type**: Consequence of the mutation on the protein using [Sequence Ontology terms](http://www.sequenceontology.org). 
+* **Mutation type**: Consequence of the mutation on the protein using [Sequence Ontology](http://www.sequenceontology.org) terms. 
 
-* **Mutation origin**: Either inherited mutation (germline variant), acquired mutation (somatic variant) or artificial (mutated variant site) using Sequence Ontology terms. 
+* **Mutation origin**: Either inherited mutation (germline variant), acquired mutation (somatic variant) or artificial (mutated variant site) using [Sequence Ontology terms](http://www.sequenceontology.org) terms. 
 
 * **Phenotype intensity**: Grade of the functional defect/phenotype observed: **Severe**, **Moderate**, **Mild**, or **Not Applicable (N/A)** when the mutant has no significant impact. The criteria are based on the fold-change of activity, response, etc., in the mutant compared to the control: 
  * Severe: over 80% 
@@ -34,11 +34,11 @@ This portal provides information about the functional impact of genetic variants
 
 * **Reference**: [PubMed ID](http://www.ncbi.nlm.nih.gov/pubmed) reference or [digital object identifier (DOI)](https://www.doi.org/) of the study supporting the evidence. 
 
-* **Protein Origin**: Species from which the protein being studied was derived. Note that it is different from the experimental system (see below).
+* **Protein Origin**: Species from which the protein being studied was derived, captured with the [NCBI taxomomy](https://www.ncbi.nlm.nih.gov/taxonomy). Note that it is different from the experimental system (see below).
 
 * **Cell line / Tissue**: Cell type or tissue from the [CALOHA human anatomy vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/caloha.obo) or the cell line from the [Cellosaurus knowledge resource](http://web.expasy.org/cellosaurus/) that was used in the experiment. Empty for *in vitro* experiments.
 
-* **Experimental system**: Species in which the mutated protein is studied. For example, a mouse protein [protein origin = Mus musculus] can be studied in a human cell line [Experimental system = Homo sapiens]. *In vitro* studies are annotated as "None (*in vitro*)". 
+* **Experimental system**: Species in which the mutated protein is studied, captured with the [NCBI taxomomy](https://www.ncbi.nlm.nih.gov/taxonomy). For example, a mouse protein [protein origin = Mus musculus] can be studied in a human cell line [Experimental system = Homo sapiens]. *In vitro* studies are annotated as "None (*in vitro*)". 
 
 * **Experimental details**: Curator note adding relevant information about the evidence.
 
