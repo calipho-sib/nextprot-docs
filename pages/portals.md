@@ -11,7 +11,7 @@ This portal provides information about the functional impact of genetic variants
 
 * **Mutation type**: Consequence of the mutation on the protein using [Sequence Ontology](http://www.sequenceontology.org) terms. 
 
-* **Mutation origin**: Either inherited mutation (germline variant), acquired mutation (somatic variant) or artificial (mutated variant site) using [Sequence Ontology terms](http://www.sequenceontology.org) terms. 
+* **Mutation origin**: Either inherited mutation (germline variant), acquired mutation (somatic variant) or artificial (mutated variant site) using [Sequence Ontology](http://www.sequenceontology.org) terms. 
 
 * **Phenotype intensity**: Grade of the functional defect/phenotype observed: **Severe**, **Moderate**, **Mild**, or **Not Applicable (N/A)** when the mutant has no significant impact. The criteria are based on the fold-change of activity, response, etc., in the mutant compared to the control: 
  * Severe: over 80% 
@@ -21,9 +21,9 @@ This portal provides information about the functional impact of genetic variants
 * **Relation**: In-house [relations vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_modification_effect.obo) describing the type of effect of the mutation. 
 
 * **Function**: Object of the annotation triplet, describing: 
- * Effect on protein function/biological process/cellular localization, captured with [Gene Ontology terms](http://www.geneontology.org/).
+ * Effect on protein function/biological process/cellular localization, captured with [Gene Ontology](http://www.geneontology.org/) terms.
  * Effect on binding to proteins and protein complexes, captured with neXtProt entry IDs.
- * Effect on binding to chemicals, captured with [ChEBI terms](https://www.ebi.ac.uk/chebi/).
+ * Effect on binding to chemicals, captured with [ChEBI](https://www.ebi.ac.uk/chebi/) terms.
  * Effect on electrophysiological parameters, captured with [ICEPO ontology](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/icepo.obo).
  * Effect on protein property (abundance, degradation, etc.), captured with in-house [protein properties vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_protein_property.obo).
  * Abnormal phenotypes, captured with [Mammalian Phenotype ontology](http://www.informatics.jax.org/searches/MP_form.shtml) terms.
