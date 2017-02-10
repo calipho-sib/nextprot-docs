@@ -1,4 +1,5 @@
-# Variant Functional Impact Portal
+# Documentation
+
 This portal provides information about the functional impact of genetic variants and artificially generated mutants. Annotation statements are triplets composed of (1) a **subject**, which corresponds to the protein variant being annotated; (2) a **relation** describing how the property is affected, and (3) an **object** that describes the function, localization, or protein property being tested.
  
 
