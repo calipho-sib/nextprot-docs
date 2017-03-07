@@ -23,4 +23,5 @@ _Changes to cross-references_
 In addition to the cross-references found in the “Further external links” section at the bottom of the page, some cross-references used to be interspersed throughout the section containing annotations. These cross-references have either been converted into annotations or moved to the “Further external links” section.
 
 Cross-references from the following sources have been converted into annotations: (1) TCDB, (2) KEGG, (3) Reactome and (4) UniPathways. The neXtProt data model has been changed accordingly, thereby increasing the information that can be queried using the advanced search.
+
 Cross-references from the following sources have been moved to the “Further external links” section: (1) BioCyc, (2) BRENDA, (3) CAZy, (4) MEROPS, (5) PeroxiBase and (6) REBASE.
