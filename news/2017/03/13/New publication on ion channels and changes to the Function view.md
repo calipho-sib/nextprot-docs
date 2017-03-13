@@ -22,10 +22,10 @@ _Changes to cross-references_
 
 Some cross-references used to be interspersed throughout the section containing annotations. Some of these have been moved to the &#34;Further external links&#34; section at the bottom of the page, while others have been converted into annotations.
 
-##Changes to the data model and files available by FTP
+##Changes to the data model and files on the FTP site
 
-Cross-references from TCDB have been converted into _transport-activity_ annotations. As the neXtProt data model has changed, the ttl files have been regenerated and are available on the FTP site at [ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/]. The new annotation category has also been added to the XSD file and the XML files regenerated; these files are also on the FTP site at [ftp://ftp.nextprot.org/pub/current_release/xml/].
+Cross-references from TCDB have been converted into _transport-activity_ annotations. As the neXtProt data model has changed, the ttl files have been regenerated and are available on the FTP site at ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/. The new annotation category has also been added to the XSD file and the XML files regenerated; these files are available at ftp://ftp.nextprot.org/pub/current_release/xml/.
 
 ##New advanced search SPARQL query
 
-neXtProt contains isoform-specific data. A new sample query (NXQ_00218)[../proteins/search?mode=advanced&queryId=NXQ_00218] which retrieves proteins for which different splice isoforms have a different subcellular location or function has been added to illustrate how to retrieve such data.
+neXtProt contains isoform-specific data. A new sample query [NXQ_00218](/proteins/search?mode=advanced&queryId=NXQ_00218) which retrieves proteins for which different splice isoforms have a different subcellular location or function has been added to illustrate how to retrieve such data.
