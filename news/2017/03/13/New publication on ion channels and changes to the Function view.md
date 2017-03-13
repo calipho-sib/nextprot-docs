@@ -20,8 +20,12 @@ This new sub-category regroups information concerning the enzymatic or transport
 
 _Changes to cross-references_
 
-In addition to the cross-references found in the “Further external links” section at the bottom of the page, some cross-references used to be interspersed throughout the section containing annotations. These cross-references have either been converted into annotations or moved to the “Further external links” section.
+Some cross-references used to be interspersed throughout the section containing annotations. Some of these have been moved to the &#34;Further external links&#34; section at the bottom of the page, while others have been converted into annotations.
 
-Cross-references from the following sources have been converted into annotations: (1) TCDB, (2) KEGG, (3) Reactome and (4) UniPathways. The neXtProt data model has been changed accordingly, thereby increasing the information that can be queried using the advanced search.
+##Changes to the data model and files available by FTP
 
-Cross-references from the following sources have been moved to the “Further external links” section: (1) BioCyc, (2) BRENDA, (3) CAZy, (4) MEROPS, (5) PeroxiBase and (6) REBASE.
+Cross-references from TCDB have been converted into _transport-activity_ annotations. As the neXtProt data model has changed, the ttl files have been regenerated and are available on the (FTP site)[ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/]. The new annotation category has also been added to the XSD file and the XML files regenerated; these files are also avalable on the (FTP site)[ftp://ftp.nextprot.org/pub/current_release/xml/].
+
+##New advanced search SPARQL query
+
+neXtProt contains isoform-specific data. A new sample query (NXQ_00218)[/proteins/search?mode=advanced&queryId=NXQ_00218] which retrieves proteins for which different splice isoforms have a different subcellular location or function has been added to illustrate how to retrieve such data.
