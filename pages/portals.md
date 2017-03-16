@@ -42,5 +42,9 @@ This portal provides information about the functional impact of genetic variants
 
 * **Experimental details**: Curator note adding relevant information about the evidence.
 
+## Reference
+
+Hinard V, Britan A, Schaeffer M, Zahn-Zabal M, Thomet U, Rougier JS, Bairoch A, Abriel H, Gaudet P. **Annotation of functional impact of voltage-gated sodium channel mutations.** Hum Mutat. 2017 Feb 7. [doi: 10.1002/humu.23191](http://dx.doi.org/10.1002/humu.23191).
+
 ## Comments & Feedback
 If you have any comments or feedback, write to support @ nextprot.org. 
