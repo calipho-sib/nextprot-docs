@@ -16,7 +16,7 @@ The Function view provides an overview of the molecular function of the entry, i
 
 _New ENZYMATIC ACTIVITY sub-category_
 
-This new sub-category regroups information concerning the enzymatic or transport activity of the entry. In particular, the (1) reactions catalyzed, (2) transport activity, (3) enzymatic activity regulation and (4) cofactors required are now found in this section.
+This new sub-category regroups information concerning the enzymatic activity of the entry. In particular, the (1) reactions catalyzed, (2) enzymatic activity regulation and (3) cofactors required are now found in this section.
 
 _Keyword definitions can now be viewed_
 
@@ -28,7 +28,7 @@ Some cross-references used to be interspersed throughout the section containing 
 
 ##Changes to the data model and files on the FTP site
 
-Cross-references from TCDB have been converted into _transport-activity_ annotations. As the neXtProt data model has changed, the ttl files have been regenerated and are available on the FTP site at [ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/](ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/). The new annotation category has also been added to the XSD file and the XML files regenerated; these files are available at [ftp://ftp.nextprot.org/pub/current_release/xml/](ftp://ftp.nextprot.org/pub/current_release/xml/).
+Cross-references from TCDB have been converted into _transport-activity_ annotations. As the neXtProt data model has changed, the ttl files have been regenerated and are available on the FTP site at [ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/](ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/). A new annotation category has been added to the XSD file and the XML files regenerated; these files are available at [ftp://ftp.nextprot.org/pub/current_release/xml/](ftp://ftp.nextprot.org/pub/current_release/xml/).
 
 ##New advanced search SPARQL queries
 
