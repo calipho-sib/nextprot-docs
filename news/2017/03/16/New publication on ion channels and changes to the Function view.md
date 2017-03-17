@@ -35,6 +35,6 @@ Cross-references from TCDB have been converted into _transport-activity_ annotat
 The following queries have been added:
 
 * [NXQ_00218](/proteins/search?mode=advanced&queryId=NXQ_00218) Proteins for which different splice isoforms have a different subcellular location or function
-* [NXQ_00220](/proteins/search?mode=advanced&queryId=NXQ_00218) Proteins located on chromosome MT (mitochondrial) coded by a gene located on the plus strand
+* [NXQ_00220](/proteins/search?mode=advanced&queryId=NXQ_00220) Proteins located on chromosome MT (mitochondrial) coded by a gene located on the plus strand
 
 The first query illustrates that isoform-specific differences can be retrieved. The second query shows that the majority of genes located on the mitochondrion are located on the plus strand. 
