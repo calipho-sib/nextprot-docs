@@ -28,13 +28,13 @@ Some cross-references used to be interspersed throughout the section containing 
 
 ##Changes to the data model and files on the FTP site
 
-Cross-references from TCDB have been converted into _transport-activity_ annotations. As the neXtProt data model has changed, the ttl files have been regenerated and are available on the FTP site at [ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/](ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/). A new annotation category has been added to the XSD file and the XML files regenerated; these files are available at [ftp://ftp.nextprot.org/pub/current_release/xml/](ftp://ftp.nextprot.org/pub/current_release/xml/).
+Cross-references from TCDB have been converted into _transport-activity_ annotations. As the neXtProt data model has changed, the ttl files have been regenerated and are available on the FTP site at [ftp://ftp.nextprot.org/pub/current\_release/rdf/ttl/](ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/). A new annotation category has been added to the XSD file and the XML files regenerated; these files are available at [ftp://ftp.nextprot.org/pub/current\_release/xml/](ftp://ftp.nextprot.org/pub/current_release/xml/).
 
 ##New advanced search SPARQL queries
 
 The following queries have been added:
 
 * [NXQ_00218](/proteins/search?mode=advanced&queryId=NXQ_00218) Proteins for which different splice isoforms have a different subcellular location or function
-* [NXQ_00220](/proteins/search?mode=advanced&queryId=NXQ_00218) Proteins located on chromosome MT (mitochondrial) coded by a gene located on the plus strand
+* [NXQ_00220](/proteins/search?mode=advanced&queryId=NXQ_00220) Proteins located on chromosome MT (mitochondrial) coded by a gene located on the plus strand
 
 The first query illustrates that isoform-specific differences can be retrieved. The second query shows that the majority of genes located on the mitochondrion are located on the plus strand. 
