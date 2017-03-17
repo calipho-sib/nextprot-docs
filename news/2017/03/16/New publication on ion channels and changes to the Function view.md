@@ -28,7 +28,7 @@ Some cross-references used to be interspersed throughout the section containing 
 
 ##Changes to the data model and files on the FTP site
 
-Cross-references from TCDB have been converted into _transport-activity_ annotations. As the neXtProt data model has changed, the ttl files have been regenerated and are available on the FTP site at [ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/](ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/). A new annotation category has been added to the XSD file and the XML files regenerated; these files are available at [ftp://ftp.nextprot.org/pub/current_release/xml/](ftp://ftp.nextprot.org/pub/current_release/xml/).
+Cross-references from TCDB have been converted into _transport-activity_ annotations. As the neXtProt data model has changed, the ttl files have been regenerated and are available on the FTP site at [ftp://ftp.nextprot.org/pub/current\_release/rdf/ttl/](ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/). A new annotation category has been added to the XSD file and the XML files regenerated; these files are available at [ftp://ftp.nextprot.org/pub/current\_release/xml/](ftp://ftp.nextprot.org/pub/current_release/xml/).
 
 ##New advanced search SPARQL queries
 
