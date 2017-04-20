@@ -15,4 +15,4 @@ The Interactions view provides information concerning molecules (other human pro
 
 ##Changes to the data model and files on the FTP site
 
-A new annotation type COFACTOR_INFO was created which contains the text of the UniProtKB &#39;Cofactor&#39; annotation block &#34;Note&#34;. This change in the neXtProt data model is reflected in the ttl files at [ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/](ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/),as well as in the XSD and XML files at [ftp://ftp.nextprot.org/pub/current_release/xml/](ftp://ftp.nextprot.org/pub/current_release/xml/).
+A new annotation type _cofactor-info_ was created which contains the text of the UniProtKB &#39;Cofactor&#39; annotation block &#34;Note&#34;. This change in the neXtProt data model is reflected in the ttl files at [ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/](ftp://ftp.nextprot.org/pub/current_release/rdf/ttl/),as well as in the XSD and XML files at [ftp://ftp.nextprot.org/pub/current_release/xml/](ftp://ftp.nextprot.org/pub/current_release/xml/).
