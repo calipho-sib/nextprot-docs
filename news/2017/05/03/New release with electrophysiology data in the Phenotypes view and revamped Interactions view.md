@@ -9,13 +9,15 @@ Voltage-gated sodium channels are pore-forming transmembrane proteins that selec
 ##Revamped Interactions view
 
 The Interactions view provides information concerning molecules (other human proteins, non-human proteins, drugs or chemicals) interacting directly with the protein represented in an entry. In addition to improving performance, a number of changes have been implemented to improve usability:
-1.	Additional positional features: Calcium binding regions, DNA binding regions, nucleotide phosphate binding regions, miscellaneous regions describing binding, binding sites, and metal binding sites.
-2.	New sections: ENZYME REGULATION, GO BINDING (GO molecular function annotations concerning binding), GO RECEPTOR ACTIVITY (GO molecular function annotations concerning receptor activity), PROTEIN-COFACTOR INTERACTION and PROTEIN-DRUG INTERACTION.
-3.	Interactants in the PROTEIN-PROTEIN INTERACTION section are now listed in the order: (i) Itself (ii) Gene name, irrespective of the species, in alphabetical order for other interactants, (iii) Interactants with no gene name, i.e. for which the gene name is given as &#34;-&#34;.
+
+1. Additional positional features: Calcium binding regions, DNA binding regions, nucleotide phosphate binding regions, miscellaneous regions describing binding, binding sites, and metal binding sites.
+2. New sections: ENZYME REGULATION, GO BINDING (GO molecular function annotations concerning binding), GO RECEPTOR ACTIVITY (GO molecular function annotations concerning receptor activity), PROTEIN-COFACTOR INTERACTION and PROTEIN-DRUG INTERACTION.
+3. Interactants in the PROTEIN-PROTEIN INTERACTION section are now listed in the order: (i) Itself (ii) Gene name, irrespective of the species, in alphabetical order for other interactants, (iii) Interactants with no gene name, i.e. for which the gene name is given as &#34;-&#34;.
 
 ##Changes to the data model and files on the FTP site
 
 Two new annotation types have been added:
+
 1. _cofactor-info_ which contains the text of the UniProtKB &#39;Cofactor&#39; annotation block &#34;Note&#34;
 2. _electrophysiological-parameter_  
 
