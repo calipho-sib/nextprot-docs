@@ -11,5 +11,6 @@ In terms of data, our new release has a strong focus on proteomics, with new dat
 * The rules for assigning "existence at protein level" using mass spectrometry data have been improved to take into account the length and number of peptides: at least 2 peptides 7 or 8 aa in length or 1 peptide 9 aa in length of more are now necessary to trigger this assignment.
 
 **FTP site**
+
 * The chromosome report files in TXT format have been fixed so that the data is aligned. Following the change in Swiss-Prot ACs, these were no longer aligned due to the presence of 13-digit neXtProt ACs.
 * Proteins which are encoded by multiple genes mapping to different chromosomes are now integrated in all the relevant PEFF and XML chromosome files.
