@@ -106,5 +106,11 @@
     "title": "Help - Technical corner",
     "metaDescription": "Help - Technical corner",
     "h1": "Help - Technical corner"
+  },
+  {
+    "url": "/chromosome-entries",
+    "title": "Chromosomal entries",
+    "metaDescription": "About - Chromosomal entries",
+    "h1": "Chromosome"
   }
 ]
