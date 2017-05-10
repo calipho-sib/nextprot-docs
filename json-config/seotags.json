@@ -30,9 +30,9 @@
     "h1": "User queries"
   },
   {
-    "url": "/tools/unicity-checker",
-    "title": "Peptide unicity checker",
-    "metaDescription": "Tool checking the unicity of peptides in human proteins taking into account known variants ",
+    "url": "/tools/peptide-uniqueness-checker",
+    "title": "Peptide uniqueness checker",
+    "metaDescription": "Tool checking the uniqueness of peptides in human proteins taking into account known variants ",
     "h1": "Peptide unicity checker"
   },
   {
