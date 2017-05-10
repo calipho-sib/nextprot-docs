@@ -5,4 +5,4 @@ The Medical view provides information concerning diseases associated with the pr
 
 ##Changes to the tools
 
-The "Peptide unicity checker" has been renamed the &#34;Peptide uniqueness checker&#34; and the URL has been changed accordingly.
+The &#34;Peptide unicity checker&#34; has been renamed the &#34;Peptide uniqueness checker&#34; and the URL has been changed accordingly.
