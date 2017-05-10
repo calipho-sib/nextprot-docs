@@ -1,7 +1,5 @@
-The Medical view provides information concerning diseases associated with the protein represented in an entry, as well as any drugs interacting directly with the protein. The Localization view provides information concerning the subcellular localization of the protein. In addition to loading more quickly, two additional changes have been implemented:
-
-1. The Medical view now includes the ALLERGEN section
-2. The Localization view now contains Keywords
+In the context of the revamping of our user interface we have updated the neXtProt medical and localizations views which respectively
+provides information concerning diseases and drugs and subcellular localization of the protein selected by the user.
 
 ##Changes to the tools
 
