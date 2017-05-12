@@ -30,10 +30,10 @@
     "h1": "User queries"
   },
   {
-    "url": "/tools/unicity-checker",
-    "title": "Peptide unicity checker",
-    "metaDescription": "Tool checking the unicity of peptides in human proteins taking into account known variants ",
-    "h1": "Peptide unicity checker"
+    "url": "/tools/peptide-uniqueness-checker",
+    "title": "Peptide uniqueness checker",
+    "metaDescription": "Tool checking the uniqueness of peptides in human proteins taking into account known variants ",
+    "h1": "Peptide uniqueness checker"
   },
   {
     "url": "/portals/breast-cancer",
@@ -106,5 +106,11 @@
     "title": "Help - Technical corner",
     "metaDescription": "Help - Technical corner",
     "h1": "Help - Technical corner"
+  },
+  {
+    "url": "/chromosome-entries",
+    "title": "Chromosomal entries",
+    "metaDescription": "About - Chromosomal entries",
+    "h1": "Chromosome"
   }
 ]
