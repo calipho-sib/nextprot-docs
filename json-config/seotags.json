@@ -114,6 +114,12 @@
     "h1": "Chromosomes"
   },
   {
+    "url": "/chromosome-entries/1",
+    "title": "Chromosome 1 entries",
+    "metaDescription": "List of neXtProt protein entries expressed by genes located in chromosome 1",
+    "h1": "Chromosome 1"
+  },
+  {
     "url": "/chromosome-entries/2",
     "title": "Chromosome 2 entries",
     "metaDescription": "List of neXtProt protein entries expressed by genes located in chromosome 2",
