@@ -108,157 +108,157 @@
     "h1": "Help - Technical corner"
   },
   {
-    "url": "/chromosome-entries/all",
+    "url": "/entries/all-chromosomes",
     "title": "Chromosomal entries",
-    "metaDescription": "About - Chromosomal entries",
+    "metaDescription": "About - All chromosome entries",
     "h1": "Chromosomes"
   },
   {
-    "url": "/chromosome-entries/1",
+    "url": "/entries/chromosome-1",
     "title": "Chromosome 1 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 1",
     "h1": "Chromosome 1"
   },
   {
-    "url": "/chromosome-entries/2",
+    "url": "/entries/chromosome-2",
     "title": "Chromosome 2 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 2",
     "h1": "Chromosome 2"
   },
   {
-    "url": "/chromosome-entries/3",
+    "url": "/entries/chromosome-3",
     "title": "Chromosome 3 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 3",
     "h1": "Chromosome 3"
   },
   {
-    "url": "/chromosome-entries/4",
+    "url": "/entries/chromosome-4",
     "title": "Chromosome 4 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 4",
     "h1": "Chromosome 4"
   },
   {
-    "url": "/chromosome-entries/5",
+    "url": "/entries/chromosome-5",
     "title": "Chromosome 5 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 5",
     "h1": "Chromosome 5"
   },
   {
-    "url": "/chromosome-entries/6",
+    "url": "/entries/chromosome-6",
     "title": "Chromosome 6 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 6",
     "h1": "Chromosome 6"
   },
   {
-    "url": "/chromosome-entries/7",
+    "url": "/entries/chromosome-7",
     "title": "Chromosome 7 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 7",
     "h1": "Chromosome 7"
   },
   {
-    "url": "/chromosome-entries/8",
+    "url": "/entries/chromosome-8",
     "title": "Chromosome 8 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 8",
     "h1": "Chromosome 8"
   },
   {
-    "url": "/chromosome-entries/9",
+    "url": "/entries/chromosome-9",
     "title": "Chromosome 9 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 9",
     "h1": "Chromosome 9"
   },
   {
-    "url": "/chromosome-entries/10",
+    "url": "/entries/chromosome-10",
     "title": "Chromosome 10 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 10",
     "h1": "Chromosome 10"
   },
   {
-    "url": "/chromosome-entries/11",
+    "url": "/entries/chromosome-11",
     "title": "Chromosome 11 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 11",
     "h1": "Chromosome 11"
   },
   {
-    "url": "/chromosome-entries/12",
+    "url": "/entries/chromosome-12",
     "title": "Chromosome 12 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 12",
     "h1": "Chromosome 12"
   },
   {
-    "url": "/chromosome-entries/13",
+    "url": "/entries/chromosome-13",
     "title": "Chromosome 13 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 13",
     "h1": "Chromosome 13"
   },
   {
-    "url": "/chromosome-entries/14",
+    "url": "/entries/chromosome-14",
     "title": "Chromosome 14 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 14",
     "h1": "Chromosome 14"
   },
   {
-    "url": "/chromosome-entries/15",
+    "url": "/entries/chromosome-15",
     "title": "Chromosome 15 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 15",
     "h1": "Chromosome 15"
   },
   {
-    "url": "/chromosome-entries/16",
+    "url": "/entries/chromosome-16",
     "title": "Chromosome 16 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 16",
     "h1": "Chromosome 16"
   },
   {
-    "url": "/chromosome-entries/17",
+    "url": "/entries/chromosome-17",
     "title": "Chromosome 17 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 17",
     "h1": "Chromosome 17"
   },
   {
-    "url": "/chromosome-entries/18",
+    "url": "/entries/chromosome-18",
     "title": "Chromosome 18 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 18",
     "h1": "Chromosome 18"
   },
   {
-    "url": "/chromosome-entries/19",
+    "url": "/entries/chromosome-19",
     "title": "Chromosome 19 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 19",
     "h1": "Chromosome 19"
   },
   {
-    "url": "/chromosome-entries/20",
+    "url": "/entries/chromosome-20",
     "title": "Chromosome 20 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 20",
     "h1": "Chromosome 20"
   },
   {
-    "url": "/chromosome-entries/21",
+    "url": "/entries/chromosome-21",
     "title": "Chromosome 21 entries",
     "metaDescription": "List of neXtProt protein entries on chromosome 21",
     "h1": "Chromosome 21"
   },
   {
-    "url": "/chromosome-entries/X",
+    "url": "/entries/chromosome-X",
     "title": "Chromosome X entries",
     "metaDescription": "List of neXtProt protein entries on chromosome X",
     "h1": "Chromosome X"
   },
   {
-    "url": "/chromosome-entries/Y",
+    "url": "/entries/chromosome-Y",
     "title": "Chromosome Y entries",
     "metaDescription": "List of neXtProt protein entries on chromosome Y",
     "h1": "Chromosome Y"
   },
   {
-    "url": "/chromosome-entries/MT",
+    "url": "/entries/chromosome-MT",
     "title": "Chromosome MT entries",
     "metaDescription": "List of neXtProt protein entries on mitochondrial chromosome",
     "h1": "Chromosome MT"
   },
   {
-    "url": "/chromosome-entries/unknown",
+    "url": "/entries/chromosome-unknown",
     "title": "Chromosome unknown entries",
     "metaDescription": "List of neXtProt protein entries for which the chromosomal location is unknown",
     "h1": "Chromosome unknown"
