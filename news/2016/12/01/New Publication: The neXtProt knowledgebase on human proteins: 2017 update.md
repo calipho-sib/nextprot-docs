@@ -1,5 +1,3 @@
-The neXtProt knowledgebase on human proteins: 2017 update
-
 Gaudet P, Michel PA, Zahn-Zabal M, Britan A, Cusin I, Domagalski M, Duek PD, Gateau A, Gleizes A, Hinard V, Rech de Laval V, Lin JJ, Nikitin F, Schaeffer M, Teixeira D, Lane L, Bairoch A.
 
 Nucl. Acids Res. first published [online November 29, 2016]( http://nar.oxfordjournals.org/content/early/2016/11/29/nar.gkw1062.full) doi:10.1093/nar/gkw1062
