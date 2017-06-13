@@ -1,5 +1,3 @@
-neXtProt: Organizing Protein Knowledge in the Context of Human Proteome Projects.
-
 Gaudet P, Argoud-Puy G, Cusin I, Duek P, Evalet O, Gateau A, Gleizes A, Pereira M, Zahn-Zabal M, Zwahlen C, Bairoch A, Lane L.
 
 J Proteome Res. 2013 Jan 4;12(1):293-8 [doi:10.1021/pr300830v](http://dx.doi.org/10.1021/pr300830v). Epub 2012 Dec 3.
