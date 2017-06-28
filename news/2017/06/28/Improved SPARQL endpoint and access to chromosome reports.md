@@ -1,6 +1,6 @@
 ##Federated queries are now supported
 
-A federated SPARQL query allows a user to search multiple databases in parallel in real time, take the results and present them in the desired form. Examples are found in our [Snorql interface](https://snorql.nextprot.org/) with the tag &#34;federated query&#34;. The neXtProt data set can now be accessed online via a SPARQL federated query. Both GET and POST methods are supported. Documentation and examples are provided at [https://api.nextprot.org/sparql](https://api.nextprot.org/sparql).
+A federated SPARQL query allows a user to search multiple databases in parallel in real time, take the results and present them in the desired form. The neXtProt data set can now be accessed via a SPARQL federated query. Both GET and POST methods are supported. Documentation and examples are provided at [https://api.nextprot.org/sparql](https://api.nextprot.org/sparql).
 
 ##Chromosome reports
 
