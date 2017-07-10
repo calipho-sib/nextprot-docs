@@ -1,5 +1,3 @@
-The neXtProt peptide uniqueness checker: a tool for the proteomics community.
-
 Schaeffer M, Gateau A, Teixeira D, Michel PA, Zahn-Zabal M, Lane L.
 
 Bioinformatics. 2017 May 17. [doi: 10.1093/bioinformatics/btx318](https://doi.org/10.1093/bioinformatics/btx318). 
