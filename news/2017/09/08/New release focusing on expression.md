@@ -9,7 +9,7 @@ To date, expression information at the level of the transcript in neXtProt came 
 The Expression view provides information the expression of the entry in normal tissues. The following changes have been implemented to improve usability:
 
 1.	The new Table format shows the expression level for every tissue assayed.
-2.	The Ontology format showing the expression data while allowing the tissue hierarchy to be explored has been improved. In this view, expression in a tissue is propagated to the parent term(s) so as to give a global picture of where the entry is expressed.
+2.	The Ontology format showing the expression data while allowing the tissue hierarchy to be explored has been improved. In this view, expression in a tissue is also shown in the parent term(s) so as to give a global picture of where the entry is expressed.
 3.	The new Export allows all the experimental expression data for the entry to be downloaded in tab-delimited format.
 
 ##Revamped Sequence view for entries
@@ -27,4 +27,4 @@ A total of 17 entries have been upgraded to evidence at the protein level (PE1) 
 
 ##Changes to the FTP site
 
-As UniProtKB has extended their controlled vocabulary for PTM to include glycosylation sites, the neXtProt vocabulary for carbohydrate modifications is no longer used. The file cv_carbohydrate.txt has been removed from [ftp://ftp.nextprot.org/pub/current\_release/controlled_vocabularies/](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/).
+As UniProtKB has extended their controlled vocabulary for PTM to include glycosylation sites, the neXtProt vocabulary for carbohydrate modifications is no longer used. The file cv\_carbohydrate.txt has been removed from [ftp://ftp.nextprot.org/pub/current\_release/controlled_vocabularies/](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/).
