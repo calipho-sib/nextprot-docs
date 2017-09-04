@@ -45,7 +45,7 @@ Data is useful, but we want neXtProt to be much more than a well-organized compr
 
 Ultimately, our goal is to be able to offer the capability of modeling hypotheses within neXtProt. This perhaps sounds a bit ambitious! Maybe it is, but we want you to take this first step and begin to take part in this collaborative journey. Start by using this beta release of neXtProt and tell us what features you like or what you dislike about it.
 
-Enjoy your journey! And if neXtProt has been useful to your work, please consider [citing us](/about/citing-nextprot).
+Enjoy your journey! And if neXtProt has been useful to your work, please consider [citing us](https://www.nextprot.org/about/citing-nextprot).
 
 Amos Bairoch and the neXtProt team at the Swiss Institute of Bioinformatics and GeneBio.
 
