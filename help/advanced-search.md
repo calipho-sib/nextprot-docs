@@ -29,6 +29,6 @@ To close the sample queries window, simply click on the "x" on the top right of 
 3. Enter a **Name** and **Description** (optional) for the query.
 4. Click **Save**. Saved queries are displayed in the sample queries window and in [My Queries](user/queries).
 
-##Sharing queries
+##Sharing a query
 
-The URL for saved queries can be used to share a query with anyone (there is no need to login to launch it).
+The URL for your own query can be used to share it with anyone (there is no need to login to launch it).
