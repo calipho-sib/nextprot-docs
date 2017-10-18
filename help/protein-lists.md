@@ -25,3 +25,7 @@ There are three ways to create a list:
 * **Edit a list** Click on pencil icon for the list to modify its name and/or description.
 * **Delete a list** Click on the "x" icon for the list to delete it.
 * **Combine lists** Select the operator _AND, OR or NOT\_IN_, enter the list names and click on the Create button. You will be asked to provide a **Name** and **Description** for the new list.
+
+##Sharing a list
+
+The URL for a protein list can be used to share it with anyone (there is no need to login to view the list contents).
