@@ -10,7 +10,7 @@ The following file formats are available:
 
 -	**FASTA** Available from the Export entry and Download options or the FTP site. Text file with the isoform sequences for one or more entries. The first line consists of [FASTA header](/help/fasta-header), followed by the sequence on subsequent lines.
 -	**JSON** Available from the Export entry and Download options. JSON (JavaScript Object Notation) is a lightweight data-interchange format.
--	**PEFF** Available from the FTP site. The PEFF format is an enriched FASTA format that allows mass spectrometry search engines and other tools to easily access data essential to an optimal protein identification, namely sequence variations and PTMs.
+-	**PEFF** Available from the Export entry and Download options or the FTP site. The PEFF format is an enriched FASTA format that allows mass spectrometry search engines and other tools to easily access data essential to an optimal protein identification, namely sequence variations and PTMs.
 -	**TTL** Available from the Download option or the FTP site. Please refer to the [README file](ftp://ftp.nextprot.org/README) for a description of the files.
 -	**TXT** Available from the Download option or the FTP site. Text file with neXtProt accession numbers (e.g., NX\_P01308, NX\_P06213).
 -	**XLS** Available from the Download option.

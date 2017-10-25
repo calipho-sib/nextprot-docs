@@ -29,7 +29,7 @@ In the **Details** format for **terms** search results:
 * _second line_ is the same as in the Summary format, i.e. the source of the term (ontology) is displayed.
 * _third line_ displays the definition of the term.
 
-#Filtering search results
+##Filtering search results
 
 Filtering options are displayed on the left and depend on the section being queried:
 
@@ -37,7 +37,7 @@ Filtering options are displayed on the left and depend on the section being quer
 * **Publications.** The publications displayed can be selected as having either "Cited for annotation", "Large scale data" or "Not cited for annotation". 
 * **Terms.** The terms displayed can be selected based on their source. _Example_ Searching for [alzheimer](terms/search?query=alzheimer) returns terms from GO (Gene Ontology), MeSH (Medical Subject Headings), and UniProt, among others. Searching for "alzheimer" and filtering for [NCI Thesaurus](terms/search?query=alzheimer&filter=ncithesaurus) terms displays only terms found in the NCI Thesaurus which contain "alzheimer". To remove the filter, click on the "x" after the filter name.
 
-#Sorting search results
+##Sorting search results
 
 Sorting options depend on the section being queried:
 
@@ -45,6 +45,6 @@ Sorting options depend on the section being queried:
 * **Publications.** The publications displayed cannot be sorted. However they are displayed in descending order of year of publication. 
 * **Terms.** The terms displayed can be sorted in either _ascending or descending order_ of either the term name or ranking score.
 
-#Downloading search results
+##Downloading search results
 
 For protein search results, entries or parts thereof can be downloaded. To do so, select the **Format** and the **Sub-Part** and either Click on the **Download** button or simply request the **API** by using the link provided. Unless a sort order has been specified, the data is listed in alpha-numerical order of entry accession number.
