@@ -24,6 +24,13 @@ To cite a particular neXtProt release, please use "neXtProt release" followed by
 
 Example: neXtProt release 2016-01-11
 
+Has the peptide uniqueness checker been useful to your work?  Please consider citing our publication:
+
+Schaeffer M, Gateau A, Teixeira D, Michel PA, Zahn-Zabal M, Lane L.
+**The neXtProt peptide uniqueness checker: a tool for the proteomics community**
+Bioinformatics. 2017 May 17. PMID: [28520855](https://www.ncbi.nlm.nih.gov/pubmed/28520855) doi: [10.1093/bioinformatics/btx318](https://doi.org/10.1093/bioinformatics/btx318)
+
+
 ##Linking to us
 
 The standard way of linking to a neXtProt entry is to link to the HTML view using the neXtProt accession number (AC) as _identifier_ .
