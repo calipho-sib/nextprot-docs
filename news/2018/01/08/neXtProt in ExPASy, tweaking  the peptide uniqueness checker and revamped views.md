@@ -4,7 +4,7 @@
 
 ##Changes to the tools
 
-The [Peptide uniqueness checker](../tools/peptide-uniqueness-checker) has been adapted to take into account entries with identical isoform sequences. Previously peptides matching such sequences were considered to be “Found in other entries”; such peptides are now considered to be “Pseudo-unique” and entries or isoforms having identical sequences are labelled with an asterisk.
+The [Peptide uniqueness checker](../tools/peptide-uniqueness-checker) has been adapted to take into account entries with identical isoform sequences. Previously peptides matching such sequences were considered to be "Found in other entries"; such peptides are now considered to be "Pseudo-unique" and entries or isoforms having identical sequences are labelled with an asterisk.
 
 ##Revamped Identifiers view for entries
 
