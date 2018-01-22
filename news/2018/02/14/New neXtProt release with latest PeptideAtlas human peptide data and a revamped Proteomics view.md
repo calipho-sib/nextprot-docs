@@ -1,0 +1,21 @@
+##Changes to the data
+
+This release, neXtProt data release 2017-12-29, is the 2018 reference for [HUPO](https://www.hupo.org/). This release incorporates the latest [PeptideAtlas](http://www.peptideatlas.org/) release (Human 2018-01) with over 1.4 million peptides detected by mass spectrometry. Data from UniProtKB, Ensembl, IntAct, GOA, as well as GeneIDs, have also been updated. GO molecular function, biological process and cellular component annotations for most of the human protein kinases, as well as expression information, mutagenesis and variant phenotype data from neXtProt have been integrated.
+
+##New rules to upgrade protein existence
+
+The following rule has been implemented: Entries whose protein(s) existence is based on evidence at the transcript level, homology or a prediction (gene model) have been upgraded to evidence at the protein level if the entry has interaction data from neXtProt.
+
+A total of ? entries have been upgraded to evidence at the protein level (PE1) and ? entries to evidence at the transcript level (PE2) in this release.
+
+##Revamped Proteomics view for entries
+
+The Proteomics view provides information useful to the proteomics community. In particular, this view displays peptides from PeptideAtlas and neXtProt observed by mass spectrometry and SRM peptides from SRMAtlas. It also shows the epitopes recognized by antibodies from the Human protein atlas.
+
+It is now possible to search the positional annotations listed in the feature table for a specific category or for text found in the feature description. For instance, searching for "SRM" returns the number of SRM peptides mapping to the isoform and allows one to rapidly browse the data for all SRM peptides.
+
+To be consistent with the changes implemented in the Peptide uniqueness checker, peptides mapping to entries with identical isoform sequences are now described as being "Pseudo-unique" rather than "Found in other entries".
+
+##New advanced search SPARQL queries
+
+The following query has been added: ?
