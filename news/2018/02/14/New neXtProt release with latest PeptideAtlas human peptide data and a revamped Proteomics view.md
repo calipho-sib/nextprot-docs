@@ -18,4 +18,10 @@ To be consistent with the changes implemented in the Peptide uniqueness checker,
 
 ##New advanced search SPARQL queries
 
-The following query has been added: ?
+The following query has been added: 
+
+1. ?
+
+The following query has been modified:
+
+1. [NXQ_00022](../proteins/search?mode=advanced&queryId=NXQ_00022) **Proteins with no function annotated** 
