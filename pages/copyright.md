@@ -4,7 +4,7 @@ neXtProt is developed by the SIB Swiss Institute of Bioinformatics.
 
 All intellectual property rights on neXtProt, belong to the SIB.
 
-Copyright &copy; 2010-2017 SIB Swiss Institute of Bioinformatics &dash; All rights reserved.
+Copyright &copy; 2010-2018 SIB Swiss Institute of Bioinformatics &dash; All rights reserved.
 
 ```
 Swiss Institute of Bioinformatics
@@ -12,6 +12,8 @@ CMU - 1 Rue Michel-Servet
 CH-1211 Geneva
 Switzerland
 ```
+
+neXtProt data files are downloadable by FTP and are available under the Creative Commons Attribution 4.0 International Public License (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/)
 
 neXtProt provides links to several resources. We recommend to our users to read carefully the copyright notices and legal disclaimer of the said resources. 
 
