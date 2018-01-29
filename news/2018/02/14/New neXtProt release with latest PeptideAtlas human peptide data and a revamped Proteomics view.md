@@ -25,3 +25,9 @@ The following query has been added:
 The following query has been modified:
 
 1. [NXQ_00022](../proteins/search?mode=advanced&queryId=NXQ_00022) **Proteins with no function annotated** 
+
+##Change to the licence applying to the data in our web site
+
+neXtProt data, including the files on our FTP site, used to be available under the Creative Commons Attribution-NoDerivs 
+License. As of this release, they are available under the [Creative Commons Attribution 4.0
+International Public License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). 
