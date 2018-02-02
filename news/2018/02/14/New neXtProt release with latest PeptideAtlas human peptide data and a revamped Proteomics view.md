@@ -20,7 +20,7 @@ To be consistent with the changes implemented in the Peptide uniqueness checker,
 
 The following query has been added: 
 
-1. ?
+1. NXQ_00225 **Proteins with high proline content** in the [SnorQL](https://snorql.nextprot.org/) interface
 
 The following query has been modified:
 
