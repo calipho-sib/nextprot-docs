@@ -1,6 +1,6 @@
 ##Changes to the data
 
-This release, neXtProt data release 2017-12-29, is the 2018 reference for [HUPO](https://www.hupo.org/). This release incorporates the latest [PeptideAtlas](http://www.peptideatlas.org/) release (Human 2018-01) with over 1.4 million peptides detected by mass spectrometry. Data from UniProtKB, Ensembl, IntAct, GOA, as well as GeneIDs, have also been updated. GO molecular function, biological process and cellular component annotations for most of the human protein kinases, as well as expression information, mutagenesis and variant phenotype data from neXtProt have been integrated.
+This release, neXtProt data release 2017-12-29, is the 2018 reference for [HUPO](https://www.hupo.org/). This release incorporates the latest [PeptideAtlas](http://www.peptideatlas.org/) release (Human 2018-01) with over 1.4 million peptides detected by mass spectrometry. Data from UniProtKB, Ensembl, IntAct, GOA, as well as GeneIDs, have also been updated. GO molecular function, biological process and cellular component annotations for most of the human protein kinases, as well as expression information, mutagenesis and variant phenotype data from neXtProt have also been integrated.
 
 ##New rules to upgrade protein existence
 
@@ -21,10 +21,12 @@ To be consistent with the changes implemented in the Peptide uniqueness checker,
 The following query has been added: 
 
 1. NXQ_00225 **Proteins with high proline content** in the [SnorQL](https://snorql.nextprot.org/) interface
+2. NXQ_????? **Proteins with at least 2 validating peptides >=9aa found in blood plasma, urine or cerebrospinal fluid** to retrieve potential markers
+3. [NXQ_00230](../proteins/search?mode=advanced&queryId=NXQ_00230) **Proteins with experimentally determined lengthy alpha-helices (> 75 aa)** illustrating querying for proteins with specific secondary structure
 
 The following query has been modified:
 
-1. [NXQ_00022](../proteins/search?mode=advanced&queryId=NXQ_00022) **Proteins with no function annotated** 
+1. [NXQ_00022](../proteins/search?mode=advanced&queryId=NXQ_00022) **Proteins with no function annotated**  to exclude proteins annotated to GO terms involving binding
 
 ##Change to the licence applying to the data in our web site
 
