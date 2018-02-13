@@ -21,7 +21,7 @@ To be consistent with the changes implemented in the Peptide uniqueness checker,
 The following queries have been added: 
 
 1. NXQ_00225 **Proteins with high proline content** in the [SnorQL](https://snorql.nextprot.org/) interface
-2. NXQ_????? **Proteins with at least 2 validating peptides >=9aa found in blood plasma, urine or cerebrospinal fluid** to retrieve potential markers
+2. [NXQ_00226](../proteins/search?mode=advanced&queryId=NXQ_00226) **Proteins with at least 2 validating peptides >=9aa found in blood plasma, urine or cerebrospinal fluid** to retrieve potential markers. Note that query NXQ_00228 is the same except that it has the additional constraint that the peptides cannot be overlapping and hence takes much longer to execute.
 3. [NXQ_00230](../proteins/search?mode=advanced&queryId=NXQ_00230) **Proteins with experimentally determined lengthy alpha-helices (> 75 aa)** illustrating querying for proteins with specific secondary structure
 
 The following queries have been modified:
