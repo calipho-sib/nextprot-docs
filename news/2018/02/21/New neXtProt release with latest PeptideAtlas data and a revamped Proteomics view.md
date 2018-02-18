@@ -21,16 +21,13 @@ To be consistent with the changes implemented in the Peptide uniqueness checker,
 The following queries have been added: 
 
 1. NXQ_00225 **Proteins with high proline content** in the [SnorQL](https://snorql.nextprot.org/) interface
-2. [NXQ\_00226](../proteins/search?mode=advanced&queryId=NXQ_00226) **Proteins with at least 2 validating peptides >=9aa found in blood plasma, urine or cerebrospinal fluid** to retrieve potential markers. Note that query NXQ\_00228 is the same except that it has the additional constraint that the peptides cannot be overlapping and hence takes much longer to execute.
+2. [NXQ\_00226](../proteins/search?mode=advanced&queryId=NXQ_00226) **Proteins with at least 2 validating peptides >=9aa found in blood plasma, urine or cerebrospinal fluid** to retrieve potential markers
 3. [NXQ_00230](../proteins/search?mode=advanced&queryId=NXQ_00230) **Proteins with experimentally determined lengthy alpha-helices (> 75 aa)** illustrating querying for proteins with specific secondary structure
 
 The following queries have been modified:
 
-1. [NXQ_00022](../proteins/search?mode=advanced&queryId=NXQ_00022) **Proteins with no function annotated**  to exclude proteins annotated to GO terms involving binding
-2. NXQ_00124 **What are the 25 most frequent families with member count** to include child terms for the family terms
+##Change to the licence applying to the use of our data available from our FTP site
 
-##Change to the licence applying to the data in our web site
-
-neXtProt data, including the files on our FTP site, used to be available under the Creative Commons Attribution-NoDerivs 
+neXtProt downloadable data files used to be available under the Creative Commons Attribution-NoDerivs 
 License. As of this release, they are available under the [Creative Commons Attribution 4.0
 International Public License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). 
