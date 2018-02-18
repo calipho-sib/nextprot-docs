@@ -24,8 +24,6 @@ The following queries have been added:
 2. [NXQ\_00226](../proteins/search?mode=advanced&queryId=NXQ_00226) **Proteins with at least 2 validating peptides >=9aa found in blood plasma, urine or cerebrospinal fluid** to retrieve potential markers
 3. [NXQ_00230](../proteins/search?mode=advanced&queryId=NXQ_00230) **Proteins with experimentally determined lengthy alpha-helices (> 75 aa)** illustrating querying for proteins with specific secondary structure
 
-The following queries have been modified:
-
 ##Change to the licence applying to the use of our data available from our FTP site
 
 neXtProt downloadable data files used to be available under the Creative Commons Attribution-NoDerivs 
