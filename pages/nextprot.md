@@ -47,7 +47,7 @@ Ultimately, our goal is to be able to offer the capability of modeling hypothese
 
 Enjoy your journey! And if neXtProt has been useful to your work, please consider [citing us](https://www.nextprot.org/about/citing-nextprot).
 
-Amos Bairoch and the neXtProt team at the Swiss Institute of Bioinformatics and GeneBio.
+Amos Bairoch and the neXtProt team at the Swiss Institute of Bioinformatics
 
 #Contact details
 
