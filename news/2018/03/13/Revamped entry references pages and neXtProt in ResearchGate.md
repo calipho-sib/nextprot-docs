@@ -4,7 +4,7 @@ The references supporting information (annotations) displayed in neXtProt are pr
 
 ##Advanced search SPARQL queries
 
-As a consequence of UniProtKB demerging entries, some entries now have isoforms with identical sequences. In order to identify these entries, the following queries have been added:
+As a consequence of UniProtKB demerging entries encoded by multiple genes, some entries now have isoforms with identical sequences. In order to identify these entries, the following queries have been added:
 
 1. [NXQ\_00231](https://www.nextprot.org/proteins/search?mode=advanced&queryId=NXQ_00231) **Proteins with sequences 100% identical to other proteins**
 2. NXQ_00232 **Proteins with sequences 100% identical to other proteins, grouped**  in the [SnorQL](https://snorql.nextprot.org/) interface
