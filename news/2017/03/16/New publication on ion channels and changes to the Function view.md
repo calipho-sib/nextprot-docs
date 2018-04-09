@@ -4,7 +4,7 @@
 
 Hinard V, Britan A, Schaeffer M, Zahn-Zabal M, Thomet U, Rougier JS, Bairoch A, Abriel H, Gaudet P.
 
-Hum Mutat. 2017 Feb 7. [doi: 10.1002/humu.23191](dx.doi.org/10.1002/humu.23191)
+Hum Mutat. 2017 Feb 7. [DOI: 10.1002/humu.23191](https://dx.doi.org/10.1002/humu.23191)
 
 Abstract
 
