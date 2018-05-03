@@ -2,6 +2,6 @@
 
 This is a code repository for the SIB - Swiss Institute of Bioinformatics CALIPHO group neXtProt project
 
-See: http://www.nextprot.org/
+See: https://www.nextprot.org/
 
-This repository houses the raw markdown content for http://search.nextprot.org. 
+This repository houses the raw markdown content for the user documentation. 
