@@ -10,4 +10,4 @@ In response to a user request, an API method to retrieve all the isoforms in the
 
 ##Peptide uniqueness checker fix
 
-The Peptide uniqueness checker in our (search interface)[../tools/peptide-uniqueness-checker] and (API)[https://api.nextprot.org/] returned no results for peptides matching a sequence with a known variant (the pepx program handled this case correctly). This has now been fixed and peptide EDAIWRLLF found in Isoform 1 of Transmembrane protein 87A (NX_Q8NBN3) with the D -> E variant at position 441 now returns this entry.   
+The Peptide uniqueness checker in our user [interface](../tools/peptide-uniqueness-checker) and [API](https://api.nextprot.org/) returned no results for peptides matching a sequence with a known variant (the pepx program handled this case correctly). This has now been fixed and peptide EDAIWRLLF found in Isoform 1 of Transmembrane protein 87A (NX_Q8NBN3) with the D -> E variant at position 441 now returns this entry.   
