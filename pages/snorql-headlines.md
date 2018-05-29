@@ -15,6 +15,4 @@
 * [Example 2 - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
 
-Don't hesitate to [contact us](https://www.nextprot.org/contact/us) for any question, suggestions, etc.
-
 
