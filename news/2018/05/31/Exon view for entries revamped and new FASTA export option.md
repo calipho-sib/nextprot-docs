@@ -6,7 +6,7 @@ The Exon view provides information concerning the gene(s) and the exons coding f
 
 ##Export in FASTA format
 
-In response to a user request, an API method to retrieve all the isoforms in the current release as FASTA has been implemented at [https://api.nextprot.org/export/entries/all.fasta] 
+In response to a user request, an API method to retrieve all the isoforms in the current release as FASTA has been implemented at [https://api.nextprot.org/export/entries/all.fasta](https://api.nextprot.org/export/entries/all.fasta) 
 
 ##Peptide uniqueness checker fix
 
