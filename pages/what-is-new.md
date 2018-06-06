@@ -6,14 +6,14 @@
 2. It is now possible to search for a publication DOI in the simple search.
 3. A new version of the XML and the corresponding XSD (XML Schema Definition) are provided. This new version: (1) reflects the RDF data model implemented, (2) includes all the data in neXtProt (for instance it now includes peptides mapped to entries), and (3) makes use, whenever possible, of the same format for controlled vocabulary terms, cross-references, identifiers and publication. In order for users to make a gradual transition to this new format, we will continue to provide the neXtprot releases in the old format until 2017. Please refer to the FTP [README](ftp://ftp.nextprot.org/README) for the location of these files.
 4. Additional data, including topological domains and membrane, are now shown in the new peptide viewer which is under construction.
-5. Documentation on [Citing neXtProt](https://search.nextprot.org/citing-nextprot) is now online.
+5. Documentation on [Citing neXtProt](https://www.nextprot.org/citing-nextprot) is now online.
 
 **February 12, 2016**
 
-1. The latest data release (neXtProt release 2016-01-11) is implemented in this new version. For details, refer to the [February 2016 neXtProt release notes](http://www.nextprot.org/news/nextprot/2016-02-12/february-2016-nextprot-release).
-2. The HOME page now links to [The human proteome](https://search.nextprot.org/human-proteome) information page.
-3. A new [protein existence view](https://search.nextprot.org/view/statistics/protein-existence) showing the detailed distribution of the "protein existence" status of the entries across chromosomes for the release is now available.
-4. The [Download](https://search.nextprot.org/help/learn-download) documentation page has been updated to include the ttl files available from our FTP site.
+1. The latest data release (neXtProt release 2016-01-11) is implemented in this new version. For details, refer to the [February 2016 neXtProt release notes](https://www.nextprot.org/news/nextprot/2016-02-12/february-2016-nextprot-release).
+2. The HOME page now links to [The human proteome](https://www.nextprot.org/about/human-proteome) information page.
+3. A new [protein existence view](https://www.nextprot.org/about/protein-existence) showing the detailed distribution of the "protein existence" status of the entries across chromosomes for the release is now available.
+4. The [Download](https://www.nextprot.org/help/download) documentation page has been updated to include the ttl files available from our FTP site.
 
 **November 30, 2015**
 
@@ -24,7 +24,7 @@
 
 **September 24, 2015**
 
-1.	The latest data release (neXtProt release 2015-09-01) is implemented in this new version. For details, refer to the [September 2015 neXtProt release notes](http://www.nextprot.org/news/nextprot/2015-09-24/september-2015-nextprot-release).
+1.	The latest data release (neXtProt release 2015-09-01) is implemented in this new version. For details, refer to the [September 2015 neXtProt release notes](https://www.nextprot.org/news/nextprot/2015-09-24/september-2015-nextprot-release).
 2.	Lists can now be created by entering or uploading a file with UniProtKB accession numbers.
 3.	Multiple list files can be uploaded to generate a single list.
 4.	When creating a new list which includes an invalid accession number, an error message is displayed and the list is not created.

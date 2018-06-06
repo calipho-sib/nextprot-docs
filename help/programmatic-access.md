@@ -107,11 +107,11 @@ You can create viewers that integrates very easily on neXtProt platform by shari
 
 The following URL will match the GitHub repository for the given user:
 
-https://search.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubRepository\}
+https://www.nextprot.org/entry/{entryAccession}/gh/{githubUser}/{githubRepository\}
 
 -	Please note that the branch should be named gh-pages and an index.html should be in the root folder
 
-Look at a real example now: https://search.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels
+Look at a real example now: https://www.nextprot.org/entry/NX_P01308/gh/ddtxra/protein-existence-levels
 
 To start with, you can fork the sources of this real example on GitHub: [https://github.com/ddtxra/protein-existence-levels](https://github.com/ddtxra/protein-existence-levels). 
 
