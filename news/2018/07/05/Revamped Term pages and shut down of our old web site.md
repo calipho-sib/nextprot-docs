@@ -8,10 +8,10 @@ The term page provides information about the term. The PROSITE or INTERPRO docum
 
 The "Ancestor graph" has been renamed "Relationship graph" to underline that it displays relationships other than parent-child between terms. The direction and type of relationship between two terms is now explicitly displayed. The following examples illustrate the various relationships:
 
-*	**Anatomy:** Abdomen [TS-0001](../term/ TS-0001/relationship-graph) (is a, part of)
-*	**Cell line:** PC-3M-LN2 [CVCL_L156](../term/CVCL_L156/relationship-graph) (derives from)
-*	**Biological process:** Negative regulation of DNA recombination [GO:0045910](../term/ GO:0045910/relationship-graph) (negatively regulates, regulates)
-*	**Biological process:** Positive regulation of cell motility [GO:2000147](../term/ GO:2000147 /relationship-graph) (positively regulates)
+*	**Anatomy:** Abdomen [TS-0001](../term/TS-0001/relationship-graph) (is a, part of)
+*	**Cell line:** #40a [CVCL_IW91](../term/CVCL_IW91/relationship-graph) (derives from)
+*	**Biological process:** Negative regulation of DNA recombination [GO:0045910](../term/GO:0045910/relationship-graph) (negatively regulates, regulates)
+*	**Biological process:** Positive regulation of cell motility [GO:2000147](../term/GO:2000147 /relationship-graph) (positively regulates)
 
 ##Tree browser changes
 
@@ -22,3 +22,7 @@ The tree browser displays the different paths from the controlled vocabulary roo
 Having completed the revamping of our web site, we will disconnect our original website [http://old.nextprot.org](http://old.nextprot.org) and the associated API [http://old.nextprot.org/rest/](http://old.nextprot.org/rest/) in a month. Users should switch to using our website at [https://www.nextprot.org/](https://www.nextprot.org/) and scripts modified to call our API at [https://api.nextprot.org/](https://api.nextprot.org/).
 
 Please do not hesitate to contact us if you need help.
+
+##Advanced search SPARQL queries
+
+Queries involving localization have been reviewed; in some cases, they have been modified to take into account that GO cellular component terms can have an equivalent UniProtKB subcellular location and vice-versa.
