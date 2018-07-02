@@ -6,12 +6,12 @@ The term page provides information about the term. The PROSITE or INTERPRO docum
 
 ##Ancestor graph changes
 
-The "Ancestor graph" has been renamed "Relationship graph" to underline that it displays relationships other than parent-child between terms. The direction and type of relationship between two terms is now explicitly displayed. The following examples illustrate the various relationships:
+The "Ancestor graph" has been renamed "Relationship graph" to underline that it displays relationships other than parent-child between terms. The direction and type of relationship between two terms is now explicitly displayed. The following examples illustrate the different relationships found in the graphs:
 
-*	**Anatomy:** Abdomen [TS-0001](../term/TS-0001/relationship-graph) (is a, part of)
-*	**Cell line:** #40a [CVCL_IW91](../term/CVCL_IW91/relationship-graph) (derives from)
-*	**Biological process:** Negative regulation of DNA recombination [GO:0045910](../term/GO:0045910/relationship-graph) (negatively regulates, regulates)
-*	**Biological process:** Positive regulation of cell motility [GO:2000147](../term/GO:2000147 /relationship-graph) (positively regulates)
+*	**Graph with relationships _is a_ and _part of_:** Abdomen [TS-0001](../term/TS-0001/relationship-graph)
+*	**Graph with relationship _derives from_:** #40a [CVCL_IW91](../term/CVCL_IW91/relationship-graph)
+*	**Graph with relationships _is a_, _negatively regulates_ and _regulates_:** Negative regulation of DNA recombination [GO:0045910](../term/GO:0045910/relationship-graph)
+*	**Graph with relationships _is a_, _part of_, _positively regulates_ and _regulates_:** Positive regulation of cell motility [GO:2000147](../term/GO:2000147/relationship-graph)
 
 ##Tree browser changes
 
@@ -25,4 +25,4 @@ Please do not hesitate to contact us if you need help.
 
 ##Advanced search SPARQL queries
 
-Queries involving localization have been reviewed; in some cases, they have been modified to take into account that GO cellular component terms can have an equivalent UniProtKB subcellular location and vice-versa.
+Queries involving localization have been reviewed and modified (NXQ_00001, NXQ_00002, NXQ_00005, NXQ_00016, NXQ_00017, NXQ_00018, NXQ_00021, NXQ_00023, NXQ_00026, NXQ_00035, NXQ_00042, NXQ_00057, NXQ_00066, NXQ_00070, NXQ_00076, NXQ_00078, NXQ_00081, NXQ_00099, NXQ_00130, NXQ_00218). Note that in the majority of cases the queries have been modified to take into account that GO cellular component terms can have an equivalent UniProtKB subcellular location and vice-versa.
