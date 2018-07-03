@@ -25,4 +25,4 @@ Please do not hesitate to contact us if you need help.
 
 ##Advanced search SPARQL queries
 
-Queries involving localization have been reviewed and modified (NXQ_00001, NXQ_00002, NXQ_00005, NXQ_00016, NXQ_00017, NXQ_00018, NXQ_00021, NXQ_00023, NXQ_00026, NXQ_00035, NXQ_00042, NXQ_00057, NXQ_00066, NXQ_00070, NXQ_00076, NXQ_00078, NXQ_00081, NXQ_00099, NXQ_00130, NXQ_00218). Note that in the majority of cases the queries have been modified to take into account that GO cellular component terms can have an equivalent UniProtKB subcellular location and vice-versa.
+Queries involving localization have been reviewed and modified (NXQ\_00001, NXQ\_00002, NX\Q_00005, NXQ\_00016, NXQ\_00017, NXQ\_00018, NXQ\_00021, NXQ\_00023, NXQ\_00026, NXQ\_00035, NXQ\_00042, NXQ\_00057, NXQ\_00066, NXQ\_00070, NXQ\_00076, NXQ\_00078, NXQ\_00081, NXQ\_00099, NXQ\_00130, NXQ\_00218). Note that in the majority of cases the queries have been modified to take into account that GO cellular component terms can have an equivalent UniProtKB subcellular location and vice-versa.
