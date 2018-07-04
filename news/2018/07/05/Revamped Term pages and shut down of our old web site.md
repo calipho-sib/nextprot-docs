@@ -13,6 +13,7 @@ Entries relevant to the term displayed and all its children are displayed. The n
 The "Ancestor graph" has been renamed "Relationship graph" to underline that it displays relationships other than parent-child between terms. The direction and type of relationship between two terms is now explicitly displayed.
 
 Examples:
+
 *	Graph showing relationships _is a_ and _part of_: Abdomen [TS-0001](../term/TS-0001/relationship-graph)
 *	Graph showing relationship _derives from_: #40a [CVCL_IW91](../term/CVCL_IW91/relationship-graph)
 *	Graph showing relationships _is a_, _negatively regulates_ and _regulates_: Negative regulation of DNA recombination [GO:0045910](../term/GO:0045910/relationship-graph)
