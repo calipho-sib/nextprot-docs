@@ -42,7 +42,9 @@ This portal provides information about the functional impact of genetic variants
 
 * **Experimental details**: Curator note adding relevant information about the evidence.
 
-## Reference
+## References
+
+Cusin I, Teixeira D, Zahn-Zabal M, Rech de Laval V, Gleizes A, Viassolo V, Chappuis PO, Hutter P, Bairoch A, Gaudet P. **A new bioinformatics tool to help assess the significance of BRCA1 variants.** Hum Genomics. 2018 Jul 11;12(1):36. [doi: 10.1186/s40246-018-0168-0](http://dx.doi.org/10.1186/s40246-018-0168-0).
 
 Hinard V, Britan A, Schaeffer M, Zahn-Zabal M, Thomet U, Rougier JS, Bairoch A, Abriel H, Gaudet P. **Annotation of functional impact of voltage-gated sodium channel mutations.** Hum Mutat. 2017 Feb 7. [doi: 10.1002/humu.23191](http://dx.doi.org/10.1002/humu.23191).
 
