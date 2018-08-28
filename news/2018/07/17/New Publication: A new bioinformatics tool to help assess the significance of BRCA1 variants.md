@@ -1,5 +1,5 @@
 Cusin I, Teixeira D, Zahn-Zabal M, Rech de Laval V, Gleizes A, Viassolo V, Chappuis PO, Hutter P, Bairoch A, Gaudet P.
-Hum Genomics. 2018 Jul 11;12(1):36. [doi: 10.1002/humu.23191](http://dx.doi.org/10.1002/humu.23191).
+Hum Genomics. 2018 Jul 11;12(1):36. [doi: 10.1186/s40246-018-0168-0](https://doi.org/10.1186/s40246-018-0168-0).
 
 ##Abstract
 
