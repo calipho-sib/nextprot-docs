@@ -2,26 +2,27 @@
 
 **New and updated data**
 
-neXtProt data release 2018-09-03 incorporates and links to [Human Protein Atlas]( https://www.proteinatlas.org/) (release 18). The evidence code for the immunohistochemistry (IHC) data from Human Protein Atlas (HPA) has been changed from ECO:0000087 immunolocalization evidence to ECO:0001055 immunohistochemistry evidence. 
+neXtProt data release 2018-09-03 incorporates and links to [Human Protein Atlas](https://www.proteinatlas.org/) (release 18). The evidence code for the immunohistochemistry (IHC) data from Human Protein Atlas (HPA) has been changed from ECO:0000087 immunolocalization evidence to ECO:0001055 immunohistochemistry evidence. 
 
 Data from UniProtKB, Ensembl, IntAct, COSMIC and GOA have also been updated and two new data sets integrated:
 
-1. **Glycosylation sites** from [GlyConnect] (https://glyconnect.expasy.org/).
+1. **Glycosylation sites** from [GlyConnect](https://glyconnect.expasy.org/).
 2. **Phosphorylation and interaction data** annotated by neXtProt for most of the human protein kinases.
 
 **Antibody mapping**
 
-neXtProt now provides information as to whether an antibody mapping is "unique", "pseudo-unique" or "not unique" in a manner analogous to that of peptide mappings. Antibodies mapping to multiple entries sharing an identical sequence (pseudo-unique) can thus now be distinguished from those mapping to multiple entries with differing sequences (not unique). Please note that the criteria for mapping peptides differs from those for mapping antibody epitopes– while peptides must align with an exact 100% match to the isoform sequence, antibodies must align (Smith–Waterman algorithm) with a score of 80 or more with some gaps allowed.
+neXtProt now provides information as to whether an antibody mapping is "unique", "pseudo-unique" or "not unique" in a manner analogous to that of peptide mappings. Antibodies mapping to multiple entries sharing an identical sequence (pseudo-unique) can thus now be distinguished from those mapping to multiple entries with differing sequences (not unique). Please note that the criteria for mapping peptides differs from those for mapping antibody epitopes &#8208; while peptides must align with an exact 100% match to the isoform sequence, antibodies must align (Smith&#8208;Waterman algorithm) with a score of 80 or more with some gaps allowed.
 
 **New rule to upgrade protein existence**
 
 As we now integrate curated phosphorylation data, the following rule has been implemented so as to be consistent with the rules applied at UniProtKB: 
 
-Entries whose protein(s) existence is based on evidence at the transcript level, homology or a prediction (gene model) are upgraded to evidence at the protein level if the entry has GOLD modified residue annotations with experimental evidence other than mass spectrometry from a source other than UniProtKB.
+> Entries whose protein(s) existence is based on evidence at the transcript level, homology or a prediction (gene model) are upgraded to evidence at the protein level if the entry has GOLD modified residue annotations with experimental evidence other than mass spectrometry from a source other than UniProtKB.
 
 ##Advanced search SPARQL queries
 
 The following query has been added:
+
 1. [NXQ\_00244](../proteins/search?mode=advanced&queryId=NXQ_00244) **Proteins with a variant having an impact on a binary interaction**
 
 The following queries have been modified to take into account the change in evidence code for the immunohistochemistry data from HPA:
