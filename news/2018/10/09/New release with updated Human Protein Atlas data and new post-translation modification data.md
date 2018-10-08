@@ -7,7 +7,7 @@ neXtProt data release 2018-09-03 incorporates and links to [Human Protein Atlas]
 Data from UniProtKB, Ensembl, IntAct, COSMIC and GOA have also been updated and two new data sets integrated:
 
 1. **Glycosylation sites** from [GlyConnect](https://glyconnect.expasy.org/).
-2. **Phosphorylation and interaction data** annotated by neXtProt for most of the human protein kinases.
+2. **Phosphorylation and interaction data** annotated by neXtProt for 300 human protein kinases.
 
 **Antibody mapping**
 
@@ -15,9 +15,9 @@ neXtProt now provides information as to whether an antibody mapping is "unique",
 
 **New rule to upgrade protein existence**
 
-As we now integrate curated phosphorylation data, the following rule has been implemented so as to be consistent with the rules applied at UniProtKB: 
+As we now integrate phosphorylation data curated by our team, the following rule has been implemented so as to be consistent with the rules applied at UniProtKB: 
 
-> Entries whose protein(s) existence is based on evidence at the transcript level, homology or a prediction (gene model) are upgraded to evidence at the protein level if the entry has GOLD modified residue annotations with experimental evidence other than mass spectrometry from a source other than UniProtKB.
+_Entries whose protein(s) existence is based on evidence at the transcript level, homology or a prediction (gene model) are upgraded to evidence at the protein level if the entry has GOLD modified residue annotations with experimental evidence other than mass spectrometry from a source other than UniProtKB._
 
 ##Advanced search SPARQL queries
 
