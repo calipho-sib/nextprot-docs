@@ -1,6 +1,6 @@
 ##Publication indexation fix
 
-Some publications displayed in entry views could not be retrieved when searching in publications. This indexation problem has now been fixed. As a consequence, the number of Cited publications and Manually curated publications in the [release](../about/statistics) is 108253 and 96387, respectively, an increase of 2441.
+Some publications displayed in entry views could not be retrieved when searching in publications and the number of publications (total, cited, computationally mapped, large scale and manually curated) in the [release statistics](../about/statistics) were incorrect. This problem has now been fixed.
 
 ##Advanced search SPARQL queries
 
