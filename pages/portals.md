@@ -21,12 +21,12 @@ This portal provides information about the functional impact of genetic variants
 * **Relation**: In-house [relations vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_modification_effect.obo) describing the type of effect of the mutation. 
 
 * **Function**: Object of the annotation triplet, describing: 
- * Effect on protein function/biological process/cellular localization, captured with [Gene Ontology](http://www.geneontology.org/) terms.
- * Effect on binding to proteins and protein complexes, captured with neXtProt entry IDs.
- * Effect on binding to chemicals, captured with [ChEBI](https://www.ebi.ac.uk/chebi/) terms.
- * Effect on electrophysiological parameters, captured with [ICEPO ontology](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/icepo.obo).
- * Effect on protein property (abundance, degradation, etc.), captured with in-house [protein properties vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_protein_property.obo).
- * Abnormal phenotypes, captured with [Mammalian Phenotype ontology](http://www.informatics.jax.org/searches/MP_form.shtml) terms.
+  * Effect on protein function/biological process/cellular localization, captured with [Gene Ontology](http://www.geneontology.org/) terms.
+  * Effect on binding to proteins and protein complexes, captured with neXtProt entry IDs.
+  * Effect on binding to chemicals, captured with [ChEBI](https://www.ebi.ac.uk/chebi/) terms.
+  * Effect on electrophysiological parameters, captured with [ICEPO ontology](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/icepo.obo).
+  * Effect on protein property (abundance, degradation, etc.), captured with in-house [protein properties vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_protein_property.obo).
+  * Abnormal phenotypes, captured with [Mammalian Phenotype ontology](http://www.informatics.jax.org/searches/MP_form.shtml) terms.
 
 * **Data confidence**: Evidence is tagged **Gold** or **Silver** according to curator judgment, based on statistical significance, the relevance of the assay, or other criteria.
 
