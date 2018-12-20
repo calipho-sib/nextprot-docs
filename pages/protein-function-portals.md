@@ -12,8 +12,8 @@ This portal provides information about the function of proteins. Annotation stat
 * **Negative**: Specify if the annotation is a negative annotation 
 
 * **Function**: Object of the annotation triplet, describing: 
- * Protein's molecular function/biological process/cellular localization, captured with [Gene Ontology](http://www.geneontology.org/) terms.
- * Protein's binding partners (both proteins and protein complexes), captured with neXtProt entry IDs, and with [ChEBI](https://www.ebi.ac.uk/chebi/) terms for chemicals.
+  * Protein's molecular function/biological process/cellular localization, captured with [Gene Ontology](http://www.geneontology.org/) terms.
+  * Protein's binding partners (both proteins and protein complexes), captured with neXtProt entry IDs, and with [ChEBI](https://www.ebi.ac.uk/chebi/) terms for chemicals.
 
 * **Data confidence**: Evidence is tagged **Gold** or **Silver** according to curator judgment, based on statistical significance, the relevance of the assay, or other criteria.
 
