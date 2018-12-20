@@ -12,12 +12,8 @@ This portal provides information about the function of proteins. Annotation stat
 * **Negative**: Specify if the annotation is a negative annotation 
 
 * **Function**: Object of the annotation triplet, describing: 
- * Effect on protein function/biological process/cellular localization, captured with [Gene Ontology](http://www.geneontology.org/) terms.
- * Effect on binding to proteins and protein complexes, captured with neXtProt entry IDs.
- * Effect on binding to chemicals, captured with [ChEBI](https://www.ebi.ac.uk/chebi/) terms.
- * Effect on electrophysiological parameters, captured with [ICEPO ontology](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/icepo.obo).
- * Effect on protein property (abundance, degradation, etc.), captured with in-house [protein properties vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_protein_property.obo).
- * Abnormal phenotypes, captured with [Mammalian Phenotype ontology](http://www.informatics.jax.org/searches/MP_form.shtml) terms.
+ * Protein's molecular function/biological process/cellular localization, captured with [Gene Ontology](http://www.geneontology.org/) terms.
+ * Protein's binding partners (both proteins and protein complexes), captured with neXtProt entry IDs, and with [ChEBI](https://www.ebi.ac.uk/chebi/) terms for chemicals.
 
 * **Data confidence**: Evidence is tagged **Gold** or **Silver** according to curator judgment, based on statistical significance, the relevance of the assay, or other criteria.
 
@@ -35,9 +31,7 @@ This portal provides information about the function of proteins. Annotation stat
 
 ## References
 
-Cusin I, Teixeira D, Zahn-Zabal M, Rech de Laval V, Gleizes A, Viassolo V, Chappuis PO, Hutter P, Bairoch A, Gaudet P. **A new bioinformatics tool to help assess the significance of BRCA1 variants.** Hum Genomics. 2018 Jul 11;12(1):36. [doi: 10.1186/s40246-018-0168-0](http://dx.doi.org/10.1186/s40246-018-0168-0).
-
-Hinard V, Britan A, Schaeffer M, Zahn-Zabal M, Thomet U, Rougier JS, Bairoch A, Abriel H, Gaudet P. **Annotation of functional impact of voltage-gated sodium channel mutations.** Hum Mutat. 2017 Feb 7. [doi: 10.1002/humu.23191](http://dx.doi.org/10.1002/humu.23191).
+Gaudet P, Michel PA, Zahn-Zabal M, Britan A, Cusin I, Domagalski M, Duek PD, Gateau A, Gleizes A, Hinard V, Rech de Laval V, Lin J, Nikitin F, Schaeffer M, Teixeira D, Lane L, Bairoch A. **The neXtProt knowledgebase on human proteins: 2017 update.** Nucleic Acids Res. 2017 Jan 4;45(D1):D177-D182. [doi:10.1093/nar/gkw1062](http://dx.doi.org/10.1093/nar/gkw1062).
 
 ## Comments & Feedback
 If you have any comments or feedback, write to support @ nextprot.org. 
