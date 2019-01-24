@@ -34,7 +34,7 @@ _Cleavage specificities of selected enzymes and chemicals:_
 In the substrate being cleaved, amino acid residues are designated P1, P2, P3, P4 etc. in the N-terminal direction from the cleaved bond whereas the residues in C-terminal direction are designated P1', P2', P3', P4'. etc.
 
 | Protease | P4 | P3 | P2 | P1 | P1' | P2' | 
-|========= |====|====|====|====|=====|=====|
+|--------- |----|----|----|----|-----|-----|
 |**ARG_C** (Arg-C proteinase) |-|-|-|R|-|-|
 |**ASP_N** (Asp-N endopeptidase) |-|-|-|-|D|-|
 |**BNPS_SKATOLE** (BNPS-Skatole) |-|-|-|W|-|-|
