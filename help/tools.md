@@ -35,32 +35,38 @@ In the substrate being cleaved, amino acid residues are designated P1, P2, P3, P
 
 Protease | P4 | P3 | P2 | P1 | P1' | P2' 
 ---------|----|----|----|----|-----|-----
-**ARG_C** (Arg-C proteinase) | 
-**ASP_N** (Asp-N endopeptidase) | 
-**BNPS_SKATOLE** (BNPS-Skatole) | 
-**CASPASE_1** (Caspase 1) | 
-**CASPASE_2** (Caspase 2) |	
-**CASPASE_3** (Caspase 3) |	
-**CASPASE_4** (Caspase 4) |	
-**CASPASE_5** (Caspase 5) | 
-**CASPASE_6** (Caspase 6) |	
-**CASPASE_7** (Caspase 7) |	
-**CASPASE_8** (Caspase 8) | 
-**CASPASE_9** (Caspase 9) |	
-**CASPASE_10** (Caspase 10)	|
-**CHYMOTRYPSIN_FYL** (Chymotrypsin) |
-**CHYMOTRYPSIN_FYLW** (Chymotrypsin) |
-**CHYMOTRYPSIN_HIGH_SPEC** (Chymotrypsin-high specificity) |
-**CHYMOTRYPSIN_LOW_SPEC** (Chymotrypsin-low specificity) |
-**CNBR** (CNBr) |
-**ENTEROKINASE** (Enterokinase) |
-**GLU_C_BICARBONATE** (Glu-C endopeptidase in ammonium bicarbonate or acetate) |
-**GLU_C_PHOSPHATE** (Glu-C endopeptidase in phosphate buffers) |
-**LYS_C** (LysC) |
-**PEPSIN_PH_1_3** (Pepsin pH1.3) |
-**PEPSIN_PH_GT_2** (Pepsin pH>2) |
-**PROTEINASE_K** (Proteinase K) |
-**THERMOLYSIN** (Thermolysin) |
-**TRYPSIN** (Trypsin) |
+**ARG_C** (Arg-C proteinase) |-|-|-|R|-|-
+**ASP_N** (Asp-N endopeptidase) |-|-|-|-|D|-
+**BNPS_SKATOLE** (BNPS-Skatole) |-|-|-|W|-|- 
+**CASPASE_1** (Caspase 1) |F, W, Y, or L|-|H, A or T|D|not P, E, D, Q, K or R|- 
+**CASPASE_2** (Caspase 2) |D|V|A|D|not P, E, D, Q, K or R|-	
+**CASPASE_3** (Caspase 3) |D|M|Q|D|not P, E, D, Q, K or R|-	
+**CASPASE_4** (Caspase 4) |L|E|V|D|not P, E, D, Q, K or R|-
+**CASPASE_5** (Caspase 5) |L or W|E|H|D|-|- 
+**CASPASE_6** (Caspase 6) |V|E|H or I|D|not P, E, D, Q, K or R|-	
+**CASPASE_7** (Caspase 7) |D|E|V|D|not P, E, D, Q, K or R|-
+**CASPASE_8** (Caspase 8) |I or L|E|T|D|not P, E, D, Q, K or R|-
+**CASPASE_9** (Caspase 9) |L|E|H|D|-|-	
+**CASPASE_10** (Caspase 10)	|I|E|A|D|-|-
+**CHYMOTRYPSIN_FYL** (Chymotrypsin) |-|-|-|F,Y or L|not P|-
+**CHYMOTRYPSIN_FYLW** (Chymotrypsin) |-|-|-|F,Y,L or W|not P|-
+**CHYMOTRYPSIN_HIGH_SPEC** (Chymotrypsin-high specificity) |-|-|-|F or Y|not P|-
+...|-|-|-|W|not M or P|-
+**CHYMOTRYPSIN_LOW_SPEC** (Chymotrypsin-low specificity) |-|-|-|F,L or Y|not P|-
+...|-|-|-|W|not M or P|-
+...|-|-|-|M|not P or Y|-
+...|-|-|-|H|not D,M,P or W|-
+**CNBR** (CNBr) |-|-|-|M|-|-
+**ENTEROKINASE** (Enterokinase) |D or E|D or E|D or E|K|-|-
+**GLU_C_BICARBONATE** (Glu-C endopeptidase in ammonium bicarbonate or acetate) |-|-|-|E|not P or E|-
+**GLU_C_PHOSPHATE** (Glu-C endopeptidase in phosphate buffers) |-|-|-|D or E|not P or E|-
+**LYS_C** (LysC) |-|-|-|K|-|-
+**PEPSIN_PH_1_3** (Pepsin pH1.3) |-|not H,K, or R|not P|not R|F or L|not P
+...|-|not H,K, or R|not P|F or L|-|not P
+**PEPSIN_PH_GT_2** (Pepsin pH>2) |-|not H,K, or R|not P|not R|F,L,W or Y|not P
+...|-|not H,K, or R|not P|F,L,W or Y|-|not P
+**PROTEINASE_K** (Proteinase K) |-|-|-|A,E,F,I,L,T,V,W or Y|-|-
+**THERMOLYSIN** (Thermolysin) |-|-|-|not D or E|A,F,I,L,M or V|-
+**TRYPSIN** (Trypsin) |-|-|-|K or R|not P|-
 
 For additional information, please refer to the [PeptideCutter](https://web.expasy.org/peptide_cutter/peptidecutter_enzymes.html) documentation.
