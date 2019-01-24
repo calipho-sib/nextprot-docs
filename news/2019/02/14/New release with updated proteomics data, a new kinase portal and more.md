@@ -18,12 +18,12 @@ The following PEFF format changes have been implemented:
 
 The following examples illustrate the changes:
 
-1.	Changes 1, 2 and 3 (signal peptide, propeptide and mature protein): (NX\_P01308)[https://api.nextprot.org/export/entry/NX_P01308.peff]
-2.	Changes 1 and 3 (transit peptide, mature protein):  (NX\_Q5U4N7)[https://api.nextprot.org/export/entry/NX_Q5U4N7.peff]
+1.	Changes 1, 2 and 3 (signal peptide, propeptide and mature protein): NX\_P01308 (https://api.nextprot.org/export/entry/NX\_P01308.peff)[https://api.nextprot.org/export/entry/NX_P01308.peff]
+2.	Changes 1 and 3 (transit peptide, mature protein):  NX\_Q5U4N7 (https://api.nextprot.org/export/entry/NX\_Q5U4N7.peff)[https://api.nextprot.org/export/entry/NX_Q5U4N7.peff]
 
 **Changes to the XML**
 
-Our (XSD)[ftp://ftp.nextprot.org/pub/current_release/xml/nextprot-export-v2.xsd] file has been updated to take into account the changes in the catalytic-activity annotations. The changes are documented in a comment at the beginning of the XSD file.
+Our XSD file available at (ftp://ftp.nextprot.org/pub/current\_release/xml/nextprot-export-v2.xsd)[ftp://ftp.nextprot.org/pub/current_release/xml/nextprot-export-v2.xsd] has been updated to take into account the changes in the catalytic-activity annotations. The changes are documented in a comment at the beginning of the XSD file.
 
 ##Changes to the API
 
