@@ -33,12 +33,12 @@ _Cleavage specificities of selected enzymes and chemicals:_
 
 In the substrate being cleaved, amino acid residues are designated P1, P2, P3, P4 etc. in the N-terminal direction from the cleaved bond whereas the residues in C-terminal direction are designated P1', P2', P3', P4'. etc.
 
-|Protease | P4 | P3 | P2 | P1 | P1' | P2'| 
-|---------|----|----|----|----|-----|-----|
+| Protease | P4 | P3 | P2 | P1 | P1' | P2' | 
+|========= |====|====|====|====|=====|=====|
 |**ARG_C** (Arg-C proteinase) |-|-|-|R|-|-|
 |**ASP_N** (Asp-N endopeptidase) |-|-|-|-|D|-|
 |**BNPS_SKATOLE** (BNPS-Skatole) |-|-|-|W|-|-|
-|**CASPASE_1** (Caspase 1) |F,W,Y, or L|-|H,A or T|D|not P,E,D,Q,K or R|- 
+|**CASPASE_1** (Caspase 1) |F,W,Y, or L|-|H,A or T|D|not P,E,D,Q,K or R|-|
 |**CASPASE_2** (Caspase 2) |D|V|A|D|not P,E,D,Q,K or R|-|
 |**CASPASE_3** (Caspase 3) |D|M|Q|D|not P,E,D,Q,K or R|-|
 |**CASPASE_4** (Caspase 4) |L|E|V|D|not P,E,D,Q,K or R|-|
@@ -47,7 +47,7 @@ In the substrate being cleaved, amino acid residues are designated P1, P2, P3, P
 |**CASPASE_7** (Caspase 7) |D|E|V|D|not P,E,D,Q,K or R|-|
 |**CASPASE_8** (Caspase 8) |I or L|E|T|D|not P,E,D,Q,K or R|-|
 |**CASPASE_9** (Caspase 9) |L|E|H|D|-|-|
-|**CASPASE_10** (Caspase 10)	|I|E|A|D|-|-|
+|**CASPASE_10** (Caspase 10) |I|E|A|D|-|-|
 |**CHYMOTRYPSIN_FYL** (Chymotrypsin) |-|-|-|F,Y or L|not P|-|
 |**CHYMOTRYPSIN_FYLW** (Chymotrypsin) |-|-|-|F,Y,L or W|not P|-|
 |**CHYMOTRYPSIN_HIGH_SPEC** (Chymotrypsin-high specificity) |-|-|-|F or Y|not P|-|
