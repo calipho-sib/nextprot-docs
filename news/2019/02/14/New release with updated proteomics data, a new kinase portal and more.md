@@ -1,8 +1,8 @@
 ##Changes to the data
 
-This latest release, neXtProt data release ???, is the 2019 reference for (HUPO)[https://www.hupo.org/]. It incorporates the latest PeptideAtlas human build. This build contains four additional datasets (olfactory system, pancreatic cancer, pancreatic cancer cell lines and cancer of other female reproductory organs), bringing the total  number of PeptideAtlas datasets to 56. The latest human SRMAtlas data has also loaded.
+This latest release, neXtProt data release ???, is the 2019 reference for [HUPO](https://www.hupo.org/). It incorporates the latest PeptideAtlas human build. This build contains four additional datasets (olfactory system, pancreatic cancer, pancreatic cancer cell lines and cancer of other female reproductory organs), bringing the total  number of PeptideAtlas datasets to 56. The latest human SRMAtlas data has also loaded.
 
-UniProt release 2018\_11, with its introduction of (Rhea)[https://www.rhea-db.org/] as a vocabulary to annotate and represent enzyme-catalyzed reactions, has also been integrated. Rhea is a manually curated knowledgebase of biochemical reactions that uses the (ChEBI)[https://www.ebi.ac.uk/chebi/] (Chemical Entities of Biological Interest) ontology to describe reaction participants, their chemical structures, and chemical transformations. This information has allowed us to generate small-molecule-interaction annotations.
+UniProt release 2018\_11, with its introduction of [Rhea](https://www.rhea-db.org/) as a vocabulary to annotate and represent enzyme-catalyzed reactions, has also been integrated. Rhea is a manually curated knowledgebase of biochemical reactions that uses the [ChEBI](https://www.ebi.ac.uk/chebi/) (Chemical Entities of Biological Interest) ontology to describe reaction participants, their chemical structures, and chemical transformations. This information has allowed us to generate small-molecule-interaction annotations.
 
 Data from IntAct, GOA and GlyConnect have also been updated.
 
@@ -18,12 +18,12 @@ The following PEFF format changes have been implemented:
 
 The following examples illustrate the changes:
 
-1.	Changes 1, 2 and 3 (signal peptide, propeptide and mature protein): NX\_P01308 (https://api.nextprot.org/export/entry/NX\_P01308.peff)[https://api.nextprot.org/export/entry/NX_P01308.peff]
-2.	Changes 1 and 3 (transit peptide, mature protein):  NX\_Q5U4N7 (https://api.nextprot.org/export/entry/NX\_Q5U4N7.peff)[https://api.nextprot.org/export/entry/NX_Q5U4N7.peff]
+1.	Changes 1, 2 and 3 (signal peptide, propeptide and mature protein): [NX\_P01308](https://api.nextprot.org/export/entry/NX\_P01308.peff)
+2.	Changes 1 and 3 (transit peptide, mature protein):  [NX\_Q5U4N7](https://api.nextprot.org/export/entry/NX\_Q5U4N7.peff)
 
 **Changes to the XML**
 
-Our XSD file available at (ftp://ftp.nextprot.org/pub/current\_release/xml/nextprot-export-v2.xsd)[ftp://ftp.nextprot.org/pub/current_release/xml/nextprot-export-v2.xsd] has been updated to take into account the changes in the catalytic-activity annotations. The changes are documented in a comment at the beginning of the XSD file.
+Our XSD file available at [ftp://ftp.nextprot.org/pub/current\_release/xml/nextprot-export-v2.xsd](ftp://ftp.nextprot.org/pub/current_release/xml/nextprot-export-v2.xsd) has been updated to take into account the changes in the catalytic-activity annotations. The changes are documented in a comment at the beginning of the XSD file.
 
 ##Changes to the API
 
@@ -37,7 +37,7 @@ Comments and suggestions for improvements to this tool are welcome!
 
 ##New kinase portal
 
-Function data for 308 human protein kinases annotated by the neXtProt team is now available in the (Protein kinase function portal)[../portals/kinase-function]. A total of 22,341 entries, including 5,851 phosphorylations, captured from 9,044 publications can now be explored and downloaded.
+Function data for 308 human protein kinases annotated by the neXtProt team is now available in the [Protein kinase function portal](../portals/kinase-function). A total of 22,341 entries, including 5,851 phosphorylations, captured from 9,044 publications can now be explored and downloaded.
 
 ##Advanced search SPARQL queries
 
