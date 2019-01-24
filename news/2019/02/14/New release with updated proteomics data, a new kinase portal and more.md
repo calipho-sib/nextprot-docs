@@ -1,8 +1,8 @@
 ##Changes to the data
 
-This latest release, neXtProt data release ???, is the 2019 reference for HUPO. It incorporates the latest PeptideAtlas human build. This build contains four additional datasets (olfactory system, pancreatic cancer, pancreatic cancer cell lines and cancer of other female reproductory organs), bringing the total  number of PeptideAtlas datasets to 56. The latest human SRMAtlas data has also loaded.
+This latest release, neXtProt data release ???, is the 2019 reference for (HUPO)[https://www.hupo.org/]. It incorporates the latest PeptideAtlas human build. This build contains four additional datasets (olfactory system, pancreatic cancer, pancreatic cancer cell lines and cancer of other female reproductory organs), bringing the total  number of PeptideAtlas datasets to 56. The latest human SRMAtlas data has also loaded.
 
-UniProt release 2018\_11, with its introduction of Rhea as a vocabulary to annotate and represent enzyme-catalyzed reactions, has also been integrated. Rhea is a manually curated knowledgebase of biochemical reactions that uses the ChEBI (Chemical Entities of Biological Interest) ontology to describe reaction participants, their chemical structures, and chemical transformations. This information has allowed us to generate small-molecule-interaction annotations.
+UniProt release 2018\_11, with its introduction of (Rhea)[https://www.rhea-db.org/] as a vocabulary to annotate and represent enzyme-catalyzed reactions, has also been integrated. Rhea is a manually curated knowledgebase of biochemical reactions that uses the (ChEBI)[https://www.ebi.ac.uk/chebi/] (Chemical Entities of Biological Interest) ontology to describe reaction participants, their chemical structures, and chemical transformations. This information has allowed us to generate small-molecule-interaction annotations.
 
 Data from IntAct, GOA and GlyConnect have also been updated.
 
