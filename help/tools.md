@@ -51,20 +51,20 @@ Protease | P4 | P3 | P2 | P1 | P1' | P2'
 **CHYMOTRYPSIN_FYL** (Chymotrypsin) |-|-|-|F,Y or L|not P|-
 **CHYMOTRYPSIN_FYLW** (Chymotrypsin) |-|-|-|F,Y,L or W|not P|-
 **CHYMOTRYPSIN_HIGH_SPEC** (Chymotrypsin-high specificity) |-|-|-|F or Y|not P|-
-...|-|-|-|W|not M or P|-
+&nbsp;|-|-|-|W|not M or P|-
 **CHYMOTRYPSIN_LOW_SPEC** (Chymotrypsin-low specificity) |-|-|-|F,L or Y|not P|-
-...|-|-|-|W|not M or P|-
-...|-|-|-|M|not P or Y|-
-...|-|-|-|H|not D,M,P or W|-
+&nbsp;|-|-|-|W|not M or P|-
+&nbsp;|-|-|-|M|not P or Y|-
+&nbsp;|-|-|-|H|not D,M,P or W|-
 **CNBR** (CNBr) |-|-|-|M|-|-
 **ENTEROKINASE** (Enterokinase) |D or E|D or E|D or E|K|-|-
 **GLU_C_BICARBONATE** (Glu-C endopeptidase in ammonium bicarbonate or acetate) |-|-|-|E|not P or E|-
 **GLU_C_PHOSPHATE** (Glu-C endopeptidase in phosphate buffers) |-|-|-|D or E|not P or E|-
 **LYS_C** (LysC) |-|-|-|K|-|-
 **PEPSIN_PH_1_3** (Pepsin pH1.3) |-|not H,K, or R|not P|not R|F or L|not P
-...|-|not H,K, or R|not P|F or L|-|not P
+&nbsp;|-|not H,K, or R|not P|F or L|-|not P
 **PEPSIN_PH_GT_2** (Pepsin pH>2) |-|not H,K, or R|not P|not R|F,L,W or Y|not P
-...|-|not H,K, or R|not P|F,L,W or Y|-|not P
+&nbsp;|-|not H,K, or R|not P|F,L,W or Y|-|not P
 **PROTEINASE_K** (Proteinase K) |-|-|-|A,E,F,I,L,T,V,W or Y|-|-
 **THERMOLYSIN** (Thermolysin) |-|-|-|not D or E|A,F,I,L,M or V|-
 **TRYPSIN** (Trypsin) |-|-|-|K or R|not P|-
