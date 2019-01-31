@@ -1,8 +1,12 @@
 ##Changes to the data
 
-This latest release, neXtProt data release ???, is the 2019 reference for [HUPO](https://www.hupo.org/). It incorporates the latest PeptideAtlas human build. This build contains four additional datasets (olfactory system, pancreatic cancer, pancreatic cancer cell lines and cancer of other female reproductory organs), bringing the total  number of PeptideAtlas datasets to 56. The latest human SRMAtlas data has also loaded.
+**Updated proteomics data**
 
-UniProt release 2018\_11, with its introduction of [Rhea](https://www.rhea-db.org/) as a vocabulary to annotate and represent enzyme-catalyzed reactions, has also been integrated. Rhea is a manually curated knowledgebase of biochemical reactions that uses the [ChEBI](https://www.ebi.ac.uk/chebi/) (Chemical Entities of Biological Interest) ontology to describe reaction participants, their chemical structures, and chemical transformations. This information has allowed us to generate small-molecule-interaction annotations.
+This latest release, neXtProt data release 2019-01-11, is the 2019 reference for [HUPO](https://www.hupo.org/). It incorporates the latest PeptideAtlas human build. This build contains 4 additional datasets (olfactory system, pancreatic cancer, pancreatic cancer cell lines and cancer of other female reproductory organs), bringing the total  number of PeptideAtlas datasets to 56. The latest human SRMAtlas data has also loaded.
+
+**Additional data updated**
+
+UniProt release 2018\_11, with its introduction of [Rhea](https://www.rhea-db.org/) as a vocabulary to annotate and represent enzyme-catalyzed reactions, has also been integrated. Rhea is a manually curated knowledgebase of biochemical reactions that uses the [ChEBI](https://www.ebi.ac.uk/chebi/) (Chemical Entities of Biological Interest) ontology to describe reaction participants, their chemical structures, and chemical transformations. This information has allowed us to generate small-molecule-interaction annotations, displayed in the Interactions view, describing the interaction between proteins and chemicals. Example: [NX\_Q92781](../entry/NX_Q92781/interactions)
 
 Data from IntAct, GOA and GlyConnect have also been updated.
 
@@ -29,7 +33,7 @@ Our XSD file available at [ftp://ftp.nextprot.org/pub/current\_release/xml/nextp
 
 **New protein digestion tool**
 
-A new tool that performs _in silico_ protein digestion is now available via our API. The tool allows the user to input the neXtProt accession for a specific isoform or entry and returns the peptide sequences obtained upon digestion.
+A new tool that performs _in silico_ protein digestion is now available via our [API](https://api.nextprot.org/). The tool allows the user to input the neXtProt accession for a specific isoform or entry and returns the peptide sequences obtained upon digestion. Additional information is provided in the [Help > Tools](../help/tools) page.
 
 The protein digestion tool can be combined with the peptide uniquenesss checker to determine which proteases, other than trypsin, can be used to identify trypsin-resistant proteins by mass spectrometry. For example, trypsin digestion of the cancer-testis antigen CTAGE1 (NX\_Q9HC47) does not yield a peptide of 9-35 aa; however digestion with Glu-C endopeptidase in phosphate buffer (GLU\_C\_PHOSPHATE) results in a proteotypic peptide of 32 aa.
 
@@ -37,12 +41,11 @@ Comments and suggestions for improvements to this tool are welcome!
 
 ##New kinase portal
 
-Function data for 308 human protein kinases annotated by the neXtProt team is now available in the [Protein kinase function portal](../portals/kinase-function). A total of 22,341 entries, including 5,851 phosphorylations, captured from 9,044 publications can now be explored and downloaded.
+Function data for 308 human protein kinases annotated by the neXtProt team is now available in the [Protein kinase function portal](../portals/kinase-function). A total of 22,341 entries, including 5,851 phosphorylations, captured from 9,081 publications can now be explored and downloaded.
 
 ##Advanced search SPARQL queries
 
-The following queries have been added:
+The following query has been added:
 
-1. [NXQ\_00245](../proteins/search?mode=advanced&queryId=NXQ_00245) **Proteins with a propeptide**
-2. NXQ\_? **Proteins which are enzymes catalyzing a reaction involving lipids**
+1. [NXQ\_00246](../proteins/search?mode=advanced&queryId=NXQ_00246) **Proteins which are enzymes catalyzing a reaction involving lipids**
 
