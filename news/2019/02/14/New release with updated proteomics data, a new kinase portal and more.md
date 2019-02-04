@@ -2,7 +2,7 @@
 
 **Updated proteomics data**
 
-This latest release, neXtProt data release 2019-01-11, is the 2019 reference for [HUPO](https://www.hupo.org/). It incorporates the latest PeptideAtlas human build. This build contains 4 additional datasets (olfactory system, pancreatic cancer, pancreatic cancer cell lines and cancer of other female reproductory organs), bringing the total  number of PeptideAtlas datasets to 56. The latest human SRMAtlas data has also loaded.
+This latest release, neXtProt data release 2019-01-11, is the 2019 reference for the [HUPO](https://www.hupo.org/) C-HPP project. It incorporates the latest PeptideAtlas human build. This build contains 4 additional datasets (olfactory system, pancreatic cancer, pancreatic cancer cell lines and cancer of other female reproductory organs), bringing the total  number of PeptideAtlas datasets to 56. The latest human SRMAtlas data has also been loaded.
 
 **Additional data updated**
 
