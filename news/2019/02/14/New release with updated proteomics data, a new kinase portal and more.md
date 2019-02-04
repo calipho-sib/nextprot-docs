@@ -45,7 +45,7 @@ Function data for 308 human protein kinases annotated by the neXtProt team is no
 
 ##Advanced search SPARQL queries
 
-The following query has been added:
+The following example query has been added:
 
 1. [NXQ\_00246](../proteins/search?mode=advanced&queryId=NXQ_00246) **Proteins which are enzymes catalyzing a reaction involving lipids**
 
