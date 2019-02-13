@@ -42,10 +42,3 @@ Comments and suggestions for improvements to this tool are welcome!
 ##New kinase portal
 
 Functional data for 308 human protein kinases annotated by the neXtProt team was integrated in neXtProt data release 2018-09-03 and displayed in the corresponding entry views. This data is now also available in the [Protein kinase function portal](../portals/kinase-function). A total of 22,341 portal entries, including 5,851 phosphorylations, captured from 9,081 publications can now be explored and downloaded.
-
-##Advanced search SPARQL queries
-
-The following example query has been added:
-
-1. [NXQ\_00246](../proteins/search?mode=advanced&queryId=NXQ_00246) **Proteins which are enzymes catalyzing a reaction involving lipids**
-
