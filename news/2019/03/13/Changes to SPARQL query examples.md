@@ -5,4 +5,4 @@ The following example queries have been added:
 
 The following query has been modified:
 
-1. [NXQ\_00069](../proteins/search?mode=advanced&queryId=NXQ_00069) **Proteins which are the substrate of protein kinase SYK** This query previously found the substrates of SRC. The query has also been modified to search in :ptmInfo annotations.
+1. [NXQ\_00069](../proteins/search?mode=advanced&queryId=NXQ_00069) **Proteins which are the substrate of protein kinase SYK** This query previously found the substrates for SRC. The query has also been modified to search in :ptmInfo annotations.
