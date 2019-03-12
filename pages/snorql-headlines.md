@@ -4,7 +4,7 @@
 * You can save your queries on the <a target="_blank" href="https://www.nextprot.org">search interface</a> or directly using the <a target="_blank" href="https://api.nextprot.org">api</a> and access them in Snorql using the `My Queries` tag.
  
 ### Need more ?
-* Just send us your query, you'll get the SPARQL from us: => [Mail your query to us](mailto:ndu@isb-sib.ch?Subject=Request%20for%20SPARQL%20query)
+* Just send us your query, you'll get the SPARQL from us: => [Mail your query to us](mailto:support@nextprot.org?Subject=Request%20for%20SPARQL%20query)
 
 * Read the Help section above about our vacabulary: => [Help on nextprot vocabulary](/help/doc/introduction)
 
