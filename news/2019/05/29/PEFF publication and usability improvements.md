@@ -23,6 +23,6 @@ The following query has been added:
 
 1.	NXQ\_00248 **Variants with phenotype annotation that map to a 3D structure** in the [SNORQL](https://snorql.nextprot.org/) interface
 
-The following query has been modified:
+The following query has been modified as it gave incorrect results:
 
 1.	NXQ\_00229 **Proteins with 2 peptides from only one PeptideAtlas data set** in the [SNORQL](https://snorql.nextprot.org/) interface
