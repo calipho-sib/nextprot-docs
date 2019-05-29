@@ -5,6 +5,8 @@ This portal provides information about the function of proteins. Annotation stat
 
 ## Column definition
 
+* **Accession number**: Accession number(s) of the subject of the annotation.
+
 * **Protein**: Subject of the annotation, corresponding to a protein 
 
 * **Relation**: In-house [relations vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_modification_effect.obo) describing the type of effect of the protein. 

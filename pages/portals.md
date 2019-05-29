@@ -5,6 +5,8 @@ This portal provides information about the functional impact of genetic variants
 
 ## Column definition
 
+* **Accession number**: Accession number of the subject of the annotation.
+
 * **Position**: Position of the mutation on the protein sequence. 
 
 * **Protein Variant**: Subject of the annotation, corresponding to a protein mutation named according to [HGVS nomenclature](http://varnomen.hgvs.org/recommendations/protein/). Variants are annotated to the canonical sequence or to the specific isoforms sequence. In this case, the protein mutation name will contain "-iso". 
