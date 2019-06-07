@@ -3,7 +3,7 @@ Select the **Advanced** option above the query box to use the SPARQL Protocol an
 
 ##User guide
 
-A Critical Guide to the neXtProt knowledgebase: querying using SPARQL
+**A Critical Guide to the neXtProt knowledgebase: querying using SPARQL**
 F1000Research 2019, 8:791 [doi: 10.7490/f1000research.1116829.1](https://doi.org/10.7490/f1000research.1116829.1)
 
 ##Data model
