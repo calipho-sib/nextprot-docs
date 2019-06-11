@@ -1,5 +1,12 @@
 
-Select the **Advanced** option below the query box to use the SPARQL Protocol and RDF Query Language (SPARQL) to access all the neXtProt protein entry data.
+Select the **Advanced** option above the query box to use the SPARQL Protocol and RDF Query Language (SPARQL) to access all the neXtProt protein entry data.
+
+##User guide
+
+**A Critical Guide to the neXtProt knowledgebase: querying using SPARQL**
+F1000Research 2019, 8:791 [doi: 10.7490/f1000research.1116829.1](https://doi.org/10.7490/f1000research.1116829.1)
+
+##Data model
 
 The following diagram shows an overview of the neXtProt data model:
 <img width="75%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/rdf-model.png"/>
