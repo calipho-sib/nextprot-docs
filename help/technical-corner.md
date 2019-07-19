@@ -35,9 +35,9 @@ For ease of development in javascript, we have built a [library](https://github.
 
 ```
 
-###API example
+### API example
 
-Getting the overview of a protein is as simple as: (see it live in this [jsfiddle](http://jsfiddle.net/ddtxra/Lqkmuzm3/)\)
+Getting the overview of a protein is as simple as: (see it live in this [jsfiddle](https://jsfiddle.net/matschaeff/5wdg7qv1/9/)\)
 
 ```javascript
 
@@ -47,7 +47,7 @@ Getting the overview of a protein is as simple as: (see it live in this [jsfiddl
 
 ```
 
-Or getting the sequence of the isoforms for an entry (see it live in this [jsfiddle](http://jsfiddle.net/ddtxra/9Lt6n8jb/3/)\)
+Or getting the sequence of the isoforms for an entry (see it live in this [jsfiddle](http://jsfiddle.net/matschaeff/qj8zb9u7/10/)\)
 
 ```javascript
 
@@ -57,9 +57,9 @@ Or getting the sequence of the isoforms for an entry (see it live in this [jsfid
 
 ```
 
-Or you can easily visualize sequence features with our [feature viewer](https://github.com/calipho-sib/feature-viewer): See it live in [jsfiddle](http://jsfiddle.net/ddtxra/fm51dwz7/4/)
+Or you can easily visualize sequence features with our [feature viewer](https://github.com/calipho-sib/feature-viewer): See it live in [jsfiddle](http://jsfiddle.net/matschaeff/z5ws4yqe/31/)
 
-###SPARQL example 
+### SPARQL example 
 
 To execute a SPARQL query, simply use nx.executeSparql:
 
@@ -76,7 +76,7 @@ nx.executeSparql(sparqlQuery).then(function (result){
 ```
 
 
-##Develop and contribute
+## Develop and contribute
 
 You can create a community viewer that integrates very easily in the neXtProt platform by sharing your code on [GitHub](https://www.github.com/).
 
@@ -94,11 +94,11 @@ If you need some help, don't hesitate to [contact us](mailto:support@nextprot.or
 
 
 
-##Snippets and demo examples  
+## Snippets and demo examples  
 
 -	[SPARQL - Genes per chromosome](http://bl.ocks.org/ddtxra/4a5189dba66cd84aefd1)
 
-View an example of protein existence live in [bl.ocks.org](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f) or edit it in [jsfiddle](http://jsfiddle.net/ddtxra/x3umjp67/) (supports: chrome, firefox or safari, microsoft edge).
+View an example of protein existence live in [bl.ocks.org](http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f) or edit it in [jsfiddle](http://jsfiddle.net/matschaeff/0preyjw7/8/) (supports: chrome, firefox or safari, microsoft edge).
 
 <a href="http://bl.ocks.org/ddtxra/a1fd0e5613ed6b72ff8f" target="_blank"> <img width="25%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/help/assets/pie-protein-chart-existence.png"/></a>
 
@@ -110,20 +110,20 @@ Our viewers are javascript components that can be freely re-used under the GNU G
 
 The source code and examples are found in the [GitHub Calipho SIB repository](http://www.github.com/calipho-sib) and in [BioJS registry](http://www.biojs.io/).
 
-###Feature viewer
+### Feature viewer
 
 A javascript tool, based on the library D3, which allows you to display features mapping to your sequence (DNA, protein, or other).
 
 <a href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.40/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/feature-viewer.png"/></a>
 
-###Sequence viewer
+### Sequence viewer
 
 This javascript tool allows you to display a sequence (DNA, protein, or other) in a FASTA-like formatted and to apply some visual improvements for selection and coverage.
 
 <a href="https://cdn.rawgit.com/calipho-sib/sequence-viewer/master/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/sequence-viewer.png"/></a>
 
 
-###Hierarchical Heatmap Table 
+### Hierarchical Heatmap Table 
 
 This javascript component allows hierarchical tables to be displayed using custom templates.
 
