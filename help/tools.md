@@ -4,7 +4,7 @@ The data in neXtProt can be analyzed using the following tools:
 
 **BLAST** 
 
-neXtProt provides access to a simple BLAST implementation in the Medical, Interactions, Localization, Sequence, Proteomics and Structures entry views. To find other entries in neXtProt containing the same or a similar sequence, you can:
+neXtProt provides access to a simple BLAST implementation in the Interactions, Localization, Sequence and Proteomics entry views. To find other entries in neXtProt containing the same or a similar sequence, you can:
 
 * BLAST the entire sequence by clicking on the "BLAST sequence" button
 * Select part of the sequence (shown highlighted) and click on the "BLAST selection" button 
