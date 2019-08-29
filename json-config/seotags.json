@@ -36,6 +36,12 @@
     "h1": "Peptide uniqueness checker"
   },
   {
+    "url": "/tools/protein-digestion",
+    "title": "Protein digestion",
+    "metaDescription": "The protein digestion tool allows scientists to determine which enzymes and experimental conditions would yield peptides that could be used to confidently identify a protein of interest",
+    "h1": "Protein digestion"
+  },
+  {
     "url": "/portals/breast-cancer",
     "title": "Cancer variants portal",
     "metaDescription": "Cancer variants portal",
