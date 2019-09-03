@@ -2,15 +2,15 @@
 
 **New variant frequency data**
 
-neXtProt data release 2019-08-08 incorporates the exome data from Genome Aggregation Database ([gnomAD]( https://gnomad.broadinstitute.org/)). In this release, m entries (%) and n variants (%) have frequency data from gnomAD. As multiple genomic variants can give rise to the same variant at the protein level, the gnomAD data is provided at the evidence level. Specifically, we display the _Allele frequency_, including the _allele count_ and _allele number_, as well as the _Number of homozygotes_.
+neXtProt data release 2019-08-08 incorporates the exome data from Genome Aggregation Database ([gnomAD]( https://gnomad.broadinstitute.org/)). In this release, 18,685 entries (92%) and 2,691,323 variants (45%) have frequency data from gnomAD. As multiple genomic variants can give rise to the same variant at the protein level, the gnomAD data is provided at the evidence level. Specifically, we display the _Allele frequency_, including the _allele count_ and _allele number_, as well as the _Number of homozygotes_.
 
 Both the neXtProt data model and the XML have been adapted to include this new data. In the data model, the allele frequency, allele count, allele number and homozygote count have been added in the [Evidence](https://snorql.nextprot.org/help/entity/Evidence). The changes in the XML are described in the XSD file available at [ftp://ftp.nextprot.org/pub/current\_release/xml/nextprot-export-v2.xsd](ftp://ftp.nextprot.org/pub/current_release/xml/nextprot-export-v2.xsd).
 
 **Data updated**
 
-Glycosylation sites from GlyConnect have been updated. There are now glycosylation sites for 1154 entries, including 107 new entries, in this release.
+The GlyConnect data have been updated. There are now 1122 entries with glycosylation sites from GlyConnect in this release.
 
-Additional annotations by neXtProt have also been integrated. Phenotype annotations are now available for an additional 17 entries, including cellular tumor antigen p53 (TP53) [NX\_P04637](../entry/NX_P04637/phenotypes).
+Additional annotations by neXtProt have also been integrated. Phenotype annotations are now available for 132 entries, including cellular tumor antigen p53 (TP53) [NX\_P04637](../entry/NX_P04637/phenotypes).
 
 ##Changes to tools
 
