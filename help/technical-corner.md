@@ -108,7 +108,7 @@ View an example of protein existence live in [bl.ocks.org](http://bl.ocks.org/dd
 
 Our viewers are javascript components that can be freely re-used under the GNU General Public License as published by the Free Software Foundation (either version 2 or greater of the License).
 
-The source code and examples are found in the [GitHub Calipho SIB repository](http://www.github.com/calipho-sib) and in [BioJS registry](http://www.biojs.io/).
+The source code and examples are found in the [GitHub Calipho SIB repository](http://www.github.com/calipho-sib) and in [BioJS registry](https://biojs.net/?#/search/nextprot).
 
 ### Feature viewer
 

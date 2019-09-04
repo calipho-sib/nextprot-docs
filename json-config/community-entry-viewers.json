@@ -3,5 +3,10 @@
         "title": "3D structure",
         "user": "Alain-Gateau",
         "repository" : "Protein-3D-structure"
+    },
+    {
+        "title": "I-TASSER/COFACTOR",
+        "user": "zhanglabs",
+        "repository" : "COFACTOR"
     }
 ]
