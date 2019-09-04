@@ -41,13 +41,13 @@ I-TASSER (Iterative Threading ASSEmbly Refinement) was ranked as the No 1 server
 The following queries have been added:
 
 1. NXQ\_00250 **Proteins that act as transporters and their TCDB numbers**
-2. [NXQ\_00251](../proteins/search?mode=advanced&queryId=NXQ_00251) **Proteins with at least one proteotypic peptide 9aa+ not mapping on canonical isoform**
+2. NXQ\_00251 **Proteins with at least one proteotypic peptide 9aa+ not mapping on canonical isoform**
 3. NXQ\_00253 **Human pathways in which at least one protein is mitochondrial GOLD**
 4. NXQ\_00254 **Proteins with associated pathways in WikiPathways**
 5. NXQ\_00255 **Variants identified in exome datasets with a frequency of >0.1**
 6. NXQ\_00256 **Variants identified in exome datasets in a frequent homozygote state**
 
-Queries NXQ\_00250, NXQ\_00253, NXQ\_00254, NXQ\_00255 and NXQ\_00256 are only available in the [SnorQL](https://snorql.nextprot.org/) interface.
+All these queries are only available in the [SnorQL](https://snorql.nextprot.org/) interface.
 
 The following query has been simplified:
 
