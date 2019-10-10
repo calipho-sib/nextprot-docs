@@ -1,0 +1,143 @@
+{
+  "releaseStats" : {
+    "tagStatistics" : [ {
+        "tag" : "MASTER",
+        "description" : "Protein entries",
+        "count" : 20066,
+        "categroy" : "Entries",
+        "sortOrder" : 10
+       }, {
+        "tag" : "ISOFORM",
+        "description" : "Isoforms (produced by splicing)",
+        "count" : 41998,
+        "categroy" : "Entries",
+        "sortOrder" : 20
+       }, {
+        "tag" : "IDENTIFIER",
+        "description" : "Identifiers",
+        "count" : 863637,
+        "categroy" : "Entries",
+        "sortOrder" : 30
+       }, {
+        "tag" : "INTERACTION",
+        "description" : "Binary interactions",
+        "count" : 94311,
+        "categroy" : "Entries",
+        "sortOrder" : 40
+       }, {
+        "tag" : "PROTEIN_PTM",
+        "description" : "Post-translational modifications (PTMs)",
+        "count" : 102672,
+        "categroy" : "Entries",
+        "sortOrder" : 50
+       }, {
+        "tag" : "PROTEIN_SEQUENCE_VARIANT",
+        "description" : "Variants (including disease mutations)",
+        "count" : 1775247,
+        "categroy" : "Entries",
+        "sortOrder" : 70
+       }, {
+        "tag" : "CVTERM",
+        "description" : "Controlled vocabularies and ontology terms",
+        "count" : 153556,
+        "categroy" : "Entries",
+        "sortOrder" : 80
+       }, {
+        "tag" : "PUBLI",
+        "description" : "Total number of publications",
+        "count" : 465706,
+        "categroy" : "Entries",
+        "sortOrder" : 81
+       }, {
+        "tag" : "MASTER_CVTERM_LINK",
+        "description" : "Links between protein entries and terms",
+        "count" : 3804408,
+        "categroy" : "Entries",
+        "sortOrder" : 90
+       }, {
+        "tag" : "PROTEIN_LEVEL_MASTER",
+        "description" : "Entries whose protein(s) existence is based on evidence at protein level (PE1)",
+        "count" : 16793,
+        "categroy" : "Protein existence",
+        "sortOrder" : 100
+       }, {
+        "tag" : "TRANSCRIPT_LEVEL_MASTER",
+        "description" : "Entries whose protein(s) existence is based on evidence at transcript level (PE2)",
+        "count" : 2045,
+        "categroy" : "Protein existence",
+        "sortOrder" : 110
+       }, {
+        "tag" : "HOMOLOGY_MASTER",
+        "description" : "Entries whose protein(s) existence is based on homology (PE3)",
+        "count" : 539,
+        "categroy" : "Protein existence",
+        "sortOrder" : 120
+       }, {
+        "tag" : "PREDICTED_MASTER",
+        "description" : "Entries whose protein(s) existence is based on a prediction (gene model) (PE4)",
+        "count" : 98,
+        "categroy" : "Protein existence",
+        "sortOrder" : 130
+       }, {
+        "tag" : "UNCERTAIN_MASTER",
+        "description" : "Entries whose protein(s) existence is uncertain (PE5)",
+        "count" : 591,
+        "categroy" : "Protein existence",
+        "sortOrder" : 140
+       }, {
+        "tag" : "W_DISEASE_MASTER",
+        "description" : "Entries with a disease",
+        "count" : 3528,
+        "categroy" : "Annotations",
+        "sortOrder" : 170
+       }, {
+        "tag" : "W_STRUCT_MASTER",
+        "description" : "Entries with an experimental 3D structure",
+        "count" : 5537,
+        "categroy" : "Annotations",
+        "sortOrder" : 220
+       }, {
+        "tag" : "W_MICROARRAYS_MASTER",
+        "description" : "Entries with expression based on microarrays",
+        "count" : 16833,
+        "categroy" : "Annotations",
+        "sortOrder" : 221
+       }, {
+        "tag" : "W_IHC_MASTER",
+        "description" : "Entries with expression based on IHC",
+        "count" : 13230,
+        "categroy" : "Annotations",
+        "sortOrder" : 222
+       }, {
+        "tag" : "W_EST_MASTER",
+        "description" : "Entries with expression based on ESTs",
+        "count" : 14195,
+        "categroy" : "Annotations",
+        "sortOrder" : 223
+       }, {
+        "tag" : "CITED_PUBLI",
+        "description" : "Cited publications",
+        "count" : 75973,
+        "categroy" : "Publications",
+        "sortOrder" : 500
+       }, {
+        "tag" : "COMPUTED_PUBLI",
+        "description" : "Computationally mapped publications",
+        "count" : 287961,
+        "categroy" : "Publications",
+        "sortOrder" : 510
+       }, {
+        "tag" : "LARGE_SCALE_PUBLI",
+        "description" : "Large scale publications",
+        "count" : 918,
+        "categroy" : "Publications",
+        "sortOrder" : 520
+       }, {
+        "tag" : "CURATED_PUBLI",
+        "description" : "Manually curated publications",
+        "count" : 177745,
+        "categroy" : "Publications",
+        "sortOrder" : 530
+       } ]
+  }
+}

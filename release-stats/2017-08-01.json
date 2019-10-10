@@ -1,0 +1,341 @@
+{
+  "releaseStats" : {
+    "tagStatistics" : [ {
+        "tag" : "MASTER",
+        "description" : "Protein entries",
+        "count" : 20199,
+        "categroy" : "Entries",
+        "sortOrder" : 10
+       }, {
+        "tag" : "ISOFORM",
+        "description" : "Isoforms (produced by splicing)",
+        "count" : 42196,
+        "categroy" : "Entries",
+        "sortOrder" : 20
+       }, {
+        "tag" : "IDENTIFIER",
+        "description" : "Identifiers",
+        "count" : 865151,
+        "categroy" : "Entries",
+        "sortOrder" : 30
+       }, {
+        "tag" : "INTERACTION",
+        "description" : "Binary interactions",
+        "count" : 192822,
+        "categroy" : "Entries",
+        "sortOrder" : 40
+       }, {
+        "tag" : "PROTEIN_PTM",
+        "description" : "Post-translational modifications (PTMs)",
+        "count" : 187531,
+        "categroy" : "Entries",
+        "sortOrder" : 50
+       }, {
+        "tag" : "NB_MAPPED_PEPTIDES",
+        "description" : "Natural peptides (seen by MS)",
+        "count" : 1209313,
+        "categroy" : "Entries",
+        "sortOrder" : 60
+       }, {
+        "tag" : "PROTEIN_SEQUENCE_VARIANT",
+        "description" : "Variants (including disease mutations)",
+        "count" : 5324509,
+        "categroy" : "Entries",
+        "sortOrder" : 70
+       }, {
+        "tag" : "CVTERM",
+        "description" : "Controlled vocabularies and ontology terms",
+        "count" : 215790,
+        "categroy" : "Entries",
+        "sortOrder" : 80
+       }, {
+        "tag" : "PUBLI",
+        "description" : "Total number of publications",
+        "count" : 442371,
+        "categroy" : "Entries",
+        "sortOrder" : 81
+       }, {
+        "tag" : "MASTER_CVTERM_LINK",
+        "description" : "Links between protein entries and terms",
+        "count" : 3933031,
+        "categroy" : "Entries",
+        "sortOrder" : 90
+       }, {
+        "tag" : "PROTEIN_LEVEL_MASTER",
+        "description" : "Entries whose protein(s) existence is based on evidence at protein level (PE1)",
+        "count" : 17168,
+        "categroy" : "Protein existence",
+        "sortOrder" : 100
+       }, {
+        "tag" : "TRANSCRIPT_LEVEL_MASTER",
+        "description" : "Entries whose protein(s) existence is based on evidence at transcript level (PE2)",
+        "count" : 1912,
+        "categroy" : "Protein existence",
+        "sortOrder" : 110
+       }, {
+        "tag" : "HOMOLOGY_MASTER",
+        "description" : "Entries whose protein(s) existence is based on homology (PE3)",
+        "count" : 478,
+        "categroy" : "Protein existence",
+        "sortOrder" : 120
+       }, {
+        "tag" : "PREDICTED_MASTER",
+        "description" : "Entries whose protein(s) existence is based on a prediction (gene model) (PE4)",
+        "count" : 71,
+        "categroy" : "Protein existence",
+        "sortOrder" : 130
+       }, {
+        "tag" : "UNCERTAIN_MASTER",
+        "description" : "Entries whose protein(s) existence is uncertain (PE5)",
+        "count" : 570,
+        "categroy" : "Protein existence",
+        "sortOrder" : 140
+       }, {
+        "tag" : "W_MOLEC_FUNC_MASTER",
+        "description" : "Entries with a molecular function",
+        "count" : 16908,
+        "categroy" : "Annotations",
+        "sortOrder" : 150
+       }, {
+        "tag" : "W_BIO_PROC_MASTER",
+        "description" : "Entries with a biological process",
+        "count" : 16671,
+        "categroy" : "Annotations",
+        "sortOrder" : 160
+       }, {
+        "tag" : "W_DISEASE_MASTER",
+        "description" : "Entries with a disease",
+        "count" : 4186,
+        "categroy" : "Annotations",
+        "sortOrder" : 170
+       }, {
+        "tag" : "W_EXPRESSION_MASTER",
+        "description" : "Entries with an expression profile",
+        "count" : 19338,
+        "categroy" : "Annotations",
+        "sortOrder" : 180
+       }, {
+        "tag" : "W_SUBCELL_LOC_MASTER",
+        "description" : "Entries with a subcellular location",
+        "count" : 19017,
+        "categroy" : "Annotations",
+        "sortOrder" : 190
+       }, {
+        "tag" : "W_MUTAGENESIS_MASTER",
+        "description" : "Entries with mutagenesis data",
+        "count" : 3855,
+        "categroy" : "Annotations",
+        "sortOrder" : 200
+       }, {
+        "tag" : "W_PROTEOMICS_MASTER",
+        "description" : "Entries with proteomics data",
+        "count" : 17838,
+        "categroy" : "Annotations",
+        "sortOrder" : 210
+       }, {
+        "tag" : "W_STRUCT_MASTER",
+        "description" : "Entries with an experimental 3D structure",
+        "count" : 6060,
+        "categroy" : "Annotations",
+        "sortOrder" : 220
+       }, {
+        "tag" : "W_MICROARRAYS_MASTER",
+        "description" : "Entries with expression based on microarrays",
+        "count" : 16814,
+        "categroy" : "Annotations",
+        "sortOrder" : 221
+       }, {
+        "tag" : "W_IHC_MASTER",
+        "description" : "Entries with expression based on IHC",
+        "count" : 11946,
+        "categroy" : "Annotations",
+        "sortOrder" : 222
+       }, {
+        "tag" : "W_EST_MASTER",
+        "description" : "Entries with expression based on ESTs",
+        "count" : 14173,
+        "categroy" : "Annotations",
+        "sortOrder" : 223
+       }, {
+        "tag" : "CHR_1_MASTER",
+        "description" : "Entries mapped to chromosome 1",
+        "count" : 2059,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 230
+       }, {
+        "tag" : "CHR_2_MASTER",
+        "description" : "Entries mapped to chromosome 2",
+        "count" : 1271,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 240
+       }, {
+        "tag" : "CHR_3_MASTER",
+        "description" : "Entries mapped to chromosome 3",
+        "count" : 1074,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 250
+       }, {
+        "tag" : "CHR_4_MASTER",
+        "description" : "Entries mapped to chromosome 4",
+        "count" : 761,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 260
+       }, {
+        "tag" : "CHR_5_MASTER",
+        "description" : "Entries mapped to chromosome 5",
+        "count" : 872,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 270
+       }, {
+        "tag" : "CHR_6_MASTER",
+        "description" : "Entries mapped to chromosome 6",
+        "count" : 1109,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 280
+       }, {
+        "tag" : "CHR_7_MASTER",
+        "description" : "Entries mapped to chromosome 7",
+        "count" : 936,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 290
+       }, {
+        "tag" : "CHR_8_MASTER",
+        "description" : "Entries mapped to chromosome 8",
+        "count" : 702,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 300
+       }, {
+        "tag" : "CHR_9_MASTER",
+        "description" : "Entries mapped to chromosome 9",
+        "count" : 808,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 310
+       }, {
+        "tag" : "CHR_10_MASTER",
+        "description" : "Entries mapped to chromosome 10",
+        "count" : 750,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 320
+       }, {
+        "tag" : "CHR_11_MASTER",
+        "description" : "Entries mapped to chromosome 11",
+        "count" : 1325,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 330
+       }, {
+        "tag" : "CHR_12_MASTER",
+        "description" : "Entries mapped to chromosome 12",
+        "count" : 1031,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 340
+       }, {
+        "tag" : "CHR_13_MASTER",
+        "description" : "Entries mapped to chromosome 13",
+        "count" : 328,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 350
+       }, {
+        "tag" : "CHR_14_MASTER",
+        "description" : "Entries mapped to chromosome 14",
+        "count" : 672,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 360
+       }, {
+        "tag" : "CHR_15_MASTER",
+        "description" : "Entries mapped to chromosome 15",
+        "count" : 600,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 370
+       }, {
+        "tag" : "CHR_16_MASTER",
+        "description" : "Entries mapped to chromosome 16",
+        "count" : 836,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 380
+       }, {
+        "tag" : "CHR_17_MASTER",
+        "description" : "Entries mapped to chromosome 17",
+        "count" : 1165,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 390
+       }, {
+        "tag" : "CHR_18_MASTER",
+        "description" : "Entries mapped to chromosome 18",
+        "count" : 276,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 400
+       }, {
+        "tag" : "CHR_19_MASTER",
+        "description" : "Entries mapped to chromosome 19",
+        "count" : 1429,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 410
+       }, {
+        "tag" : "CHR_20_MASTER",
+        "description" : "Entries mapped to chromosome 20",
+        "count" : 550,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 420
+       }, {
+        "tag" : "CHR_21_MASTER",
+        "description" : "Entries mapped to chromosome 21",
+        "count" : 252,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 430
+       }, {
+        "tag" : "CHR_22_MASTER",
+        "description" : "Entries mapped to chromosome 22",
+        "count" : 495,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 440
+       }, {
+        "tag" : "CHR_X_MASTER",
+        "description" : "Entries mapped to chromosome X",
+        "count" : 838,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 450
+       }, {
+        "tag" : "CHR_Y_MASTER",
+        "description" : "Entries mapped to chromosome Y",
+        "count" : 47,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 460
+       }, {
+        "tag" : "CHR_MT_MASTER",
+        "description" : "Entries mapped to chromosome MT",
+        "count" : 15,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 470
+       }, {
+        "tag" : "CHR_UNKNOWN_MASTER",
+        "description" : "Entries mapped to chromosome unknown",
+        "count" : 5,
+        "categroy" : "Chromosomal location",
+        "sortOrder" : 480
+       }, {
+        "tag" : "CITED_PUBLI",
+        "description" : "Cited publications",
+        "count" : 104473,
+        "categroy" : "Publications",
+        "sortOrder" : 500
+       }, {
+        "tag" : "COMPUTED_PUBLI",
+        "description" : "Computationally mapped publications",
+        "count" : 347224,
+        "categroy" : "Publications",
+        "sortOrder" : 510
+       }, {
+        "tag" : "LARGE_SCALE_PUBLI",
+        "description" : "Large scale publications",
+        "count" : 2415,
+        "categroy" : "Publications",
+        "sortOrder" : 520
+       }, {
+        "tag" : "CURATED_PUBLI",
+        "description" : "Manually curated publications",
+        "count" : 92639,
+        "categroy" : "Publications",
+        "sortOrder" : 530
+       } ]
+  }
+}
