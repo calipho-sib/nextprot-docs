@@ -1,41 +1,44 @@
 {
   "releaseStats" : {
-    "tagStatistics" : [ {
+    "databaseRelease" : " 2011-11-11",
+    "tagStatistics" : [
+      {
         "tag" : "MASTER",
         "description" : "Protein entries",
         "count" : 20113,
         "categroy" : "Entries",
         "sortOrder" : 10
-       }, {
+      }, {
         "tag" : "PROTEIN_LEVEL_MASTER",
         "description" : "Entries whose protein(s) existence is based on evidence at protein level (PE1)",
         "count" : 13805,
         "categroy" : "Protein existence",
         "sortOrder" : 100
-       }, {
+      }, {
         "tag" : "TRANSCRIPT_LEVEL_MASTER",
         "description" : "Entries whose protein(s) existence is based on evidence at transcript level (PE2)",
         "count" : 5371,
         "categroy" : "Protein existence",
         "sortOrder" : 110
-       }, {
+      }, {
         "tag" : "HOMOLOGY_MASTER",
         "description" : "Entries whose protein(s) existence is based on homology (PE3)",
         "count" : 218,
         "categroy" : "Protein existence",
         "sortOrder" : 120
-       }, {
+      }, {
         "tag" : "PREDICTED_MASTER",
         "description" : "Entries whose protein(s) existence is based on a prediction (gene model) (PE4)",
         "count" : 89,
         "categroy" : "Protein existence",
         "sortOrder" : 130
-       }, {
+      }, {
         "tag" : "UNCERTAIN_MASTER",
         "description" : "Entries whose protein(s) existence is uncertain (PE5)",
         "count" : 630,
         "categroy" : "Protein existence",
         "sortOrder" : 140
-       } ]
+      }
+    ]
   }
 }
