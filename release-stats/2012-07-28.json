@@ -1,6 +1,6 @@
 {
   "releaseStats" : {
-    "databaseRelease" : " 2012-07-28",
+    "databaseRelease" : "2012-07-28",
     "tagStatistics" : [
       {
         "tag" : "MASTER",
