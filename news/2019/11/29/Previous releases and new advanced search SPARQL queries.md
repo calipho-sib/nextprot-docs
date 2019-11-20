@@ -12,4 +12,4 @@ The following queries has been added:
 
 The following queries have been modified:
 
-1. NXQ_? 
+1. NXQ\_00027 **Proteins with one or more glycosylation sites reported in PubMed:20570859 or PubMed:14760718** The query has been modified so that it also returns the publication in the [SnorQL](https://snorql.nextprot.org/) interface.
