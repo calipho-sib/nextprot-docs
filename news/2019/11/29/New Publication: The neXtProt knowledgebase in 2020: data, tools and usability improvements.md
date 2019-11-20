@@ -1,4 +1,4 @@
-Zahn-Zabal M, Michel PA, Gateau A, Nikitin F, Schaeffer M, Audot E, Gaudet P, Duek Roggli P, Teixeira D, Rech de Laval V, Samarasinghe K, Bairoch A, Lane L. Nucl. Acids Res.
+Zahn-Zabal M, Michel PA, Gateau A, Nikitin F, Schaeffer M, Audot E, Gaudet P, Duek Roggli P, Teixeira D, Rech de Laval V, Samarasinghe K, Bairoch A, Lane L. Nucl. Acids Res., gkz995, [https://doi.org/10.1093/nar/gkz995](https://doi.org/10.1093/nar/gkz995)
 
 ##Abstract
 
