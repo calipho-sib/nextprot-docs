@@ -8,9 +8,8 @@ The statistics for previous releases are now available from the [Release Statist
 
 The following queries has been added:
 
-1. [NXQ\_00259](../proteins/search?mode=advanced&queryId=NXQ_00259) **Proteins involved in long organs phenotypes with PMIDs** This is a federated query with [DisGeNET](https://www.disgenet.org/).
-2. NXQ\_00261 **Glycosylation sites from GlyConnect** in the [SnorQL](https://snorql.nextprot.org/) interface.
-3. [NXQ\_00263](../proteins/search?mode=advanced&queryId=NXQ_00263) **Human proteins with yeast orthologs according to OMA** This is a federated query with [OMA](https://omabrowser.org/oma/home/).
+1. NXQ\_00261 **Glycosylation sites from GlyConnect** in the [SnorQL](https://snorql.nextprot.org/) interface.
+2. [NXQ\_00263](../proteins/search?mode=advanced&queryId=NXQ_00263) **Human proteins with baker's yeast orthologs according to OMA** This is a federated query with [OMA](https://omabrowser.org/oma/home/).
 
 The following queries have been modified:
 
