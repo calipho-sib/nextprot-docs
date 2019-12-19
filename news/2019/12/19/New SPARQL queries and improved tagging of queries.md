@@ -9,7 +9,7 @@ The following queries have been added:
 5.	NXQ\_00266 **Proteins binding estradiol and/or similar molecules (substructure search with SMILES) and their associated GO_MF terms**
 6.	NXQ\_00267 **Proteins binding estradiol and/or similar molecules (similarity search with SMILES), and their associated GO_MF terms**
 
-All queries, other than NXQ\_00259, are found in the [SnorQL](https://snorql.nextprot.org/) interface. Queries NXQ\_00258, NXQ\_00259 and NXQ\_00260 are federated queries with [DisGenet](https://www.disgenet.org/).
+All queries, other than NXQ\_00259, are found in the [SnorQL](https://snorql.nextprot.org/) interface. Queries NXQ\_00258, NXQ\_00259 and NXQ\_00260 are federated queries with [DisGenet](https://www.disgenet.org/), while queries NXQ\_00266 and NXQ\_00267 are federated queries with [IDSM](https://idsm.elixir-czech.cz/).
 
 ##Improved tagging of queries
 
