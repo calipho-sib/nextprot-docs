@@ -20,7 +20,7 @@ _Entries whose protein(s) existence is based on evidence from homology or a pred
 
 ##Automatic link to the protein digestion tool
 
-The [protein digestion tool](../tools/protein-digestion) implemented in September 2019 allows scientists determine which enzymes and experimental conditions might yield peptides used to identify confidently a protein of interest. In order to facilitate the use of this tool, a &quot;Digest&quot; button has been added that allows the user to seamlessly launch the _in silico_ protein digestion of the displayed isoform. For example, the [Interactions](..\entry\NX_P50222\interactions), [Sequence](..\entry\NX_P50222\sequence) and [Proteomics](..\entry\NX_P50222\proteomics) views for the homeobox protein MOX-2 (NX_P50222) all have this new option.
+The [protein digestion tool](../tools/protein-digestion) implemented in September 2019 allows scientists determine which enzymes and experimental conditions might yield peptides used to identify confidently a protein of interest. In order to facilitate the use of this tool, a &quot;Digest&quot; button has been added that allows the user to seamlessly launch the _in silico_ protein digestion of the displayed isoform. For example, the [Interactions](../entry/NX_P50222/interactions), [Sequence](../entry/NX_P50222/sequence) and [Proteomics](../entry/NX_P50222/proteomics) views for the homeobox protein MOX-2 (NX_P50222) all have this new option.
 
 ##Changes to advanced search SPARQL queries
 
@@ -31,9 +31,9 @@ Two new queries have been added:
 
 Both of these queries are only available from the [SNORQL](https://snorql.nextprot.org/) interface.
 
-Six queries have been modified to include MassIVE peptide data: [NXQ\_00075](../proteins/search?mode=advanced&queryId=NXQ_00075), [NXQ\_00077](../proteins/search?mode=advanced&queryId=NXQ_00077), [NXQ\_00226](../proteins/search?mode=advanced&queryId=NXQ_00226), [NXQ\_00227](../proteins/search?mode=advanced&queryId=NXQ_00227), [NXQ\_00228](../proteins/search?mode=advanced&queryId=NXQ_00228) and NXQ\_00229 (SNORQL only). Two queries, [NXQ\_00094](../proteins/search?mode=advanced&queryId=NXQ_00094) and [NXQ\_00222](/proteins/search?mode=advanced&queryId=NXQ_00222), have been modified to take into account the changes in RNA-seq expression levels. 
+Six queries have been modified to include MassIVE peptide data: [NXQ\_00075](../proteins/search?mode=advanced&queryId=NXQ_00075), [NXQ\_00077](../proteins/search?mode=advanced&queryId=NXQ_00077), [NXQ\_00226](../proteins/search?mode=advanced&queryId=NXQ_00226), [NXQ\_00227](../proteins/search?mode=advanced&queryId=NXQ_00227), [NXQ\_00228](../proteins/search?mode=advanced&queryId=NXQ_00228) and NXQ\_00229 (SNORQL only). Two queries, [NXQ\_00094](../proteins/search?mode=advanced&queryId=NXQ_00094) and [NXQ\_00222](../proteins/search?mode=advanced&queryId=NXQ_00222), have been modified to take into account the changes in RNA-seq expression levels. 
 
 Finally, warnings have been added to two queries:
 
 1. [NXQ\_00022](../proteins/search?mode=advanced&queryId=NXQ_00022) **Proteins with no function annotated** WARNING This query now excludes PE5 proteins.
-2. [NXQ\_00263](/proteins/search?mode=advanced&queryId=NXQ_00263) **Human proteins with baker's yeast orthologs according to OMA** WARNING This  query only works with species with few orthologs.
+2. [NXQ\_00263](../proteins/search?mode=advanced&queryId=NXQ_00263) **Human proteins with baker's yeast orthologs according to OMA** WARNING This  query only works with species with few orthologs.
