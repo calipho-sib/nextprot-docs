@@ -24,14 +24,11 @@ The [protein digestion tool](../tools/protein-digestion) implemented in Septembe
 
 ##Changes to advanced search SPARQL queries
 
-Two new queries have been added:
+One new query has been added:
 
-1. NXQ\_00266 **Proteins binding estradiol and/or similar molecules (substructure search with SMILES) and their associated GO_MF terms**
-2. NXQ\_00267 **Proteins binding estradiol and/or similar molecules (similarity search with SMILES), and their associated GO_MF terms**
+1. NXQ\_00269 **Proteins with associated cancer pathways in WikiPathways (via Disease Ontology classification)** This is a federated query with WikiPathways displayed only in the [SnorQL](https://snorql.nextprot.org/) interface.
 
-Both of these queries are only available from the [SNORQL](https://snorql.nextprot.org/) interface.
-
-Six queries have been modified to include MassIVE peptide data: [NXQ\_00075](../proteins/search?mode=advanced&queryId=NXQ_00075), [NXQ\_00077](../proteins/search?mode=advanced&queryId=NXQ_00077), [NXQ\_00226](../proteins/search?mode=advanced&queryId=NXQ_00226), [NXQ\_00227](../proteins/search?mode=advanced&queryId=NXQ_00227), [NXQ\_00228](../proteins/search?mode=advanced&queryId=NXQ_00228) and NXQ\_00229 (SNORQL only). Two queries, [NXQ\_00094](../proteins/search?mode=advanced&queryId=NXQ_00094) and [NXQ\_00222](../proteins/search?mode=advanced&queryId=NXQ_00222), have been modified to take into account the changes in RNA-seq expression levels. 
+Six queries have been modified to include MassIVE peptide data: [NXQ\_00075](../proteins/search?mode=advanced&queryId=NXQ_00075), [NXQ\_00077](../proteins/search?mode=advanced&queryId=NXQ_00077), [NXQ\_00143](../proteins/search?mode=advanced&queryId=NXQ_00143) (using the new RDF predicate :peptideSet), [NXQ\_00226](../proteins/search?mode=advanced&queryId=NXQ_00226), [NXQ\_00227](../proteins/search?mode=advanced&queryId=NXQ_00227), [NXQ\_00228](../proteins/search?mode=advanced&queryId=NXQ_00228) and NXQ\_00229 (SNORQL only). Two queries, [NXQ\_00094](../proteins/search?mode=advanced&queryId=NXQ_00094) and [NXQ\_00222](../proteins/search?mode=advanced&queryId=NXQ_00222), have been modified to take into account the changes in RNA-seq expression levels. The constraint that genes must be on chromosome 11 has been removed in [NXQ\_00083](../proteins/search?mode=advanced&queryId=NXQ_00083).
 
 Finally, warnings have been added to two queries:
 
