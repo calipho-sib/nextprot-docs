@@ -6,17 +6,19 @@ This latest release, neXtProt data release 2020-01-17, is the 2020 reference for
 
 For the first time, peptides from [MassIVE](https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp) (Mass Spectrometry Interactive Virtual Environment) have been included. A total of 736157 peptides from 49 datasets have been integrated in this release. This release also incorporates the latest PeptideAtlas human build v19. This build contains 5 new datasets (cancer cell lines from bone, cancer cell lines from skin, skin cancer, normal skin, and other normal gestational structures), bringing the total to 61 datasets. Taken together, this brings the number of natural peptides (seen by MS) to 2524202, up from 1772990 in the 2019 HUPO reference release.
 
-Data from UniProtKB, IntAct, GOA, GlyConnect and HPA have also been updated. The RNA-seq data is now the merged RNA-seq data set from HPA which consists of HPA, GTEx and FANTOM5 data (previously we integrated only the HPA data). Consequently, the expression levels for the RNA-seq data have changed and are now either detected (corresponding to HPA values NX&ge;1) or not detected (NX<1). This release also includes the new Brain Atlas and Blood Atlas antibody-based data sets from HPA.
+Data from HPA have also been updated. The RNA-seq data is now the merged RNA-seq data set which consists of HPA, GTEx and FANTOM5 data (previously we integrated only the HPA data). Consequently, the expression levels for the RNA-seq data have changed and are now either detected (corresponding to HPA values NX&ge;1) or not detected (NX<1). This release also includes the new Brain Atlas and Blood Atlas antibody-based data sets.
+
+Data from UniProtKB, IntAct, GOA, GlyConnect and HPA have also been updated.
 
 **Changes to the PE upgrade rules**
 
 As we now integrate two major mass spectrometry data sets, the following rule is now implemented which ensures that the peptides come from the same data set:
 
-_Entries whose protein(s) existence is based on evidence at the transcript level, homology or a prediction (gene model) are upgraded to evidence at the protein level if the entry has at least 2 unique (or pseudo-unique) peptides **from the same source** of quality GOLD which are 9 or more amino acids in length and which together cover at least 18 aa of the entry isoform._
+_Entries whose protein(s) existence is based on evidence at the transcript level (PE2), homology (PE3) or a prediction (gene model) (PE4) are upgraded to evidence at the protein level (PE1) if the entry has at least 2 unique (or pseudo-unique) peptides **from the same source** of quality GOLD which are 9 or more amino acids in length and which together cover at least 18 aa of the entry isoform._
 
 Following the change in expression levels for the RNA-seq data from HPA, the following rule is now implemented:
 
-_Entries whose protein(s) existence is based on evidence from homology or a prediction (gene model) are upgraded to evidence at the protein level if the entry has an expression profile annotation with evidence assigned by HPA of quality GOLD with RNA-seq evidence (ECO:0000295) and **expression level detected.**_
+_Entries whose protein(s) existence is based on evidence from homology (PE3) or a prediction (gene model) (PE4) are upgraded to evidence at the transcript level (PE2) if the entry has an expression profile annotation with evidence assigned by HPA of quality GOLD with RNA-seq evidence (ECO:0000295) and **expression level detected.**_
 
 ##Automatic link to the protein digestion tool
 
