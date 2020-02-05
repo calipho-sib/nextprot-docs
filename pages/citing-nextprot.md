@@ -6,7 +6,7 @@ If neXtProt has been useful to your work, please consider citing our latest publ
 
 Zahn-Zabal M, Michel PA, Gateau A, Nikitin F, Schaeffer M, Audot E, Gaudet P, Duek Roggli P, Teixeira D, Rech de Laval V, Samarasinghe K, Bairoch A, Lane L.
 **The neXtProt knowledgebase in 2020: data, tools and usability improvements.**
-Nucl. Acids Res., gkz995, [https://doi.org/10.1093/nar/gkz995](https://doi.org/10.1093/nar/gkz995)
+[Nucleic Acids Res. 2020 Jan 8;48(D1):D328-D334.](https://doi.org/10.1093/nar/gkz995)
 
 Additional publications:
 
