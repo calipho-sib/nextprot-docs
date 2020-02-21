@@ -1,3 +1,7 @@
+At neXtProt we care about rare diseases. That's why we've added the following query:
+
+1. NXQ\_00270 **Proteins belonging to Rett syndrome pathways, and their subcellular  locations (GOLD)**
+
 The following queries have been modified:
 
 1. [NXQ\_00058](../proteins/search?mode=advanced&queryId=NXQ_00058) **Proteins which are located on the genome next to a protein which is involved in spermatogenesis** This query has been rewritten and now returns results more quickly.
