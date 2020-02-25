@@ -1,6 +1,6 @@
-At neXtProt we care about rare diseases. That's why we've added the following query:
+One new query has been added:
 
-1. NXQ\_00270 **Proteins belonging to Rett syndrome pathways, and their subcellular  locations (GOLD)**
+1. NXQ\_00270 **Proteins belonging to Rett syndrome pathways, and their subcellular  locations (GOLD)** This is a federated query with WikiPathways displayed only in the [SnorQL](https://snorql.nextprot.org/) interface.
 
 The following queries have been modified:
 
