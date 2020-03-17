@@ -10,9 +10,21 @@ Zahn-Zabal M, Michel PA, Gateau A, Nikitin F, Schaeffer M, Audot E, Gaudet P, Du
 
 Additional publications:
 
+Zahn-Zabal M, Lane L.
+**What will neXtProt help us achieve in 2020 and beyond?**
+[Expert Rev Proteomics. 2020 Feb 25:1-4. doi: 10.1080/14789450.2020.1733418.](https://doi.org/10.1080/14789450.2020.1733418)
+
+Duek P, Gateau A, Bairoch A, Lane L.
+**Exploring the Uncharacterized Human Proteome Using neXtProt.**
+[J Proteome Res. 2018 Dec 7;17(12):4211-4226. doi: 10.1021/acs.jproteome.8b00537.](https://doi.org/10.1021/acs.jproteome.8b00537)
+
 Gaudet P, Michel PA, Zahn-Zabal M, Britan A, Cusin I, Domagalski M, Duek PD, Gateau A, Gleizes A, Hinard V, Rech de Laval V, Lin JJ, Nikitin F, Schaeffer M, Teixeira D, Lane L, Bairoch A. 
 **The neXtProt knowledgebase on human proteins: 2017 update.**
 [Nucl. Acids Res. 2017 Jan 4;45(D1):D177-D182.](http://dx.doi.org/doi:10.1093/nar/gkw1062)
+
+Chichester C, Karch O, Gaudet P, Lane , Mons B, Bairoch A.
+**Converting neXtProt into Linked Data and nanopublications**
+[Semantic Web 2015; 6(2):147-153. doi: 10.3233/SW-140149](https://doi.org/10.3233/SW-140149)
 
 Gaudet P, Michel PA, Zahn-Zabal M, Cusin I, Duek PD, Evalet O, Gateau A, Gleizes A, Pereira M, Teixeira D, Zhang Y, Lane L, Bairoch A.
 **The neXtProt knowledgebase on human proteins: current status.**
@@ -25,6 +37,10 @@ Gaudet P, Argoud-Puy G, Cusin I, Duek P, Evalet O, Gateau A, Gleizes A, Pereira 
 Lane L, Argoud-Puy G, Britan A, Cusin I, Duek PD, Evalet O, Gateau A, Gaudet P, Gleizes A, Masselot A, Zwahlen C, Bairoch A.
 **neXtProt: a knowledge platform for human proteins.**
 [Nucleic Acids Res. 2012 Jan;40(Database issue):D76-83.](http://dx.doi.org/doi:10.1093/nar/gkr1179)
+
+Duek PD, Gleizes A, Zwahlen C, Mottaz A, Bairoch A, Lane L.
+**CALOHA: A new human anatomical ontology as a support for complex queries and tissue expression display in neXtProt.**
+[Bio-Ontologies 2011.](https://api.semanticscholar.org/CorpusID:60148461)
 
 **Citing a release**
 
