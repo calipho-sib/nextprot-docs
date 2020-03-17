@@ -33,6 +33,8 @@ This portal provides information about the function of proteins. Annotation stat
 
 ## References
 
+Cicenas J, Zalyte E, Bairoch A, Gaudet P. **Kinases and Cancer.** Cancers (Basel). 2018 Mar 1;10(3). pii: E63. [doi: 10.3390/cancers10030063](http://dx.doi.org/10.3390/cancers10030063).
+
 Gaudet P, Michel PA, Zahn-Zabal M, Britan A, Cusin I, Domagalski M, Duek PD, Gateau A, Gleizes A, Hinard V, Rech de Laval V, Lin J, Nikitin F, Schaeffer M, Teixeira D, Lane L, Bairoch A. **The neXtProt knowledgebase on human proteins: 2017 update.** Nucleic Acids Res. 2017 Jan 4;45(D1):D177-D182. [doi:10.1093/nar/gkw1062](http://dx.doi.org/10.1093/nar/gkw1062).
 
 ## Comments & Feedback
