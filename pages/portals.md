@@ -50,5 +50,7 @@ Cusin I, Teixeira D, Zahn-Zabal M, Rech de Laval V, Gleizes A, Viassolo V, Chapp
 
 Hinard V, Britan A, Schaeffer M, Zahn-Zabal M, Thomet U, Rougier JS, Bairoch A, Abriel H, Gaudet P. **Annotation of functional impact of voltage-gated sodium channel mutations.** Hum Mutat. 2017 Feb 7. [doi: 10.1002/humu.23191](http://dx.doi.org/10.1002/humu.23191).
 
+Hinard V, Britan A, Rougier JS, Bairoch A, Abriel H, Gaudet P. **ICEPO: the ion channel electrophysiology ontology.** Database (Oxford). 2016 Apr 7;2016. pii: baw017. [doi: 10.1093/database/baw017](http://dx.doi.org/10.1093/database/baw017).
+
 ## Comments & Feedback
 If you have any comments or feedback, write to support @ nextprot.org. 
