@@ -116,6 +116,10 @@ A javascript tool, based on the library D3, which allows you to display features
 
 <a href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.40/examples/index.html" target="_blank"> <img src="https://cdn.rawgit.com/calipho-sib/nextprot-docs/develop/help/assets/feature-viewer.png"/></a>
 
+**Reference**
+
+Paladin L, Schaeffer M, Gaudet P, Zahn-Zabal M, Michel PA, Piovesan D, Tosatto SCE, Bairoch A. **The Feature Viewer: A visualization tool for positional annotations on a sequence.** Bioinformatics. 2020 Jan 27. pii: btaa055. [doi: 10.1093/bioinformatics/btaa055](http://dx.doi.org/10.1093/bioinformatics/btaa055).
+
 ### Sequence viewer
 
 This javascript tool allows you to display a sequence (DNA, protein, or other) in a FASTA-like formatted and to apply some visual improvements for selection and coverage.
