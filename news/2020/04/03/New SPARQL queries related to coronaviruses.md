@@ -1,6 +1,6 @@
 The following new queries retrieve human proteins related to coronaviruses/SARS-CoV-2 infection:
 
-1. NXQ\_00272 **Proteins in SARS-CoV-2 infection pathways with associated medical information**
+1. NXQ\_00272 **Proteins involved in coronaviruses/SARS-CoV-2 pathways with associated medical information**
 2. NXQ\_00273 **Proteins involved in coronaviruses/SARS-CoV-2 pathways that are expressed in lung according to RNAseq analysis and detected at high levels by IHC in at least one lung cell type**
 3. NXQ\_00274 **Proteins involved in coronaviruses/SARS-CoV-2 pathways that are drug targets according to DrugBank**
 4. NXQ\_00275 **Proteins targeted by chloroquine and their GOLD binary interactions with other human proteins**
