@@ -7,8 +7,4 @@ The following new queries retrieve human proteins related to coronaviruses/SARS-
 
 Queries NXQ\_00272, NXQ\_00273 and NXQ\_00274 are federated with [WikiPathways](https://www.wikipathways.org/index.php/WikiPathways), while queries NXQ\_00274 and NXQ\_00275 are federated with DrugBank.
 
-An additional query has been added:
-
-NXQ\_00276 **Diseases/phenotypes associated with coding variants and associated publications for a given gene** This is a federated query with [DisGeNET](https://www.disgenet.org/). 
-
 All of these queries are found in the [SnorQL](https://snorql.nextprot.org/) interface.
