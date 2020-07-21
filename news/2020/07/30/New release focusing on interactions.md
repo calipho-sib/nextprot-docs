@@ -1,4 +1,4 @@
-This release, neXtProt data release 2020-07-??, is the first time neXtProt integrates data from a biotech company.
+This release, neXtProt data release 2020-07-17, is the first time neXtProt integrates data from a biotech company.
 
 ##Changes to the data
 
@@ -8,7 +8,7 @@ Human protein- protein interactions (PPIs) manually annotated from the literatur
 
 For all interaction annotations, ENYO captured the experimental method using the PSI [Molecular Interactions](https://www.ebi.ac.uk/ols/ontologies/mi) (PSI-MI) controlled vocabulary. The PSI-MI term is displayed in all evidences from ENYO. In order to have a coherent corpus of data in neXtProt, the ECO term physical interaction evidence used in manual assertion (ECO:0000353) was assigned to each evidence from ENYO.
 
-A total of ? entries contain interaction data from ENYO, curated from? publications. While the vast majority, ?, have binary interaction annotations, ? entries have annotations specifying the region that was experimentally shown to be involved in the interaction.    
+A total of 12961 entries contain interaction data from ENYO, curated from 324 publications. While all 12961 entries have binary interaction annotations, 2170 entries have annotations specifying the region that was experimentally shown to be involved in the interaction.    
 
 **Updated data**
 
