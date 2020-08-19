@@ -62,18 +62,18 @@ Or getting the sequence of the isoforms for an entry (see it live in this [jsfid
 Getting the overview of a protein, using a python HTTP client library and JSON library
 
 ```python
-    import http.client
-    import json
+  import http.client
+  import json
 
-    conn = http.client.HTTPSConnection("api.nextprot.org")
-    conn.request("GET", "/entry/NX_P01308")
-    res = conn.getresponse()
+  conn = http.client.HTTPSConnection("api.nextprot.org")
+  conn.request("GET", "/entry/NX_P01308")
+  res = conn.getresponse()
 
-    entry_data = res.read()
-    entry_json = json.loads(entry_data)
-    overview = entry_json["entry"]["overview"]
+  entry_data = res.read()
+  entry_json = json.loads(entry_data)
+  overview = entry_json["entry"]["overview"]
 
-    print(json.dumps(overview, indent=4, sort_keys=True))
+  print(json.dumps(overview, indent=4, sort_keys=True))
 ```
 
 
