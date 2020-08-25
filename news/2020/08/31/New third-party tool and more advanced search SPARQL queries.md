@@ -6,7 +6,7 @@ The neXtProt platforms hosts third-party tools to provide useful functionalities
 
 **New community tool**
 
-For each neXtProt entry, we now provide information from SAAVpedia, a resource developed by Heeyoun Hwang’s group at the Korea Basic Science Institute. Example: APOE [NX\_P02649](https://www.nextprot.org/entry/NX_P02649/gh/sweetrain096/SAAVpedia)
+For each neXtProt entry, we now provide information from SAAVpedia, a resource developed by Heeyoun Hwang's group at the Korea Basic Science Institute. Example: APOE [NX\_P02649](https://www.nextprot.org/entry/NX_P02649/gh/sweetrain096/SAAVpedia)
 
 [SAAVpedia](https://www.saavpedia.org/) is a comprehensive interpretation platform that allows users to identify, annotate, and retrieve single amino acid variants (SAAVs) from proteomic and genomic sequence data. SAAVpedia provides a proteogenomic analysis pipeline to prioritize and interpret SAAVs ([Hwang _et al,_ 2019](https://doi.org/10.1021/acs.jproteome.9b00366)).
 
