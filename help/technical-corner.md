@@ -57,7 +57,7 @@ Or getting the sequence of the isoforms for an entry (see it live in this [jsfid
 
 ```
 
-### API example : Python 2
+### API example : Python 3
 
 Getting the overview of a protein, using a python HTTP client library and JSON library
 
