@@ -14,7 +14,9 @@ This new tool provides valuable additional information including the position an
 
 ##Changes to advanced search SPARQL queries
 
-The following queries have been added:
+The following queries exploring the PPI data in neXtProt have been added in the [SnorQL](https://snorql.nextprot.org/) interface:
 
-1. NXQ\_00282 **Proteins with an interaction mapping encompassing a coiled coil or bZip region**
-2. NXQ\_00286 **Protein domains or regions that frequently occur in interaction mappings**
+1. NXQ\_00281 **Protein pairs with at least 50 common interactors (excluding keratins)**
+2. NXQ\_00282 **Proteins with an interaction mapping encompassing a coiled coil or bZip region**
+3. NXQ\_00283 **Proteins with no reported mitochondrial localization but interacting with 20 or more mitochondrial proteins ('gold' quality)**
+4. NXQ\_00286 **Protein domains or regions that frequently occur in interaction mappings**
