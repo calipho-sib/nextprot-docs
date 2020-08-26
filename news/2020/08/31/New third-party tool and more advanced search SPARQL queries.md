@@ -16,4 +16,5 @@ This new tool provides valuable additional information including the position an
 
 The following queries have been added:
 
-1. NXQ\_? TITLE
+1. NXQ\_00282 **Proteins with an interaction mapping encompassing a coiled coil or bZip region**
+2. NXQ\_00286 **Protein domains or regions that frequently occur in interaction mappings**
