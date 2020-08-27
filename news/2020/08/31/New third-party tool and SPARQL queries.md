@@ -1,6 +1,6 @@
 ##Changes to tools
 
-The neXtProt platforms hosts third-party tools to provide useful functionalities for our users. These are available from the &quot;Community&quot; section in the left menu of the entry pages.
+The neXtProt platform hosts third-party tools to provide useful functionalities for our users. These are available from the &quot;Community&quot; section in the left menu of the entry pages.
 
 **If you have developed a tool applicable to human proteins and would like to provide it via the neXtProt platform, please contact us!**
 
