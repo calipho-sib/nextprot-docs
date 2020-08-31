@@ -35,7 +35,7 @@ For ease of development in javascript, we have built a [library](https://github.
 
 ```
 
-### API example
+### API example : Javascript neXtProt client library
 
 Getting the overview of a protein is as simple as: (see it live in this [jsfiddle](https://jsfiddle.net/matschaeff/5wdg7qv1/9/)\)
 
@@ -57,7 +57,25 @@ Or getting the sequence of the isoforms for an entry (see it live in this [jsfid
 
 ```
 
-Or you can easily visualize sequence features with our [feature viewer](https://github.com/calipho-sib/feature-viewer): See it live in [jsfiddle](http://jsfiddle.net/matschaeff/z5ws4yqe/31/)
+### API example : Python 3
+
+Getting the overview of a protein, using a python HTTP client library and JSON library
+
+```python
+  import http.client
+  import json
+
+  conn = http.client.HTTPSConnection("api.nextprot.org")
+  conn.request("GET", "/entry/NX_P01308")
+  res = conn.getresponse()
+
+  entry_data = res.read()
+  entry_json = json.loads(entry_data)
+  overview = entry_json["entry"]["overview"]
+
+  print(json.dumps(overview, indent=4, sort_keys=True))
+```
+
 
 ### SPARQL example 
 
