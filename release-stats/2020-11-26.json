@@ -1,7 +1,7 @@
 {
   "releaseStats" : {
-    "databaseRelease" : "2020-11-12",
-    "databaseReleaseList" : [ "2020-07-17", "2020-01-17", "2019-08-22", "2019-01-11", "2018-09-03", "2018-01-17", "2017-08-01", "2017-04-12", "2017-01-23", "2016-12-02", "2016-08-25", "2016-01-11", "2015-09-01", "2015-04-28", "2015-01-01", "2014-09-19", "2014-05-27", "2014-02-25", "2013-12-09", "2013-11-01", "2013-10-10", "2013-08-17", "2013-07-15", "2013-06-11", "2013-02-12", "2012-12-20", "2012-10-30", "2012-10-07", "2012-09-11", "2012-07-28", "2012-06-08", "2012-05-07", "2012-02-24", "2011-11-11", "2011-10-20", "2011-08-23" ],
+    "databaseRelease" : "2020-11-26",
+    "databaseReleaseList" : [ "2020-11-12", "2020-07-17", "2020-01-17", "2019-08-22", "2019-01-11", "2018-09-03", "2018-01-17", "2017-08-01", "2017-04-12", "2017-01-23", "2016-12-02", "2016-08-25", "2016-01-11", "2015-09-01", "2015-04-28", "2015-01-01", "2014-09-19", "2014-05-27", "2014-02-25", "2013-12-09", "2013-11-01", "2013-10-10", "2013-08-17", "2013-07-15", "2013-06-11", "2013-02-12", "2012-12-20", "2012-10-30", "2012-10-07", "2012-09-11", "2012-07-28", "2012-06-08", "2012-05-07", "2012-02-24", "2011-11-11", "2011-10-20", "2011-08-23" ],
     "tagStatistics" : [ {
       "tag" : "MASTER",
       "description" : "Protein entries",
@@ -23,7 +23,7 @@
     }, {
       "tag" : "INTERACTION",
       "description" : "Binary interactions",
-      "count" : 381030,
+      "count" : 402095,
       "categroy" : "Entries",
       "sortOrder" : 40
     }, {
@@ -47,7 +47,7 @@
     }, {
       "tag" : "CVTERM",
       "description" : "Controlled vocabularies and ontology terms",
-      "count" : 263973,
+      "count" : 264131,
       "categroy" : "Entries",
       "sortOrder" : 80
     }, {
@@ -65,13 +65,13 @@
     }, {
       "tag" : "PROTEIN_LEVEL_MASTER",
       "description" : "Entries whose protein(s) existence is based on evidence at protein level (PE1)",
-      "count" : 18263,
+      "count" : 18274,
       "categroy" : "Protein existence",
       "sortOrder" : 100
     }, {
       "tag" : "TRANSCRIPT_LEVEL_MASTER",
       "description" : "Entries whose protein(s) existence is based on evidence at transcript level (PE2)",
-      "count" : 1323,
+      "count" : 1312,
       "categroy" : "Protein existence",
       "sortOrder" : 110
     }, {
