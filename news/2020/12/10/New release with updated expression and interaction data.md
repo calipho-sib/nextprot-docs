@@ -4,7 +4,7 @@
 
 This release, neXtProt data release 2020-11-26, integrates expression data from Bgee 14.1. [Bgee](https://bgee.org/) is a database to retrieve and compare gene expression patterns in multiple animal species described in the recent preprint by [Bastian FB _et al._](https://www.biorxiv.org/content/10.1101/2020.05.28.119560v4)
 
-To date, expression information from Bgee came from Affymetrix microarray and expressed sequence tag (EST) data. RNA-seq data from Bgee has been incorporated in this release. In order to distinguish it from the HPA RNA-seq data set, it is displayed in a separate column in the entry Expression view. Example: Insulin receptor (INSR) [NX\_P06213](../entry/NX_P06213/expression)
+To date, expression information from Bgee came from Affymetrix microarray and expressed sequence tag (EST) data. RNA-seq data from Bgee has been incorporated in this release. In order to distinguish it from the HPA RNA-seq data set, it is displayed in a separate column in the entry Expression view. Note however that HPA and Bgee do not have the same panel of tissues that were analyzed by RNA-seq. Example: Insulin receptor (INSR) [NX\_P06213](../entry/NX_P06213/expression)
 
 A total of 4,391,854 expression profile annotations involving 19748 entries (97% of the entries in the release) were integrated from Bgee in this release. There are 9928 entries (49%) with EST data, 17097 entries (84%) with microarray data and 19740 entries (97%) with RNA-seq data from Bgee.
 
