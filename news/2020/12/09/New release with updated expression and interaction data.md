@@ -18,7 +18,7 @@ This release contains a total of 580,224 binary interactions involving 17,202 en
 
 **New mapping file**
 
-The integration of the Bgee data required a new mapping file. This file maps combinations of UBERON anatomical structure terms and developmental stage terms from Bgee to the caloha vocabulary developed and used in neXtProt. The new mapping file is found at [ftp://ftp.nextprot.org/pub/current\_release/mapping/Bgee\_caloha.tsv](ftp://ftp.nextprot.org/pub/current_release/mapping/Bgee_caloha.tsv) 
+The integration of the Bgee data required a new mapping file. This file maps combinations of UBERON anatomical structure terms and developmental stage terms from Bgee to the caloha vocabulary developed and used in neXtProt. The new mapping file is found at [ftp://ftp.nextprot.org/pub/current\_release/controlled\_vocabularies/Bgee\_caloha.tsv](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/Bgee_caloha.tsv) 
 
 The FTP README file at [ftp://ftp.nextprot.org/pub/README](ftp://ftp.nextprot.org/pub/README) has been updated to include the new mapping file.
 
