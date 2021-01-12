@@ -1,4 +1,4 @@
-The following new queries retrieve pathways from diverse sources:
+The following new queries show how to make pathway information from diverse sources more findable and interoperable:
 
 1. NXQ\_00288 **GO biological processes related to UniPathway metabolic pathways**
 2. NXQ\_00289 **KEGG and Reactome pathway names**
