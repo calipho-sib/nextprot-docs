@@ -8,7 +8,7 @@ To view and manage your protein lists, you must be logged in. Log in and select 
 
 There are three ways to create a list:
 
-1. Select "Create New List". Manually **enter a list** or **upload one or more files** with accession numbers. neXtProt (starting with NX_) and/or UniProtKB accession numbers are accepted. If an invalid accession number is present, an error message is displayed and the list is not created. To remove a file from the upload list while creating a protein list, click on the **x** to the right of the file name.
+1. Select "Create New List". Manually **enter a list** or **upload one or more files** with accession numbers. neXtProt (starting with NX_) and/or UniProtKB entry accession numbers are accepted. If an invalid accession number is present, an error message indicating the incorrect accession numbers is displayed. The list created will **only** include valid accession numbers. To remove a file from the upload list while creating a protein list, click on the **x** to the right of the file name.
 2. Save the results of a query as a list (see below).
 3. Combining lists (see Managing lists below).
 
