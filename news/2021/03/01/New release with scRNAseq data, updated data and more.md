@@ -1,12 +1,14 @@
-This release, neXtProt data release 2021-??-??, is the 2021 reference for the [HUPO](https://www.hupo.org/) C-HPP project.
+This release, neXtProt data release 2021-02-18, is the 2021 reference for the [HUPO](https://www.hupo.org/) C-HPP project.
 
 ##Changes to the data
 
-**New and updated data**
+**New data**
 
-The data from HPA v20 have been integrated. N  new antibody-based data sets () are now included. The expression data now includes single-cell RNA-seq (scRNAseq) data. This new data is displayed in the RNA-seq HPA column, at the level of the evidences. A summary of the RNA-seq data is now included as well. Example: ?
+The data from HPA version 20 have been integrated. The expression data now includes single-cell RNA-seq (scRNAseq) data. This new data is found in the RNA-seq HPA column and is displayed at the level of the evidences. A textual summary of the RNA-seq data is now included as well. Example: FUN14 domain-containing protein 1 (FUNDC1) [NX_Q8IVP5](../entry/NX_Q8IVP5/expression)
 
-This release also incorporates the latest PeptideAtlas human 2021-01 build. This build contains n new sample types (?), bringing the total to N sample types. Peptides from MassIVE (Mass Spectrometry Interactive Virtual Environment) have also been updated. A total of n peptides from ? tissue types have been integrated in this release. Taken together, this brings the number of natural peptides (seen by MS) to ?, up from 2524202 in the 2020 HUPO reference release.
+**Updated data**
+
+This release also incorporates the latest PeptideAtlas human 2021-01 build. This build contains 2 new sample type (cancer adrenal gland and cancer and non cancer cell lines), bringing the total to 62 sample types. Peptides from MassIVE (Mass Spectrometry Interactive Virtual Environment) have also been updated. There are 4 new sample types in this release (bone, muscle, olfactory system and pituitary gland), for a total of 52 sample types. Taken together, this brings the number of natural peptides (seen by MS) to 2726064, up from 2524202 in the 2020 HUPO reference release.
 
 Data from UniProtKB, GOA, IntAct, ENYO, GlyConnect and neXtProt have also been updated. The versions included in this release are found in the [release contents](../about/contents).
 
