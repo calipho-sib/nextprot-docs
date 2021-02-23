@@ -8,9 +8,9 @@ The data from HPA version 20 have been integrated. The expression data now inclu
 
 **Updated data**
 
-This release also incorporates the latest PeptideAtlas human 2021-01 build. This build contains 2 new sample type (cancer adrenal gland and cancer and non cancer cell lines), bringing the total to 62 sample types. Peptides from MassIVE (Mass Spectrometry Interactive Virtual Environment) have also been updated. There are 4 new sample types in this release (bone, muscle, olfactory system and pituitary gland), for a total of 52 sample types. Taken together, this brings the number of natural peptides (seen by MS) to 2726064, up from 2524202 in the 2020 HUPO reference release.
+This release also incorporates the latest PeptideAtlas human 2021-01 build. Peptides from MassIVE (Mass Spectrometry Interactive Virtual Environment) have also been updated. Taken together, this brings the number of natural peptides (seen by MS) to 2726064, up from 2524202 in the 2020 HUPO reference release.
 
-Data from UniProtKB, GOA, IntAct, ENYO, GlyConnect and neXtProt have also been updated. The versions included in this release are found in the [release contents](../about/contents).
+Data from UniProtKB, GOA, GlyConnect and neXtProt have also been updated. The versions included in this release are found in the [release contents](../about/contents).
 
 ##Changes to the RDF data model
 The predicates [:DomainInfo](https://snorql.nextprot.org/help/entity/DomainInfo) and [:PtmInfo](https://snorql.nextprot.org/help/entity/PtmInfo) were wrongly classified as :positionalAnnotation. They are now correctly classified as :generalAnnotation .
