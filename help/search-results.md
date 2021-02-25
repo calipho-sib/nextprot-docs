@@ -14,7 +14,7 @@ In the **Details** format for **protein** search results:
 * _first line_ is the same as in the Summary format, i.e. the recommended protein name, the recommended gene name and the neXtProt entry accession code are displayed and link to the entry. The **downwards arrow** icon allows the entry to be downloaded.
 * _second line_ displays a snippet of text summarizing the function.
 * _third line_ displays information concerning the protein entry: chromosomal location, number of isoforms, number of post-translational modifications (PTMs), sequence length and the number of variants.
-* _last line_ summarizes whether or not there is disease, expression, mutagenesis, proteomics, 3D structure data for the entry, as well as its Proteins existence value.
+* _last line_ summarizes whether or not there is disease, expression, mutagenesis, proteomics, 3D structure data for the entry, as well as its Protein existence value.
 
 In the **Details** format for **publications** search results:
 
