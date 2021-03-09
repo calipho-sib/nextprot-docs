@@ -1,13 +1,16 @@
-##Frequently Asked Questions (FAQ)
+Help is available via the "Help" scroll-down menu. If you do not find the answer to your question in the available help text or the FAQ below, do not hesitate to [contact us](mailto:support@nextprot.org).
 
-**Index of questions**
+##Frequently Asked Questions (FAQ)
 
 [Q01. What is neXtProt?](#01)<br>
 [Q02. How does neXtProt differ from UniProtKB?](#02)<br>
 [Q03. What data is found in neXtProt?](#03)<br>
-[Q04. How often is neXtPot updated?](#04)<br>
+[Q04. How often is neXtProt updated?](#04)<br>
 [Q05. Can I submit data directly to neXtProt?](#05)<br>
-[Q06. Why is my paper not in neXtProt?](#05)
+[Q06. Why is my paper not in neXtProt?](#06)<br>
+[Q07. How do I cite neXtProt?](#07)<br>
+[Q08. Do you provide proteins for testing?](#08)<br>
+[Q09. Is it possible to use your data for commercial purposes?](#09)<br>
 
 <a name="#01">**Q01. What is neXtProt?**</a>
 
@@ -27,16 +30,27 @@ Citation information and links to the original _publications_ in neXtProt are pr
 
 Controlled vocabularies (CV) provide a way to organize knowledge for subsequent retrieval. neXtProt uses a number of controlled vocabularies to describe concepts such as protein families, domains, molecular function and subcellular locations. Whenever possible, we provide information for each _term_, including its definition, synonyms, relevant proteins, its relationship with other terms in the CV, as well as the different paths from the controlled vocabulary root term to the term displayed.
 
-<a name="#04">**Q04. How often is neXtPot updated?**</a>
+<a name="#04">**Q04. How often is neXtProt updated?**</a>
 
 There is no regular update schedule; the data in neXtProt is updated several times a year.
 
 <a name="#05">**Q05. Can I submit data directly to neXtProt?**</a>
 
-_To be completed_
+neXtProt is interested in high quality data on human proteins. Please use the Contact option if you have a large data set you would like to submit.
 
 <a name="#06">**Q06. Why is my paper not in neXtProt?**</a>
 
-_To be completed_
+neXtProt is an integrative resource which takes information from a number of different [sources](../about/contents). Depending on the type of information in your paper (function, expression, etc.) you should contact the relevant source as we are not currently doing any annotation ourselves. 
 
+<a name="#07">**Q07. How do I cite neXtProt?**</a>
+
+Please cite one of our publications as indicated in [Citing neXtProt](../about/citing-nextprot).
+
+<a name="#08">**Q08. Do you provide proteins for testing?**</a>
+
+No, we do not.
+
+<a name="#09">**Q09. Is it possible to use your data for commercial purposes?**</a>
+
+Yes, please see the Creative Commons Attribution 4.0 International (CC BY 4.0) [licence page](https://creativecommons.org/licenses/by/4.0/) for full details. 
 
