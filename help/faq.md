@@ -6,11 +6,12 @@ Help is available via the "Help" scroll-down menu. If you do not find the answer
 [Q02. How does neXtProt differ from UniProtKB?](#02)<br>
 [Q03. What data is found in neXtProt?](#03)<br>
 [Q04. How often is neXtProt updated?](#04)<br>
-[Q05. Can I submit data directly to neXtProt?](#05)<br>
-[Q06. Why is my paper not in neXtProt?](#06)<br>
-[Q07. How do I cite neXtProt?](#07)<br>
-[Q08. Do you provide proteins for testing?](#08)<br>
-[Q09. Is it possible to use your data for commercial purposes?](#09)<br>
+[Q05. How can I be informed of updates in neXtProt?](#05)<br>
+[Q06. Can I submit data directly to neXtProt?](#06)<br>
+[Q07. Why is my paper not in neXtProt?](#07)<br>
+[Q08. How do I cite neXtProt?](#08)<br>
+[Q09. Do you provide proteins for testing?](#09)<br>
+[Q10. Is it possible to use your data for commercial purposes?](#10)<br>
 
 <a name="#01">**Q01. What is neXtProt?**</a>
 
@@ -22,7 +23,7 @@ neXtProt adds more information to the corpus of data on human proteins that is a
 
 <a name="#03">**Q03. What data is found in neXtProt?**</a>
 
-neXtProt provides information about _proteins_ : their function, relevant diseases and drugs, protein and mRNA expression in normal tissues, direct molecular (other human proteins, non-human proteins, drugs or chemicals) interactants, subcellular localization, sequence features (sites, domains, regions,...), proteomics data, structural data (secondary, tertiary and quaternary), natural and synthetic (SRM) peptides, variant phenotypes, gene and coding exon information for each isoform, protein and gene identifiers, as well as the _references_ supporting the information in neXtProt. _Cross-references_ to external resources providing additional information are also provided.
+neXtProt provides information about _protein entries_ : their function, relevant diseases and drugs, protein and mRNA expression in normal tissues, direct molecular (other human proteins, non-human proteins, drugs or chemicals) interactants, subcellular localization, sequence features (sites, domains, regions,...), proteomics data, structural data (secondary, tertiary and quaternary), natural and synthetic (SRM) peptides, variant phenotypes, gene and coding exon information for each isoform, protein and gene identifiers, as well as the _references_ supporting the information in neXtProt. _Cross-references_ to external resources providing additional information are also provided.
 
 neXTProt also provides information on specific topics in its _portals_ : ion channel variants and their effect, variants in proteins involved in hereditary cancers and their effect, and the function of protein kinases.
 
@@ -34,23 +35,27 @@ Controlled vocabularies (CV) provide a way to organize knowledge for subsequent 
 
 There is no regular update schedule; the data in neXtProt is updated several times a year.
 
-<a name="#05">**Q05. Can I submit data directly to neXtProt?**</a>
+<a name="#05">**Q05. How can I be informed of updates in neXtProt?**</a>
+
+You can follow us on [Twitter](https://twitter.com/nextprot_news) or [ResearchGate](https://www.researchgate.net/project/neXtProt), where you will be kept up to date with all new releases and changes to neXtProt.
+
+<a name="#06">**Q06. Can I submit data directly to neXtProt?**</a>
 
 neXtProt is interested in high quality data on human proteins. Please use the Contact option if you have a large data set you would like to submit.
 
-<a name="#06">**Q06. Why is my paper not in neXtProt?**</a>
+<a name="#07">**Q07. Why is my paper not in neXtProt?**</a>
 
-neXtProt is an integrative resource which takes information from a number of different [sources](../about/contents). Depending on the type of information in your paper (function, expression, etc.) you should contact the relevant source as we are not currently doing any annotation ourselves. 
+neXtProt is an integrative resource which takes human protein data from a number of different [sources](../about/contents). Depending on the type of data in your paper (function, expression, etc.) you should contact the relevant source as we are not currently doing any annotation ourselves. 
 
-<a name="#07">**Q07. How do I cite neXtProt?**</a>
+<a name="#08">**Q08. How do I cite neXtProt?**</a>
 
 Please cite one of our publications as indicated in [Citing neXtProt](../about/citing-nextprot).
 
-<a name="#08">**Q08. Do you provide proteins for testing?**</a>
+<a name="#09">**Q09. Do you provide proteins for testing?**</a>
 
 No, we do not.
 
-<a name="#09">**Q09. Is it possible to use your data for commercial purposes?**</a>
+<a name="#10">**Q10. Is it possible to use your data for commercial purposes?**</a>
 
 Yes, please see the Creative Commons Attribution 4.0 International (CC BY 4.0) [licence page](https://creativecommons.org/licenses/by/4.0/) for full details. 
 
