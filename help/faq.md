@@ -39,7 +39,7 @@ No, we do not currently add any new isoforms in neXtProt. The isoform names and 
 
 neXtProt provides information about _protein entries_ : their function, relevant diseases and drugs, protein and mRNA expression in normal tissues, direct molecular (other human proteins, non-human proteins, drugs or chemicals) interactants, subcellular localization, sequence features (sites, domains, regions,...), proteomics data, structural data (secondary, tertiary and quaternary), natural and synthetic (SRM) peptides, variant phenotypes, gene and coding exon information for each isoform, protein and gene identifiers, as well as the _references_ supporting the information in neXtProt. _Cross-references_ to external resources providing additional information are also provided.
 
-neXTProt also provides information on specific topics in its _portals_ : ion channel variants and their effect, variants in proteins involved in hereditary cancers and their effect, and the function of protein kinases.
+neXtProt also provides information on specific topics in its _portals_ : ion channel variants and their effect, variants in proteins involved in hereditary cancers and their effect, and the function of protein kinases.
 
 Citation information and links to the original _publications_ in neXtProt are provided.
 
