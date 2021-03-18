@@ -59,7 +59,9 @@ The data release version is indicated in the footer of all our web pages.
 
 <a name="#09">**Q09. How can I be informed of updates in neXtProt?**</a>
 
-You can follow us on [Twitter](https://twitter.com/nextprot_news) or [ResearchGate](https://www.researchgate.net/project/neXtProt), where you will be kept up to date with all new releases and changes to neXtProt.
+Updates in neXtProt are described in our [news](../news).
+
+You can also follow us on [Twitter](https://twitter.com/nextprot_news) or [ResearchGate](https://www.researchgate.net/project/neXtProt), where you will be kept up to date with all new releases and changes to neXtProt.
 
 <a name="#10">**Q10. What is the difference between curated publications and additional publications in nextProt?**</a>
 
