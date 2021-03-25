@@ -6,4 +6,4 @@ Until now, selecting the Download option in neXtProt directed you to our FTP sit
 
 ##Changes to the documentation
 
-A Frequently Asked Questions (FAQ) page is now available [here](../help/FAQ). Please don't hesitate to use the Contact option if you don't find the answer to your question.
+A Frequently Asked Questions (FAQ) page is now available [here](../help/faq). Please don't hesitate to use the Contact option if you don't find the answer to your question.
