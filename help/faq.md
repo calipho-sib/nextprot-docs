@@ -4,7 +4,7 @@ Help is available via the "Help" scroll-down menu. If you do not find the answer
 
 ##Frequently Asked Questions (FAQ)
 
-[Q01. What is neXtProt?](#01)<br>
+[Q01. What is neXtProt?](#what-is-nextprot)<br>
 [Q02. How do I cite neXtProt?](#02)<br>
 [Q03. How does neXtProt differ from UniProtKB?](#03)<br>
 [Q04. Are the isoforms and their sequences in neXtProt different from those in UniProtKB?](#04)<br>
@@ -19,7 +19,7 @@ Help is available via the "Help" scroll-down menu. If you do not find the answer
 [Q13. Do you provide proteins for testing?](#13)<br>
 
 
-<a name="#01">**Q01. What is neXtProt?**</a>
+<a name="what-is-nextprot"></a>**Q01. What is neXtProt?**
 
 neXtProt is a comprehensive human-centric discovery platform, offering its users a seamless integration of and navigation through protein-related data.
 
