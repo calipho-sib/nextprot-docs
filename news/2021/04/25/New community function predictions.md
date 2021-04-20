@@ -8,6 +8,6 @@ In order to support this community effort to complete the human functional prote
 
 The following query has been modified:
 
-1. NXQ\_00265 **Retrieve all positional annotations at a given position on a neXtProt isoform**
+1. NXQ\_00265 **Retrieve all positional annotations at a given position on a neXtProt isoform** The results now include phenotypic variation annotations.
 
 The latter query is found in the (SnorQL)[https://snorql.nextprot.org/] interface.
