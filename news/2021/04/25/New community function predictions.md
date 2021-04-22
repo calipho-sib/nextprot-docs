@@ -11,4 +11,4 @@ The following queries have been modified:
 1. NXQ\_00104 **Proteins whose gene is on chromosome 21 with at least one disease annotation from Orphanet** The query has been modified to return the disease names.
 2. NXQ\_00265 **Retrieve all positional annotations at a given position on a neXtProt isoform** The results now include phenotypic variation annotations.
 
-The queries are found in the (SnorQL)[https://snorql.nextprot.org/] interface.
+The queries are found in the [SnorQL](https://snorql.nextprot.org/) interface.
