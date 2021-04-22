@@ -4,10 +4,11 @@ In March 2018, the HUPO C-HPP consortium launched the [neXt-CP50 project](https:
 
 In order to support this community effort to complete the human functional proteome, neXtProt has begun to host protein function predictions. As a first step, we provide predictions for 7 entries (NX_Q5T5N4, NX_Q96LI9, NX_C9JQI7, NX_Q9BPX7, NX_Q9BUV0, NX_H3BR10 and NX_Q6P2H8). In order to give credit to the submitter(s), we will link to their ORCID. **Until an online submission form is available, please [contact us](mailto:support@nextprot.org?subject=\[Function%20Prediction\]) to submit predictions for an entry.**
 
-##Modified advanced search SPARQL query
+##Modified advanced search SPARQL queries
 
-The following query has been modified:
+The following queries have been modified:
 
-1. NXQ\_00265 **Retrieve all positional annotations at a given position on a neXtProt isoform** The results now include phenotypic variation annotations.
+1. NXQ\_00104 **Proteins whose gene is on chromosome 21 with at least one disease annotation from Orphanet** The query has been modified to return the disease names.
+2. NXQ\_00265 **Retrieve all positional annotations at a given position on a neXtProt isoform** The results now include phenotypic variation annotations.
 
-The latter query is found in the (SnorQL)[https://snorql.nextprot.org/] interface.
+The queries are found in the (SnorQL)[https://snorql.nextprot.org/] interface.
