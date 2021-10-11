@@ -1,4 +1,4 @@
-The new [functional proteome project](../about/functional-proteome-project) page explains the goal of the project, tracks its progress, provides the list of entries with a funtion prediction and indicates how you can participate by submitting predictions for the function of human proteins to neXtProt.
+The new [functional proteome project](../about/functional-proteome-project) page explains the goal of the project, tracks its progress, provides the list of entries with a function prediction and indicates how you can participate by submitting predictions for the function of human proteins to neXtProt.
 
 ##More protein function predictions
 
