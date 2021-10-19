@@ -1,6 +1,6 @@
 Lost in the labyrinth of human data? neXtProt services will help you find your way.
 
-Our team is composed of **life scientists**, who are experts in data curation and ontology development, and **software developers**, who handle large amounts of data and provide it in numerous formats. We capitalize on 30 years of Swiss-quality protein knowledge resource development to develop customized solutions.
+Our team is composed of **life scientists**, who are experts in data curation and ontology development, and **software developers**, who handle large amounts of data and provide it in numerous formats. We capitalize on 10 years of Swiss-quality protein knowledge resource development to develop customized solutions.
 
 ##Services
 
@@ -8,7 +8,7 @@ The neXtProt team offers the following services in:
 
 1.	**Big Data**<br>
     Interpreting results from transcriptomics, proteomics or interactomics studies
-2.	**Annotation**<br>
+2.	**Annotation and Data Mining**<br>
     Extracting and synthesizing knowledge about human proteins' functions and variations in health and diseases, from the literature and databases
 3.	**Ontologies**<br>
     Consolidating proprietary controlled vocabularies and developing ontologies
