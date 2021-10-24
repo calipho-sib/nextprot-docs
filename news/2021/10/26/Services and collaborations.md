@@ -1,0 +1,1 @@
+**Need help with human protein data, annotation, data mining, ontologies or the semantic web?** Since 2011, the neXtProt team has been involved in numerous collaborations and providing services to industry. For details and testimonials, see our new [Services](../about/services) page. 
