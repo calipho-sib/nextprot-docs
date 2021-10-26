@@ -6,15 +6,15 @@ Our team is composed of **life scientists**, who are experts in data curation an
 
 The neXtProt team offers the following services in:
 
-1.	**Big Data**<br>
+1.	**Big Data**
     Interpreting results from transcriptomics, proteomics or interactomics studies
-2.	**Annotation and Data Mining**<br>
+2.	**Annotation and Data Mining**
     Extracting and synthesizing knowledge about human proteins' functions and variations in health and diseases, from the literature and databases
-3.	**Ontologies**<br>
+3.	**Ontologies**
     Consolidating proprietary controlled vocabularies and developing ontologies
-4. **Semantic Web**<br>
+4. **Semantic Web**
    Advising on how to link proprietary RDF data sets with public data sets
-5. **Courses**<br>
+5. **Courses**
    Customized courses with hands-on exercises
 
 ##Collaborations
