@@ -26,7 +26,7 @@ Since 2011, neXtProt has been involved in numerous collaborations and providing 
    
 _**HUPO**_<br>
 Gil Omenn, Leader of the HUPO HPP project<br>
-&quot;The combination of neXtProt, PeptideAtlas, ProteomeXchange/PRIDE, and interchange with other resources internationally has greatly accelerated the field of proteomics. ( … ) Reliable, fully shared and reconfirmed data with tools like the TransProteomicPipeline, neXtProt uniqueness mapper, the Universal Spectra Identifier, and the SRM Atlas and Popular Proteins lists can accelerate biological and clinical applications from the HPP and the community at large.&quot;
+&quot;The combination of neXtProt, PeptideAtlas, ProteomeXchange/PRIDE, and interchange with other resources internationally has greatly accelerated the field of proteomics. (...) Reliable, fully shared and reconfirmed data with tools like the TransProteomicPipeline, neXtProt uniqueness mapper, the Universal Spectra Identifier, and the SRM Atlas and Popular Proteins lists can accelerate biological and clinical applications from the HPP and the community at large.&quot;
 
 _**ENYO Pharma SA**_<br>
 Laurène Meyniel-Schicklin, Co-Founder<br>
