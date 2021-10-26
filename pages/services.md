@@ -20,7 +20,7 @@ The neXtProt team offers the following services in:
 ##Collaborations
    
 Since 2011, neXtProt has been involved in numerous collaborations and providing services to industry.
-<img width="75%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/collaborations.png"/>
+<img src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/collaborations.png"/>
    
 ##Testimonials
    
