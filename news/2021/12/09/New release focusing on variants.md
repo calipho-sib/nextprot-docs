@@ -4,7 +4,8 @@ This release, neXtProt data release 2021-MM-DD, incorporates new variants causin
 
 **New variants relevant to Rett syndrome**
 
-Rett syndrome is an X-linked dominant neurodevelopmental disorder that is generally caused by a genetic variation in [MECP2](../entry/NX_P51608/medical). A total of 240 MECP2 variants were integrated from the paper by [Ehrhart et al. (2021)](https://doi.org/10.1038/s41597-020-00794-7). Of these, 183 cause Rett syndrome whereas 57 variants do not.  
+Rett syndrome is an X-linked dominant neurodevelopmental disorder that is generally caused by a genetic variation in [MECP2](../entry/NX_P51608/medical). A total of 240 MECP2 variants were integrated from the paper by [Ehrhart et al. (2021)](https://doi.org/10.1038/s41597-020-00794-7). Of these, 183 cause Rett syndrome whereas 57 variants do not.
+
 **New variants from the Cellosaurus**
 
 The [Cellosaurus](https://web.expasy.org/cellosaurus/), a knowledge resource on cell lines, provides information on important sequence variations (compared to the reference genome of the species). A total of ? variants from the Cellosaurus are now found in neXtProt. Example: Variant ? at position ? in [](../entry/NX_/sequence).
@@ -13,7 +14,7 @@ The [Cellosaurus](https://web.expasy.org/cellosaurus/), a knowledge resource on 
 
 The [Human Genome Variation Society](https://varnomen.hgvs.org/) (HGVS) nomenclature for all non-synonymous single amino acid variants (SAAVs) is now displayed. Example: Variant A -> V at position 20 in MSH6 isoform GTBP-N is displayed as p.Ala20Val in the [Medical](../entry/NX_P52701/medical), [Sequence view](../entry/NX_P52701/sequence) and [Structures view](../entry/NX_P52701/structures).
 
-It is now also possible to search such variants. Example: Searching in proteins for [p.Ala20Val](../proteins/search?query=p.Ala20Val) returns MSH6.
+It is now also possible to search for HGVS variant names. Example: Searching in proteins for [p.Ala20Val](../proteins/search?query=p.Ala20Val) returns MSH6.
 
 ##Updated data
 
