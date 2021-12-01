@@ -12,7 +12,7 @@ The [Cellosaurus](https://web.expasy.org/cellosaurus/), a knowledge resource on 
 
 **HGVS nomenclature**
 
-The [Human Genome Variation Society](https://varnomen.hgvs.org/) (HGVS) nomenclature for all non-synonymous single amino acid variants (SAAVs) is now displayed. Example: Variant A -> V at position 20 in MSH6 isoform GTBP-N is displayed as p.Ala20Val in the [Medical](../entry/NX_P52701/medical), [Sequence view](../entry/NX_P52701/sequence) and [Structures view](../entry/NX_P52701/structures).
+The [Human Genome Variation Society](https://varnomen.hgvs.org/) (HGVS) nomenclature for all non-synonymous single amino acid variants (SAAVs) is now displayed. Example: Variant A -> V at position 20 in MSH6 isoform GTBP-N is displayed as p.Ala20Val in the [Medical](../entry/NX_P52701/medical), [Sequence](../entry/NX_P52701/sequence) and [Structures](../entry/NX_P52701/structures) views.
 
 It is now also possible to search for HGVS variant names. Example: Searching in proteins for [p.Ala20Val](../proteins/search?query=p.Ala20Val) returns MSH6.
 
