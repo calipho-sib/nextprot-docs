@@ -1,4 +1,4 @@
-This release, neXtProt data release 2021-MM-DD, incorporates new variants causing disease from neXtProt, as well as variants found in cell lines from the Cellosaurus.
+This last release of the year, neXtProt data release 2021-11-19, incorporates new variants causing disease from neXtProt, as well as variants found in cell lines from the Cellosaurus.
 
 ##Changes to the data
 
@@ -8,7 +8,7 @@ Rett syndrome is an X-linked dominant neurodevelopmental disorder that is genera
 
 **New variants from the Cellosaurus**
 
-The [Cellosaurus](https://web.expasy.org/cellosaurus/), a knowledge resource on cell lines, provides information on important sequence variations (compared to the reference genome of the species). A total of ? variants from the Cellosaurus are now found in neXtProt. Example: Variant ? at position ? in [](../entry/NX_/sequence).
+The [Cellosaurus](https://web.expasy.org/cellosaurus/), a knowledge resource on cell lines, provides information on important sequence variations (compared to the reference genome of the species). A total of 2470 variants from the Cellosaurus are now found in neXtProt. Example: Variant Q -> P (p.Gln65Pro) at position 65 in serine-protein kinase ATM [NX\_Q13315](../entry/NX_Q13315/sequence).
 
 **HGVS nomenclature**
 
@@ -30,8 +30,10 @@ Cross-references to DECIPHER, a web-based resource and database of genomic varia
 
 ##Changes to the RDF data model
 
-The disease-causing variants annotated by neXtProt have required the new entity ????
+Disease-related variants in neXtProt are described by the new entity :diseaseRelatedVariant. Disease(s) associated with protein defect(s) can now be described using NCI Thesaurus (:NciThesaurusCv) controlled vocabulary terms.
 
 ##Changes to the export files
 
-The genome assembly is now included in the header of all ? files, as well as the ttl file.
+The genome assembly is now included all ttl files staring with nextprot\_chromosome\_ [here](https://download.nextprot.org/).
+
+A user spotted that our ttl files contained literals containing backslashes. These form invalid escape sequences and are ignored by virtuoso when loading data. These literals have now been fixed.
