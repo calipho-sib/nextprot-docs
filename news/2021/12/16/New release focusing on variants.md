@@ -34,6 +34,6 @@ Disease-related variants in neXtProt are described by the new entity :diseaseRel
 
 ##Changes to the export files
 
-The genome assembly is now included all ttl files staring with nextprot\_chromosome\_ [here](https://download.nextprot.org/).
+The genome assembly is now included in all ttl files starting with nextprot\_chromosome\_ at [https://download.nextprot.org/pub/current\_release/rdf/ttl/](https://download.nextprot.org/pub/current_release/rdf/ttl/).
 
 A user spotted that our ttl files contained literals containing backslashes. These form invalid escape sequences and are ignored by virtuoso when loading data. These literals have now been fixed.
