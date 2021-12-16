@@ -32,8 +32,15 @@ Cross-references to DECIPHER, a web-based resource and database of genomic varia
 
 Disease-related variants in neXtProt are described by the new entity :diseaseRelatedVariant. Disease(s) associated with protein defect(s) can now be described using NCI Thesaurus (:NciThesaurusCv) controlled vocabulary terms.
 
+##Changes to advanced search SPARQL queries
+
+The following queries have been modified to take into account the changes in the data model:
+1. [NXQ\_00028](../proteins/search?mode=advanced&queryId=NXQ_00028) **Proteins associated with a disease but without a disease-causing amino-acid substitution variant**
+2. [NXQ\_00048](../proteins/search?mode=advanced&queryId=NXQ_00048) **Proteins with at least one variant of the type "C->X" (Cys to anything else) that are linked to one or more diseases**
+3. [NXQ\_00082](../proteins/search?mode=advanced&queryId=NXQ_00082) **Proteins whose genes are on chromosome 21 that have "gold" variants not associated with a disease**
+
 ##Changes to the export files
 
-The genome assembly is now included in all ttl files starting with nextprot\_chromosome\_ at [https://download.nextprot.org/pub/current\_release/rdf/ttl/](https://download.nextprot.org/pub/current_release/rdf/ttl/).
+The genome assembly is now included in all ttl files starting with nextprot\_chromosome\_ at [https://download.nextprot.org/pub/current\_release/rdf/ttl/](https://download.nextprot.org/pub/current_release/rdf/ttl/). It is now also found in the header line of all mapping files in [https://download.nextprot.org/pub/current\_release/mapping/](https://download.nextprot.org/pub/current_release/mapping/).
 
 A user spotted that our ttl files contained literals containing backslashes. These form invalid escape sequences and are ignored by virtuoso when loading data. These literals have now been fixed.
