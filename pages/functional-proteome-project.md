@@ -44,6 +44,7 @@ Step 2. Here is the **current list of entries with a function prediction**:
 * [NX\_Q9NX00](../entry/NX_Q9NX00/function-predictions)
 * [NX\_Q8IYL3](../entry/NX_Q8IYL3/function-predictions)
 * [NX\_Q8N3G9](../entry/NX_Q8N3G9/function-predictions)
+* [NX\_P0C7W6](../entry/NX_P0C7W6/function-predictions)
 
 Similar or different hypotheses for these proteins are welcome.
 
