@@ -12,16 +12,16 @@ UniProt release 2021_04, Ensembl release 104 and HPA version 21 have also been i
 
 ##Changes to the user interface
 
-The antibody track has been removed from the Peptides view as it focusses on the peptides detected by MS. Antibodies are still displayed in the Proteomics view. Example: Barrier-to-autointegration factor (BANF1) [NX\_O75531](../entry/NX_O75531/proteomics)
+The antibody track has been removed from the Peptides view as it focusses on the peptides detected by MS. Antibodies are still displayed in the Proteomics view. Example: Antibody HPA039242 from the Human Protein Atlas (HPA) to barrier-to-autointegration factor (BANF1) [NX\_O75531](../entry/NX_O75531/proteomics)
 
 ##New advanced search SPARQL queries
 
 The following query of interest to the rare disease community has been added:
 
-• NXQ\_00294 **Variants in MECP2 causing Rett Syndrome**
+* NXQ\_00294 **Variants in MECP2 causing Rett Syndrome**
 
 to the [SNORQL](https://snorql.nextprot.org/) interface.
 
 ##New predictions of protein functions
 
-Function predictions for ? additional entries (?) are now available. There are now ? entries with function predictions listed in the [functional proteome project](../about/functional-proteome-project) page. 
+Function predictions for 1 additional entry ([NX\_P0C7W6](../entry/NX_P0C7W6/function-predictions)) are now available. There are now 29 entries with function predictions listed in the [functional proteome project](../about/functional-proteome-project) page. 
