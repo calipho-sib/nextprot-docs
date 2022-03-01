@@ -1,10 +1,10 @@
-This release, neXtProt data release 2022-??-??, is the 2022 reference for the [HUPO](https://www.hupo.org/) C-HPP project.
+This release, neXtProt data release 2022-02-25, is the 2022 reference for the [HUPO](https://www.hupo.org/) C-HPP project.
 
 ##Changes to the data
 
 **Peptide data**
 
-This release incorporates the latest [PeptideAtlas](http://www.peptideatlas.org) human 2022-01 build. This build contains ? new sample types (), bringing the total to ? sample types. Peptides from [MassIVE](https://massive.ucsd.edu/) have also been updated. MassIVE peptides from ? new tissue types () have been integrated in this release. Taken together, this brings the number of natural peptides seen by mass Spectrometry (MS) to ?, up from 2726064 in the 2021 HUPO reference release.
+This release incorporates the latest [PeptideAtlas](http://www.peptideatlas.org) human 2022-01 build. This build contains 2 new sample types (normal muscle, cancer frm other female reproductive organ), bringing the total number of PeptideAtlas sample types to 64. Peptides from [MassIVE](https://massive.ucsd.edu/) have also been updated. MassIVE peptides from 7 new tissue types (normal oocyte, brain cancer, kidney cancer, liver cancer, urinary bladder cancer, cancer cell lines from colon, as well as cancer cell lines from other gestational structure) have been integrated in this release. Taken together, this brings the number of natural peptides seen by mass Spectrometry (MS) to 3280422, up from 2726064 in the 2021 HUPO reference release.
 
 **Updated data**
 
@@ -24,4 +24,4 @@ to the [SNORQL](https://snorql.nextprot.org/) interface.
 
 ##New predictions of protein functions
 
-Function predictions for 1 additional entry ([NX\_P0C7W6](../entry/NX_P0C7W6/function-predictions)) are now available. There are now 29 entries with function predictions listed in the [functional proteome project](../about/functional-proteome-project) page. 
+Function predictions for 1 additional entry ([NX\_P0C7W6](../entry/NX_P0C7W6/function-predictions)) are now available. This brings the total number of entries with function predictions to 29 entries. Entries with function predictions are listed in the [functional proteome project](../about/functional-proteome-project) page. 
