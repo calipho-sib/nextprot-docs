@@ -4,7 +4,7 @@ This release, neXtProt data release 2022-02-25, is the 2022 reference for the [H
 
 **Peptide data**
 
-This release incorporates the latest [PeptideAtlas](http://www.peptideatlas.org) human 2022-01 build. This build contains 2 new sample types (normal muscle, cancer frm other female reproductive organ), bringing the total number of PeptideAtlas sample types to 64. Peptides from [MassIVE](https://massive.ucsd.edu/) have also been updated. MassIVE peptides from 7 new tissue types (normal oocyte, brain cancer, kidney cancer, liver cancer, urinary bladder cancer, cancer cell lines from colon, as well as cancer cell lines from other gestational structure) have been integrated in this release. Taken together, this brings the number of natural peptides seen by mass Spectrometry (MS) to 3280422, up from 2726064 in the 2021 HUPO reference release.
+This release incorporates the latest [PeptideAtlas](http://www.peptideatlas.org) human 2022-01 build. This build contains 2 new sample types (normal muscle, cancer from other female reproductive organ), bringing the total number of PeptideAtlas sample types to 64. Peptides from [MassIVE](https://massive.ucsd.edu/) have also been updated. MassIVE peptides from 7 new tissue types (normal oocyte, brain cancer, kidney cancer, liver cancer, urinary bladder cancer, cancer cell lines from colon, as well as cancer cell lines from other gestational structure) have been integrated in this release. Taken together, this brings the number of natural peptides seen by mass Spectrometry (MS) to 3280422, up from 2726064 in the 2021 HUPO reference release.
 
 **Updated data**
 
