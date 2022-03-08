@@ -10,6 +10,10 @@ This release incorporates the latest [PeptideAtlas](http://www.peptideatlas.org)
 
 UniProt release 2021_04, Ensembl release 104 and HPA version 21 have also been integrated. Data from the Cellosaurus, GOA, GlyConnect and neXtProt has also been updated.
 
+**Modified data**
+
+The GOLD/SILVER quality rule applying to the binary-interaction data from ENYO Pharma SA has been modified to be coherent with that applied to data from IntAct.
+
 ##Changes to the user interface
 
 The antibody track has been removed from the Peptides view as it focusses on the peptides detected by MS. Antibodies are still displayed in the Proteomics view. Example: Antibody HPA039242 from the Human Protein Atlas (HPA) to barrier-to-autointegration factor (BANF1) [NX\_O75531](../entry/NX_O75531/proteomics)
