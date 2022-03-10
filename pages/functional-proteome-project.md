@@ -6,7 +6,7 @@ In the current neXtProt release there are:
 
 * ${ENTRY_COUNT} entries
 * ${PROTEIN_WITH_NO_FUNCTION_ANNOTATED_COUNT} proteins with no function annotated
-* 28 entries with a function prediction
+* 29 entries with a function prediction
 
 ##Function prediction submissions
 
