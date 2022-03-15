@@ -6,7 +6,7 @@ In the current neXtProt release there are:
 
 * ${ENTRY_COUNT} entries
 * ${PROTEIN_WITH_NO_FUNCTION_ANNOTATED_COUNT} proteins with no function annotated
-* 28 entries with a function prediction
+* 29 entries with a function prediction
 
 ##Function prediction submissions
 
@@ -44,6 +44,7 @@ Step 2. Here is the **current list of entries with a function prediction**:
 * [NX\_Q9NX00](../entry/NX_Q9NX00/function-predictions)
 * [NX\_Q8IYL3](../entry/NX_Q8IYL3/function-predictions)
 * [NX\_Q8N3G9](../entry/NX_Q8N3G9/function-predictions)
+* [NX\_P0C7W6](../entry/NX_P0C7W6/function-predictions)
 
 Similar or different hypotheses for these proteins are welcome.
 
