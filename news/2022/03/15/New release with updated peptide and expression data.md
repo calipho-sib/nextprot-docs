@@ -8,7 +8,7 @@ This release incorporates the latest [PeptideAtlas](http://www.peptideatlas.org)
 
 **Updated data**
 
-UniProt release 2021_04, Ensembl release 104 and HPA version 21 have also been integrated. Data from the Cellosaurus, GOA, GlyConnect and neXtProt has also been updated.
+UniProt release 2021_04, Ensembl release 104 and HPA version 21 have also been integrated. Data from the Cellosaurus, GOA, GlyConnect, IntAct and neXtProt has also been updated.
 
 **Modified data**
 
