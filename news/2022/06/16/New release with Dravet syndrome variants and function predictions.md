@@ -25,4 +25,6 @@ to the (SNORQL)[https://snorql.nextprot.org/] interface.
 
 ##New predictions of protein functions
 
-Function predictions for entries NX_ ... are now available. The total number of entries for which one or more function(s) have been predicted is now ? entries. Entries with function predictions are listed in the (functional proteome project)[https://www.nextprot.org/about/functional-proteome-project] page. 
+Function predictions for entries NX_ ... are now available. These were proposed by the University of Geneva Bachelor students who took part in the 2022 edition of the (Data mining for protein function prediction: Fonctionathon)[https://www.unige.ch/innovations-pedagogiques/innovations/fonctionathon] course.
+
+The total number of entries for which one or more function(s) have been predicted is now ?. All entries with function predictions are listed in the (functional proteome project)[https://www.nextprot.org/about/functional-proteome-project] page. 
