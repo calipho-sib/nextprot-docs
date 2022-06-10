@@ -6,7 +6,7 @@ In the current neXtProt release there are:
 
 * ${ENTRY_COUNT} entries
 * ${PROTEIN_WITH_NO_FUNCTION_ANNOTATED_COUNT} proteins with no function annotated
-* 29 entries with a function prediction
+* 80 entries with a function prediction
 
 ##Function prediction submissions
 
@@ -14,39 +14,7 @@ Join neXtProt in the community effort to complete the human functional proteome!
 
 Step 1. Pick a **protein with no function annotated** by running the following SPARQL query [NXQ\_00022](https://www.nextprot.org/proteins/search?mode=advanced&queryId=NXQ_00022).
 
-Step 2. Here is the **current list of entries with a function prediction**:
-
-* [NX\_Q5T5N4](../entry/NX_Q5T5N4/function-predictions)
-* [NX\_Q96LI9](../entry/NX_Q96LI9/function-predictions)
-* [NX\_C9JQI7](../entry/NX_C9JQI7/function-predictions)
-* [NX\_Q9BPX7](../entry/NX_Q9BPX7/function-predictions)
-* [NX\_Q9BUV0](../entry/NX_Q9BUV0/function-predictions)
-* [NX\_H3BR10](../entry/NX_H3BR10/function-predictions)
-* [NX\_Q6P2H8](../entry/NX_Q6P2H8/function-predictions)
-* [NX\_Q53EV4](../entry/NX_Q53EV4/function-predictions)
-* [NX\_Q8IYE0](../entry/NX_Q8IYE0/function-predictions)
-* [NX\_Q8N5R6](../entry/NX_Q8N5R6/function-predictions)
-* [NX\_P0DPI2](../entry/NX_P0DPI2/function-predictions)
-* [NX\_Q8N4L1](../entry/NX_Q8N4L1/function-predictions)
-* [NX\_Q8IW70](../entry/NX_Q8IW70/function-predictions)
-* [NX\_Q6UWF7](../entry/NX_Q6UWF7/function-predictions)
-* [NX\_Q8N323](../entry/NX_Q8N323/function-predictions)
-* [NX\_Q96DL1](../entry/NX_Q96DL1/function-predictions)
-* [NX\_Q3SX64](../entry/NX_Q3SX64/function-predictions)
-* [NX\_Q9BUT9](../entry/NX_Q9BUT9/function-predictions)
-* [NX\_A0PJX8](../entry/NX_A0PJX8/function-predictions)
-* [NX\_Q8TCA0](../entry/NX_Q8TCA0/function-predictions)
-* [NX\_Q9BV19](../entry/NX_Q9BV19/function-predictions)
-* [NX\_Q6ZUJ4](../entry/NX_Q6ZUJ4/function-predictions)
-* [NX\_Q5T5S1](../entry/NX_Q5T5S1/function-predictions)
-* [NX\_Q5JTB6](../entry/NX_Q5JTB6/function-predictions)
-* [NX\_Q9NWD8](../entry/NX_Q9NWD8/function-predictions)
-* [NX\_Q9NX00](../entry/NX_Q9NX00/function-predictions)
-* [NX\_Q8IYL3](../entry/NX_Q8IYL3/function-predictions)
-* [NX\_Q8N3G9](../entry/NX_Q8N3G9/function-predictions)
-* [NX\_P0C7W6](../entry/NX_P0C7W6/function-predictions)
-
-Similar or different hypotheses for these proteins are welcome.
+Step 2.  [Here](https://www.nextprot.org/proteins/search?listId=RGGSN4W1) is the **current list of entries with a function prediction**. To view the predictions for an entry, click on the link to the entry and select **Function prediction** in the Community tool section on the left-hand menu. Similar or different hypotheses for these proteins are welcome.
 
 Step 3. Send us an [e-mail](mailto:support@nextprot.org) with the accession number of the entry, the proposed function(s) of the protein (preferably GO terms), the type of evidence to support the function(s) (preferably ECO terms) and whenever possible the associated papers, as well as your ORCID number and the paper in which the functional hypothesis has been published, if applicable. Please make sure that the proposed function(s) is/are sufficiently precise to be testable by experimental researchers.
 
