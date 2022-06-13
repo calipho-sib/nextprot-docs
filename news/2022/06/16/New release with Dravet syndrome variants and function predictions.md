@@ -1,12 +1,12 @@
-This release, neXtProt data release 2022-MM-DD, incorporates new variants, bringing the total number of variants in neXtProt to ?. 
+This release, neXtProt data release 2022-05-19, incorporates new variants, bringing the total number of variants in neXtProt to 9720110. 
 
 ##Changes to the data
 
-**New variants relevant to Dravet syndrome**
+**New variants causing Dravet syndrome**
 
-Dravet syndrome is a rare, lifelong form of epilepsy that begins in the first year of life. The disease, also known as Severe Myoclonic Epilepsy of Infancy (SMEI), can be caused by a genetic variation in the (SCN1A)[../entry/NX_P35498/medical] gene. A total of ? SCN1A variants were annotated by our team and integrated. Of these, ? cause Dravet syndrome whereas ? variants do not.
+Dravet syndrome is a rare, lifelong form of epilepsy that begins in the first year of life. The disease, also known as Severe Myoclonic Epilepsy of Infancy (SMEI), can be caused by a genetic variation in the (SCN1A)[../entry/NX_P35498/medical] gene. A total of 598 new SCN1A variants were annotated by our team and integrated, bringing the total number of SCN1A variants causing Dravet to 347 variants. 
 
-**New variants from patients**
+**New variants observed in patients**
 
 Genetic variants which have been identified in patients but for which the causal relationship is not established were annotated from the literature by our team. A total of ? variants in ? entries were integrated. 
 
@@ -25,6 +25,6 @@ to the (SNORQL)[https://snorql.nextprot.org/] interface.
 
 ##New predictions of protein functions
 
-Function predictions for entries NX_ ... are now available. Some of these were proposed by the University of Geneva Bachelor students who took part in the 2022 edition of the (Data mining for protein function prediction: Fonctionathon)[https://www.unige.ch/innovations-pedagogiques/innovations/fonctionathon] course.
+Function predictions for 48 new entries are now available, bringing the total number of entries with predictions to 80. Some were proposed by Bachelor students who took part in the 2022 edition of the (Data mining for protein function prediction: Fonctionathon)[https://www.unige.ch/innovations-pedagogiques/innovations/fonctionathon] course at the University of Geneva.
 
-The total number of entries for which one or more function(s) have been predicted is now ?. All entries with function predictions are listed in the (functional proteome project)[https://www.nextprot.org/about/functional-proteome-project] page. 
+All entries with function predictions are listed (here)[https://www.nextprot.org/proteins/search?listId=RGGSN4W1] page. 
