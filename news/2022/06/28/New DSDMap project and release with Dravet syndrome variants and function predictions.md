@@ -10,11 +10,11 @@ This release, neXtProt data release 2022-05-19, incorporates new variants, bring
 
 **New variants causing Dravet syndrome**
 
-Our team has started annotating and integrating [SCN1A](../entry/NX_P35498/medical) variants causing DS or which are observed in DS patients, but for which the evidence is not sufficient to support a causal relationship. 
+Our team has started annotating [SCN1A](../entry/NX_P35498/medical) variants causing DS from the literature and integrating them in neXtProt. 
 
-**New variants observed in patients**
+**New variants observed in patients with 272 different diseases**
 
-Genetic variants which have been identified in patients but for which the causal relationship is not established were annotated from the literature by our team. A total of ? variants in 169 entries were integrated.
+Genetic variants which have been identified in patients but for which the causal relationship is not established were annotated from the literature by our team. A total of 2189 variants in 169 entries were integrated.
 
 ##New predictions of protein functions
 
