@@ -41,7 +41,7 @@ All these queries are found in the [SNORQL](https://snorql.nextprot.org/) interf
 
 The SPARQL query examples NXQ_00255, NXQ_00271, and NXQ_00256 have been updated to take into account the changes in the naming of RDF entities (see below). 
 
-Query NXQ_00141 has been removed as it no longer returns results. 
+Queries NXQ_00134 and NXQ_00141 have been removed as they no longer returns results. 
 
 ##Changes to the RDF
 
