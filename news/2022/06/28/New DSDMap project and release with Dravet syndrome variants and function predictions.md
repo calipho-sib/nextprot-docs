@@ -28,7 +28,7 @@ All entries with function predictions are listed [here](https://www.nextprot.org
 
 The following queries of interest to the Dravet community have been added:
 
-* NXQ\_00295 **References for SCN1A variants causing Dravet syndrome** Clinicians should use this query to find missing publications describing variants not found in neXtProt and submit these using the Contact option.
+* NXQ\_00295 **References for SCN1A variants causing Dravet syndrome** If you know of a publication describing variants causing Dravet syndrome and do not find it in the retrieved list, please submit it using the Contact option.
 * NXQ\_00296 **Pathways in which SCN1A GOLD interactants are involved** This query may be of interest to scientists studying Dravet syndrome.
 
 An additional query of interest to structural biologists has been added:
