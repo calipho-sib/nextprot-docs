@@ -39,9 +39,9 @@ All these queries are found in the [SNORQL](https://snorql.nextprot.org/) interf
 
 **Modified SPARQL queries**
 
-The SPARQL query examples NXQ_00255, NXQ_00271, and NXQ_00256 have been updated to take into account the changes in the naming of RDF entities (see below). 
+The SPARQL query examples NXQ\_00255, NXQ\_00271, and NXQ\_00256 have been updated to take into account the changes in the naming of RDF entities (see below). 
 
-Queries NXQ_00134 and NXQ_00141 have been removed as they no longer returns results. 
+Queries NXQ\_00134 and NXQ\_00141 have been removed as they no longer returns results. 
 
 ##Changes to the RDF
 
