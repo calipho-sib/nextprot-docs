@@ -20,14 +20,14 @@ This portal provides information about the functional impact of genetic variants
  * Moderate: 20 to 80%
  * Mild: 10 to 20%
 
-* **Relation**: In-house [relations vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_modification_effect.obo) describing the type of effect of the mutation. 
+* **Relation**: In-house [relations vocabulary](https://download.nextprot.org/pub/current_release/controlled_vocabularies/cv_modification_effect.obo) describing the type of effect of the mutation. 
 
 * **Function**: Object of the annotation triplet, describing: 
   * Effect on protein function/biological process/cellular localization, captured with [Gene Ontology](http://www.geneontology.org/) terms.
   * Effect on binding to proteins and protein complexes, captured with neXtProt entry IDs.
   * Effect on binding to chemicals, captured with [ChEBI](https://www.ebi.ac.uk/chebi/) terms.
-  * Effect on electrophysiological parameters, captured with [ICEPO ontology](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/icepo.obo).
-  * Effect on protein property (abundance, degradation, etc.), captured with in-house [protein properties vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_protein_property.obo).
+  * Effect on electrophysiological parameters, captured with [ICEPO ontology](https://download.nextprot.org/pub/current_release/controlled_vocabularies/icepo.obo).
+  * Effect on protein property (abundance, degradation, etc.), captured with in-house [protein properties vocabulary](https://download.nextprot.org/pub/current_release/controlled_vocabularies/cv_protein_property.obo).
   * Abnormal phenotypes, captured with [Mammalian Phenotype ontology](http://www.informatics.jax.org/searches/MP_form.shtml) terms.
 
 * **Data confidence**: Evidence is tagged **Gold** or **Silver** according to curator judgment, based on statistical significance, the relevance of the assay, or other criteria.
@@ -38,7 +38,7 @@ This portal provides information about the functional impact of genetic variants
 
 * **Protein Origin**: Species from which the protein being studied was derived, captured with the [NCBI taxomomy](https://www.ncbi.nlm.nih.gov/taxonomy). Note that it is different from the experimental system (see below).
 
-* **Cell line / Tissue**: Cell type or tissue from the [CALOHA human anatomy vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/caloha.obo) or the cell line from the [Cellosaurus knowledge resource](http://web.expasy.org/cellosaurus/) that was used in the experiment. Empty for *in vitro* experiments.
+* **Cell line / Tissue**: Cell type or tissue from the [CALOHA human anatomy vocabulary](https://download.nextprot.org/pub/current_release/controlled_vocabularies/caloha.obo) or the cell line from the [Cellosaurus knowledge resource](http://web.expasy.org/cellosaurus/) that was used in the experiment. Empty for *in vitro* experiments.
 
 * **Experimental system**: Species in which the mutated protein is studied, captured with the [NCBI taxomomy](https://www.ncbi.nlm.nih.gov/taxonomy). For example, a mouse protein [protein origin = Mus musculus] can be studied in a human cell line [Experimental system = Homo sapiens]. *In vitro* studies are annotated as "None (*in vitro*)". 
 
