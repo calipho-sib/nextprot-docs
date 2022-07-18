@@ -1,0 +1,7 @@
+On [April 28, 2021](../news/new-community-function-predictions), neXtProt began to host protein function predictions to support the HUPO C-HPP consortium effort to complete the human functional proteome. At the time, predictions for 7 entries were made available. The **functional proteome project** [page](../about/functional-proteome-project) explains the goal of the project, tracks its progress, and indicates how you can participate by submitting predictions for the function of human proteins to neXtProt.
+
+In the meantime, we published a manual data mining workflow to generate functional hypotheses for uncharacterized human proteins  and its application by undergraduate students ([doi: 10.1093/database/baab046](https://doi.org/10.1093/database/baab046)). The neXtProt team and the University of Geneva students who took the Functionathon course continued proposing function predictions for human proteins.
+
+**neXtProt now has a total of n entries for which a function has been proposed.** The list of entries is found [here](../proteins/search?listId=RGGSN4W1). There is still a long way to go - [these](../proteins/search?mode=advanced&queryId=NXQ_00022) 1,557 entries have no function annotated in the current 2022-05-19 neXtProt release.
+
+**Help us keep going!** We’re calling on all annotators and bioinformaticians to submit predictions or additional evidence supporting the predictions. If you are a web lab scientist, please test the predictions experimentally to advance our knowledge on the human proteome.
