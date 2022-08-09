@@ -9,7 +9,7 @@ This portal provides information about the function of proteins. Annotation stat
 
 * **Protein**: Subject of the annotation, corresponding to a protein 
 
-* **Relation**: In-house [relations vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/cv_modification_effect.obo) describing the type of effect of the protein. 
+* **Relation**: In-house [relations vocabulary](https://download.nextprot.org/pub/current_release/controlled_vocabularies/cv_modification_effect.obo) describing the type of effect of the protein. 
 
 * **Negative**: Specify if the annotation is a negative annotation 
 
@@ -25,7 +25,7 @@ This portal provides information about the function of proteins. Annotation stat
 
 * **Protein Origin**: Species from which the protein being studied was derived, captured with the [NCBI taxomomy](https://www.ncbi.nlm.nih.gov/taxonomy). Note that it is different from the experimental system (see below).
 
-* **Cell line / Tissue**: Cell type or tissue from the [CALOHA human anatomy vocabulary](ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/caloha.obo) or the cell line from the [Cellosaurus knowledge resource](http://web.expasy.org/cellosaurus/) that was used in the experiment. Empty for *in vitro* experiments.
+* **Cell line / Tissue**: Cell type or tissue from the [CALOHA human anatomy vocabulary](https://download.nextprot.org/pub/current_release/controlled_vocabularies/caloha.obo) or the cell line from the [Cellosaurus knowledge resource](http://web.expasy.org/cellosaurus/) that was used in the experiment. Empty for *in vitro* experiments.
 
 * **Experimental system**: Species in which the mutated protein is studied, captured with the [NCBI taxomomy](https://www.ncbi.nlm.nih.gov/taxonomy). For example, a mouse protein [protein origin = Mus musculus] can be studied in a human cell line [Experimental system = Homo sapiens]. *In vitro* studies are annotated as "None (*in vitro*)". 
 
