@@ -18,21 +18,29 @@ Note that missing annotations will be added in the next data release.
 Depending on whether it refers to the name of a protein entry, a gene or an isoform, names are now modeled in a semantically-correct fashion:
 
 1. Recommended protein names were previous queried using ```?entry :recommendedName /:fullName```
-It is now necessary to specify that the recommended name refers to a protein name as follows: 
+
+It is now necessary to specify that the recommended name refers to a protein name as follows:
+
 ```:recommendedName ?name_entity .```
 ```?name_entity a :ProteinName; rdfs:label```
+
 Example: [NXQ\_00290](../proteins/search?mode=advanced&queryId=NXQ_00290)
 For more information, refer to the help page for the entity [:Entry](https://snorql.nextprot.org/help/entity/Entry).
 
 2. Gene names used to be specified using ```:gene / :name```
-It is now necessary to add / rdfs:label after :name to have: 
+
+It is now necessary to add / rdfs:label after :name to have:
+
 ```:gene / :name / rdfs:label```
+
 Example: [NXQ\_00047](../proteins/search?mode=advanced&queryId=NXQ_00047)
 For more information, refer to the help page for the entity [:Gene](https://snorql.nextprot.org/help/entity/Gene).
 
 3. Isoform names were not previously exposed in our RDF. They can now be retrieved by specifying that the recommended name refers to an isoform name as follows:
+
 ```:recommendedName ?name_entity .```
 ```?name_entity a :IsoformName; rdfs:label```
+
 Example: NEW query to retrieve entry isoform accessions and names (first 10 results only)???TO ADD
 For more information, refer to the help page for the entity [:Isoform](https://snorql.nextprot.org/help/entity/Isoform).
 
@@ -64,13 +72,13 @@ Comments, preceded by #, have been added to the first 5 sample queries to make i
 
 To date, neXtProt was:
 
-:star: 1 star - available on the Web (whatever format) under the open license CC BY 4.0 since February 21, 2018
-:star::star: 2 star - available as structured data since its first release on August 23, 2011
-:star::star::star: 3 star - available in the non-proprietary open format XML since its first release on August 23, 2011
+:star: Available on the Web (whatever format) under the open license CC BY 4.0 since February 21, 2018.
+:star::star: Available as structured data since its first release on August 23, 2011.
+:star::star::star: Available in the non-proprietary open format XML since its first release on August 23, 2011.
 
 As of today, neXtProt:
-:star::star::star::star: 4 star uses URIs to denote things by dereferencing 
-:star::star::star::star::star: 5 star links neXtProt data to other data, i.e. UniProt entries, to provide context
+:star::star::star::star: Uses URIs to denote things by dereferencing.
+:star::star::star::star::star: Links neXtProt data to other data, i.e. UniProt entries, to provide context.
 
 So, start linking to our data and let's build the semantic web of human proteins together!
 
