@@ -78,7 +78,7 @@ To date, neXtProt was:
 
 As of today, neXtProt:
 
-:star::star::star::star: Uses URIs to denote things by dereferencing.<br>
+:star::star::star::star: Uses URIs to denote things through dereferencing.<br>
 :star::star::star::star::star: Links neXtProt data to other data, i.e. UniProt entries, to provide context.
 
 So, start linking to our data and let's build the semantic web of human proteins together!
