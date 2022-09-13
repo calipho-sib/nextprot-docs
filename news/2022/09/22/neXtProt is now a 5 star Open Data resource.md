@@ -21,7 +21,7 @@ Depending on whether it refers to the name of a protein entry, a gene or an isof
 
 It is now necessary to specify that the recommended name refers to a protein name as follows:
 
-```:recommendedName ?name_entity .```
+```:recommendedName ?name_entity .```<br>
 ```?name_entity a :ProteinName; rdfs:label```
 
 Example: [NXQ\_00290](../proteins/search?mode=advanced&queryId=NXQ_00290)
@@ -38,7 +38,7 @@ For more information, refer to the help page for the entity [:Gene](https://snor
 
 3. Isoform names were not previously exposed in our RDF. They can now be retrieved by specifying that the recommended name refers to an isoform name as follows:
 
-```:recommendedName ?name_entity .```
+```:recommendedName ?name_entity .```<br>
 ```?name_entity a :IsoformName; rdfs:label```
 
 Example: NEW query to retrieve entry isoform accessions and names (first 10 results only)???TO ADD
@@ -72,12 +72,13 @@ Comments, preceded by #, have been added to the first 5 sample queries to make i
 
 To date, neXtProt was:
 
-:star: Available on the Web (whatever format) under the open license CC BY 4.0 since February 21, 2018.
-:star::star: Available as structured data since its first release on August 23, 2011.
+:star: Available on the Web (whatever format) under the open license CC BY 4.0 since February 21, 2018.<br>
+:star::star: Available as structured data since its first release on August 23, 2011.<br>
 :star::star::star: Available in the non-proprietary open format XML since its first release on August 23, 2011.
 
 As of today, neXtProt:
-:star::star::star::star: Uses URIs to denote things by dereferencing.
+
+:star::star::star::star: Uses URIs to denote things by dereferencing.<br>
 :star::star::star::star::star: Links neXtProt data to other data, i.e. UniProt entries, to provide context.
 
 So, start linking to our data and let's build the semantic web of human proteins together!
