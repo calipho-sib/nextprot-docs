@@ -1,19 +1,22 @@
 ##Changes to the neXtProt RDF
 
-The Resource Description Framework (RDF) is a standard model for data interchange on the Web. The neXtProt model and documentation has been completely revised.   
+The Resource Description Framework (RDF) is a standard model for data interchange on the Web.   
 
-**Changes in the RDF model**
+**Changes to the RDF model**
 
-**New, deprecated and unused entities**
+The neXtProt model and documentation has been completely revised.
+
+**Missing, undefined and unused entities**
 
 Missing or undefined entities reported by one of our users have been dealt with, improving the consistency of our RDF data:
 
 * The missing source TCDB ([Transport Classification Database](https://www.tcdb.org)) used to describe transporters has been added. 
-* The undefined terminology type UniprotFamilyCv has been removed. Unused entities have also been removed from the model for improved usability. 
+* The undefined terminology type UniprotFamilyCv has been removed. 
+* Unused entities have also been removed from the model for improved usability. 
 
-Note that missing annotations will be added in the next data release.
+Missing annotations will be added in the next data release.
 
-**Changes to names and terms**
+**Changes to names**
 
 Depending on whether it refers to the name of a protein entry, a gene or an isoform, names are now modeled in a semantically-correct fashion:
 
@@ -41,12 +44,12 @@ For more information, refer to the help page for the entity [:Gene](https://snor
 ```:recommendedName ?name_entity .```<br>
 ```?name_entity a :IsoformName; rdfs:label```
 
-Example: NEW query to retrieve entry isoform accessions and names (first 10 results only)???TO ADD
+Example: !! ADD NEW query to retrieve entry isoform accessions and names !!
 For more information, refer to the help page for the entity [:Isoform](https://snorql.nextprot.org/help/entity/Isoform).
 
-Controlled vocabulary or ontology terms are also modeled in a simplified manner. !! TO DO PAM !!
+**Changes to terms**
 
-All query examples have been checked and modified, if necessary. Please modify your saved queries accordingly.
+All controlled vocabulary or ontology terms used in neXtProt are now modeled in a simplified manner. !! TO DO PAM !!
 
 **Improved documentation**
 
@@ -60,7 +63,9 @@ All the RDF changes described above are implemented in the schema file which can
 
 ##Changes to SPARQL queries
 
-Comments, preceded by #, have been added to the first 5 sample queries to make it easy for users who are unfamiliar with SPARQL to understand the query syntax:
+All query examples have been checked and modified, if necessary. **Please modify your saved queries accordingly.**
+
+To make it easy for users who are unfamiliar with SPARQL to understand the query syntax, comments (preceded by #) have been added to the first 5 sample queries:
 
 1. [NXQ\_00001](../proteins/search?mode=advanced&queryId=NXQ_00001) **Proteins phosphorylated and located in the cytoplasm**
 2. [NXQ\_00002](../proteins/search?mode=advanced&queryId=NXQ_00002) **Proteins that are located in both the nucleus and in the cytoplasm**
@@ -81,6 +86,6 @@ As of today, neXtProt:
 :star::star::star::star: Uses URIs to denote things through dereferencing.<br>
 :star::star::star::star::star: Links neXtProt data to other data, i.e. UniProt entries, to provide context.
 
-So, start linking to our data and let's build the semantic web of human proteins together!
+**So, start linking to our data and let's build the semantic web of human proteins together!**
 
 If you have questions or run into problems, please don't hesitate to contact us.
