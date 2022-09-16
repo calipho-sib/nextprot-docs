@@ -1,17 +1,12 @@
-
 Select the **Advanced** option above the query box to use the SPARQL Protocol and RDF Query Language (SPARQL) to access all the neXtProt protein entry data.
 
-##User guide
+##Documentation
 
-**A Critical Guide to the neXtProt knowledgebase: querying using SPARQL**
+* Schematic diagram of the [data model](../help/data-model) 
+* Complete documentation: [http://www.nextprot.org/rdf](http://www.nextprot.org/rdf)
+* Details of the data model, including resources and predicates: [SNORQL help](http://snorql.nextprot.org/help/doc/introduction)
+* **A Critical Guide to the neXtProt knowledgebase: querying using SPARQL**
 F1000Research 2019, 8:791 [doi: 10.7490/f1000research.1116829.1](https://doi.org/10.7490/f1000research.1116829.1)
-
-##Data model
-
-The following diagram shows an overview of the neXtProt data model:
-<img width="75%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/rdf-model.png"/>
-
-A full list of resources and predicates can be found in the [SNORQL resource](http://snorql.nextprot.org/help/doc/introduction) to view the details of the underlying **Data model**.
 
 ##Sample queries
 
@@ -38,4 +33,4 @@ To close the sample queries window, simply click on the "x" on the top right of 
 
 ##Sharing a query
 
-The URL for your own query can be used to share it with anyone (there is no need to login to launch it).
+The URL for your own query can be used to share it with anyone (there is no need to log in to launch it).
