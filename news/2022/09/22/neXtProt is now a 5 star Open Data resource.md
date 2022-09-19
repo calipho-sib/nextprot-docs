@@ -20,29 +20,33 @@ Missing annotations will be added in the next data release.
 
 Depending on whether it refers to the name of a protein entry, a gene or an isoform, names are now modeled in a semantically-correct fashion:
 
-1. Recommended protein names were previous queried using ```?entry :recommendedName /:fullName```
+1. Recommended protein names were previous queried using ```?entry :recommendedName /:fullName ?some_label .```
 
 It is now necessary to specify that the recommended name refers to a protein name as follows:
 
-```:recommendedName ?name_entity .```<br>
-```?name_entity a :ProteinName; rdfs:label```
+```?some_entry :recommendedName ?name_entity .```<br>
+```?name_entity a :ProteinName; rdfs:label ?some_label .```
 
 Example: [NXQ\_00290](../proteins/search?mode=advanced&queryId=NXQ_00290)
 For more information, refer to the help page for the entity [:Entry](https://snorql.nextprot.org/help/entity/Entry).
 
-2. Gene names used to be specified using ```:gene / :name```
+2. Gene names used to be specified using ```?some_entry :gene / :name ?some_label .```
 
 It is now necessary to add / rdfs:label after :name to have:
 
-```:gene / :name / rdfs:label```
+```?some_entry :gene / :name / rdfs:label ?some_label .```
+
+Note that gene name are also directly connected to the gene entities themselves with recommended, alternative and ORF names, i.e. :
+
+```?some_gene :name / rdfs:label ?some_label .```
 
 Example: [NXQ\_00047](../proteins/search?mode=advanced&queryId=NXQ_00047)
 For more information, refer to the help page for the entity [:Gene](https://snorql.nextprot.org/help/entity/Gene).
 
-3. Isoform names were not previously exposed in our RDF. They can now be retrieved by specifying that the recommended name refers to an isoform name as follows:
+3. Isoform names were not previously exposed in our RDF. They can now be retrieved by specifying that the name, or more specifically the recommended or alternative name refers to an isoform name as follows:
 
-```:recommendedName ?name_entity .```<br>
-```?name_entity a :IsoformName; rdfs:label```
+```?some_isoform :recommendedName ?name_entity .```<br>
+```?name_entity a :IsoformName; rdfs:label ?some_label .```
 
 Example: !! ADD NEW query to retrieve entry isoform accessions and names !!
 For more information, refer to the help page for the entity [:Isoform](https://snorql.nextprot.org/help/entity/Isoform).
