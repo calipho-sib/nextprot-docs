@@ -20,33 +20,33 @@ Missing annotations will be added in the next data release.
 
 Depending on whether it refers to the name of a protein entry, a gene or an isoform, names are now modeled in a semantically-correct fashion:
 
-1. Recommended protein names were previous queried using ```?entry :recommendedName /:fullName ?some_label .```
+1. Recommended protein names were previous queried using ```?entry :recommendedName /:fullName ?name .```
 
 It is now necessary to specify that the recommended name refers to a protein name as follows:
 
-```?some_entry :recommendedName ?name_entity .```<br>
-```?name_entity a :ProteinName; rdfs:label ?some_label .```
+```?entry :recommendedName ?name_entity .```<br>
+```?name_entity a :ProteinName; rdfs:label ?name .```
 
 Example: [NXQ\_00290](../proteins/search?mode=advanced&queryId=NXQ_00290)
 For more information, refer to the help page for the entity [:Entry](https://snorql.nextprot.org/help/entity/Entry).
 
-2. Gene names used to be specified using ```?some_entry :gene / :name ?some_label .```
+2. Gene names used to be specified using ```?entry :gene / :name ?name .```
 
 It is now necessary to add / rdfs:label after :name to have:
 
-```?some_entry :gene / :name / rdfs:label ?some_label .```
+```?entry :gene / :name / rdfs:label ?name .```
 
 Note that gene name are also directly connected to the gene entities themselves with recommended, alternative and ORF names, i.e. :
 
-```?some_gene :name / rdfs:label ?some_label .```
+```?gene :name / rdfs:label ?name .```
 
 Example: [NXQ\_00047](../proteins/search?mode=advanced&queryId=NXQ_00047)
 For more information, refer to the help page for the entity [:Gene](https://snorql.nextprot.org/help/entity/Gene).
 
 3. Isoform names were not previously exposed in our RDF. They can now be retrieved by specifying that the name, or more specifically the recommended or alternative name refers to an isoform name as follows:
 
-```?some_isoform :recommendedName ?name_entity .```<br>
-```?name_entity a :IsoformName; rdfs:label ?some_label .```
+```?isoform :recommendedName ?name_entity .```<br>
+```?name_entity a :IsoformName; rdfs:label ?name .```
 
 Example: !! ADD NEW query to retrieve entry isoform accessions and names !!
 For more information, refer to the help page for the entity [:Isoform](https://snorql.nextprot.org/help/entity/Isoform).
@@ -81,14 +81,14 @@ To make it easy for users who are unfamiliar with SPARQL to understand the query
 
 To date, neXtProt was:
 
-:star: Available on the Web (whatever format) under the open license CC BY 4.0 since February 21, 2018.<br>
-:star::star: Available as structured data since its first release on August 23, 2011.<br>
-:star::star::star: Available in the non-proprietary open format XML since its first release on August 23, 2011.
+&#11088; Available on the Web (whatever format) under the open license CC BY 4.0 since February 21, 2018.<br>
+&#11088;&#11088; Available as structured data since its first release on August 23, 2011.<br>
+&#11088;&#11088;&#11088; Available in the non-proprietary open format XML since its first release on August 23, 2011.
 
 As of today, neXtProt:
 
-:star::star::star::star: Uses URIs to denote things through dereferencing.<br>
-:star::star::star::star::star: Links neXtProt data to other data, i.e. UniProt entries, to provide context.
+&#11088;&#11088;&#11088;&#11088; Uses URIs to denote things through dereferencing.<br>
+&#11088;&#11088;&#11088;&#11088;&#11088; Links neXtProt data to other data, i.e. UniProt entries, to provide context.
 
 **So, start linking to our data and let's build the semantic web of human proteins together!**
 
