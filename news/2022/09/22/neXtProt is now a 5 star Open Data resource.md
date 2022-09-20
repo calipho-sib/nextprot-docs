@@ -20,36 +20,32 @@ Missing annotations will be added in the next data release.
 
 Depending on whether it refers to the name of a protein entry, a gene or an isoform, names are now modeled in a semantically-correct fashion:
 
-1. Recommended protein names were previous queried using ```?entry :recommendedName /:fullName ?name .```
+_Protein names_
 
-It is now necessary to specify that the recommended name refers to a protein name as follows:
-
+Recommended protein names were previous queried using ```?entry :recommendedName /:fullName ?name .```<br>
+It is now necessary to specify that the recommended name refers to a protein name as follows:<br>
 ```?entry :recommendedName ?name_entity .```<br>
-```?name_entity a :ProteinName; rdfs:label ?name .```
+```?name_entity a :ProteinName; rdfs:label ?name .```<br>
+Example: [NXQ\_00290](../proteins/search?mode=advanced&queryId=NXQ_00290)<br>
+For more information, refer to the help page for the entity [:Entry](https://snorql.nextprot.org/help/entity/Entry).<br>
 
-Example: [NXQ\_00290](../proteins/search?mode=advanced&queryId=NXQ_00290)
-For more information, refer to the help page for the entity [:Entry](https://snorql.nextprot.org/help/entity/Entry).
+_Gene names_
 
-2. Gene names used to be specified using ```?entry :gene / :name ?name .```
-
-It is now necessary to add / rdfs:label after :name to have:
-
-```?entry :gene / :name / rdfs:label ?name .```
-
-Note that gene name are also directly connected to the gene entities themselves with recommended, alternative and ORF names, i.e. :
-
-```?gene :name / rdfs:label ?name .```
-
+Gene names used to be specified using ```?entry :gene / :name ?name .```<br>
+It is now necessary to add / rdfs:label after :name to have:<br>
+```?entry :gene / :name / rdfs:label ?name .```<br>
+Note that gene name are also directly connected to the gene entities themselves with recommended, alternative and ORF names, i.e. :<br>
+```?gene :name / rdfs:label ?name .```<br>
 Example: [NXQ\_00047](../proteins/search?mode=advanced&queryId=NXQ_00047)
-For more information, refer to the help page for the entity [:Gene](https://snorql.nextprot.org/help/entity/Gene).
+For more information, refer to the help page for the entity [:Gene](https://snorql.nextprot.org/help/entity/Gene).<br>
 
-3. Isoform names were not previously exposed in our RDF. They can now be retrieved by specifying that the name, or more specifically the recommended or alternative name refers to an isoform name as follows:
+_Isoform names_
 
+Isoform names were not previously exposed in our RDF. They can now be retrieved by specifying that the name, or more specifically the recommended or alternative name refers to an isoform name as follows:<br>
 ```?isoform :recommendedName ?name_entity .```<br>
-```?name_entity a :IsoformName; rdfs:label ?name .```
-
-Example: !! ADD NEW query to retrieve entry isoform accessions and names !!
-For more information, refer to the help page for the entity [:Isoform](https://snorql.nextprot.org/help/entity/Isoform).
+```?name_entity a :IsoformName; rdfs:label ?name .```<br>
+Example: NXQ\_00298 in the [SNORQL interface](https://snorql.nextprot.org/).<br>
+For more information, refer to the help page for the entity [:Isoform](https://snorql.nextprot.org/help/entity/Isoform).<br>
 
 **Changes to terms**
 
@@ -67,15 +63,9 @@ All the RDF changes described above are implemented in the schema file which can
 
 ##Changes to SPARQL queries
 
+To make it easy for users who are unfamiliar with SPARQL to understand the query syntax, comments (preceded by #) have been added to the first 5 sample queries ([NXQ\_00001](../proteins/search?mode=advanced&queryId=NXQ_00001),  [NXQ\_00002](../proteins/search?mode=advanced&queryId=NXQ_00002), [NXQ\_00003](../proteins/search?mode=advanced&queryId=NXQ_00003), [NXQ\_00004](../proteins/search?mode=advanced&queryId=NXQ_00004) and [NXQ\_00005](../proteins/search?mode=advanced&queryId=NXQ_00005)).
+
 All query examples have been checked and modified, if necessary. **Please modify your saved queries accordingly.**
-
-To make it easy for users who are unfamiliar with SPARQL to understand the query syntax, comments (preceded by #) have been added to the first 5 sample queries:
-
-1. [NXQ\_00001](../proteins/search?mode=advanced&queryId=NXQ_00001) **Proteins phosphorylated and located in the cytoplasm**
-2. [NXQ\_00002](../proteins/search?mode=advanced&queryId=NXQ_00002) **Proteins that are located in both the nucleus and in the cytoplasm**
-3. [NXQ\_00003](../proteins/search?mode=advanced&queryId=NXQ_00003) **Proteins with 7 transmembrane regions**
-4. [NXQ\_00004](../proteins/search?mode=advanced&queryId=NXQ_00004) **Proteins expressed in brain with IHC expression level: "high" but not expressed in testis**
-5. [NXQ\_00005](../proteins/search?mode=advanced&queryId=NXQ_00005) **Proteins located in mitochondrion and that lack a transit peptide** 
 
 ##A 5 star Open Data resource
 
