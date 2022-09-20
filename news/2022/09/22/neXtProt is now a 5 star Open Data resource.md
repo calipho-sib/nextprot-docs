@@ -36,7 +36,7 @@ It is now necessary to add / rdfs:label after :name to have:<br>
 ```?entry :gene / :name / rdfs:label ?name .```<br>
 Note that gene name are also directly connected to the gene entities themselves with recommended, alternative and ORF names, i.e. :<br>
 ```?gene :name / rdfs:label ?name .```<br>
-Example: [NXQ\_00047](../proteins/search?mode=advanced&queryId=NXQ_00047)
+Example: [NXQ\_00047](../proteins/search?mode=advanced&queryId=NXQ_00047)<br>
 For more information, refer to the help page for the entity [:Gene](https://snorql.nextprot.org/help/entity/Gene).<br>
 
 _Isoform names_
@@ -44,7 +44,7 @@ _Isoform names_
 Isoform names were not previously exposed in our RDF. They can now be retrieved by specifying that the name, or more specifically the recommended or alternative name refers to an isoform name as follows:<br>
 ```?isoform :recommendedName ?name_entity .```<br>
 ```?name_entity a :IsoformName; rdfs:label ?name .```<br>
-Example: NXQ\_00298 in the [SNORQL interface](https://snorql.nextprot.org/).<br>
+Example: New SPARQL query NXQ\_00298 in the [SNORQL interface](https://snorql.nextprot.org/).<br>
 For more information, refer to the help page for the entity [:Isoform](https://snorql.nextprot.org/help/entity/Isoform).<br>
 
 **Changes to terms**
