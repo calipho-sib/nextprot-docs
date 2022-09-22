@@ -55,7 +55,7 @@ All controlled vocabulary or ontology terms used in neXtProt are now modeled in 
 
 The simplified view of the neXtProt data model has been updated both in the [Search](../help/data-model) and [SNORQL](https://snorql.nextprot.org/help/doc/introduction) user interfaces. This visual guide to the neXtProt data model is useful for beginners wishing to go beyond modifying the SPARQL query examples provided. A link to the textual documentation is also provided for power users wanting to exploit the neXtProt RDF.
 
-The full, textual documentation is now available at [http://www.nextprot.org/rdf](http://www.nextprot.org/rdf). 
+The full, textual documentation is now available at [http://nextprot.org/rdf](http://nextprot.org/rdf). 
 
 ##Changes to the export files
 

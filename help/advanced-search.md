@@ -3,7 +3,7 @@ Select the **Advanced** option above the query box to use the SPARQL Protocol an
 ##Documentation
 
 * Schematic diagram of the [data model](../help/data-model) 
-* Complete documentation: [http://www.nextprot.org/rdf](http://www.nextprot.org/rdf)
+* Complete documentation: [http://nextprot.org/rdf](http://nextprot.org/rdf)
 * Details of the data model, including resources and predicates: [SNORQL help](http://snorql.nextprot.org/help/doc/introduction)
 * **A Critical Guide to the neXtProt knowledgebase: querying using SPARQL**
 F1000Research 2019, 8:791 [doi: 10.7490/f1000research.1116829.1](https://doi.org/10.7490/f1000research.1116829.1)
