@@ -9,7 +9,7 @@ F1000Research 2019, 8:791 [doi: 10.7490/f1000research.1116829.1](https://doi.org
 ##Data model
 
 The following diagram shows an overview of the neXtProt data model:
-<img width="75%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/rdf-model.png"/>
+<img width="75%" src="https://raw.githubusercontent.com/calipho-sib/nextprot-docs/master/pages/assets/nx-model-v2.png"/>
 
 A full list of resources and predicates can be found in the [SNORQL resource](http://snorql.nextprot.org/help/doc/introduction) to view the details of the underlying **Data model**.
 
