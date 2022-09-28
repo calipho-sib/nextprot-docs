@@ -49,7 +49,7 @@ For more information, refer to the help page for the entity [:Isoform](https://s
 
 **Changes to terms**
 
-All controlled vocabulary or ontology terms used in neXtProt are now modeled in a simplified manner. !! TO DO PAM !!
+All controlled vocabulary or ontology terms used in neXtProt are now modeled in a simplified manner. All terms are regrouped under the super-class Term but linked to their source vocabulary.
 
 **Improved documentation**
 
