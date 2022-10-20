@@ -9,7 +9,7 @@ Function predictions for 19 new entries are now available, bringing the total nu
 
 ## New SPARQL queries
 
-The following query shows how to query recommended and alternative gene names with our new data model (for more information please see: https://www.nextprot.org/rdf/#Name)
+The following query shows how to query recommended and alternative gene names with our new data model (for more information please see: www.nextprot.org/rdf/#Name)
 NXQ_00046 Proteins with a gene alternative name starting with IL27. 
 
 The following query shows how to extract a list of proteins with their small molecule interactants.
