@@ -1,13 +1,13 @@
 ## Feature viewer improvements
 
-The graphical interface of the feature viewer was improved so that users can better visualize variant frequencies and peptide uniqueness.
+The graphical interface of the feature viewer has been improved so that users can better visualize variant frequencies and peptide uniqueness.
 Variant frequency data from [gnomAD](https://gnomad.broadinstitute.org/) can now be viewed as a bar graph.<br>
 
-[Example: MECP2 variants](../entry/NX_P51608/sequence)
+Example: [MECP2 variants](../entry/NX_P51608/sequence)
 
 Unique (green) and non unique (blue) peptides can now be easily distinguished in the Peptide and SRM peptide tracks of the proteomics and peptide views.
 
-[Example: Protein FAM9A](../entry/NX_Q8IZU1/proteomics)
+Example: [Protein FAM9A](../entry/NX_Q8IZU1/proteomics)
 
 ## New predictions of protein functions
 
