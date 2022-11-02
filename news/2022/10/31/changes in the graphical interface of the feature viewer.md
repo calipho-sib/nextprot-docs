@@ -17,11 +17,12 @@ All entries with function predictions are listed [here](../proteins/search?listI
 
 ## New SPARQL queries
 
-Two new queries have been added to the [SNORQL](https://snorql.nextprot.org/) search interface 
+Two new queries have been added to the [SNORQL](https://snorql.nextprot.org/) search interface. 
 
-The following query shows how to query recommended and alternative gene names with our new data model. For more information please see: https://www.nextprot.org/rdf/#Name<br>
+The following query shows how to query recommended and alternative gene names with our new data model:<br> 
 **NXQ_00046 Proteins with a gene alternative name starting with IL27** 
+For more information please see: https://www.nextprot.org/rdf/#Name<br>
 
-The following query shows how to extract a list of proteins with their small molecule interactants.<br>
+The following query shows how to extract a list of proteins with their small molecule interactants:<br>
 **NXQ_00299 Proteins interacting with small molecules according to DrugBank**
 
