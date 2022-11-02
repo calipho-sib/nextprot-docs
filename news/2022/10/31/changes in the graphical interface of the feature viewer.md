@@ -1,13 +1,13 @@
 ## Feature viewer improvements
 
 The graphical interface of the feature viewer has been improved so that users can better visualize variant frequencies and peptide uniqueness.
-Variant frequency data from [gnomAD](https://gnomad.broadinstitute.org/) can now be viewed as a bar graph.<br>
+Variant frequency data from [gnomAD](https://gnomad.broadinstitute.org/) can now be viewed as a bar graph in the sequence, medical and structure views.<br>
 
-Example: [MECP2 variants](../entry/NX_P51608/sequence)
+Example: [MECP2 sequence view](../entry/NX_P51608/sequence)
 
 Unique (green) and non unique (blue) peptides can now be easily distinguished in the Peptide and SRM peptide tracks of the proteomics and peptide views.
 
-Example: [Protein FAM9A](../entry/NX_Q8IZU1/proteomics)
+Example: [FAM9A proteomics view](../entry/NX_Q8IZU1/proteomics)
 
 ## New predictions of protein functions
 
@@ -18,7 +18,7 @@ All entries with function predictions are listed [here](../proteins/search?listI
 
 Two new queries have been added to the [SNORQL](https://snorql.nextprot.org/) search interface 
 
-The following query shows how to query recommended and alternative gene names with our new data model. For more information please see: ../rdf/#Name<br>
+The following query shows how to query recommended and alternative gene names with our new data model. For more information please see (https://www.nextprot.org/rdf/#Name)<br>
 **NXQ_00046 Proteins with a gene alternative name starting with IL27** 
 
 The following query shows how to extract a list of proteins with their small molecule interactants.<br>
