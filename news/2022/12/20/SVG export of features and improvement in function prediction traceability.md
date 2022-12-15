@@ -1,4 +1,4 @@
-##SVG export of positional features
+##New functionality of the feature viewer: SVG export
 
 Users can now download a .svg image of the positional features they are exploring using the feature viewer 
 
@@ -14,5 +14,3 @@ Example: [TMEM 53 predictions](../entry/NX_Q6P2H8/function-predictions)
 The query **NXQ_00300** available on [the SNORQL interface](https://snorql.nextprot.org/), retrieves all human proteins with protein existence "At protein level" (PE=1) 
 that have no function annotated, are highly expressed in brain and have homologs in Drosophila melanogaster according to OrthoDB. 
 It is federated with [OrthoDB](https://www.orthodb.org/) <br> 
-
-
