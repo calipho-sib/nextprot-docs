@@ -1,0 +1,16 @@
+## SVG export of positional features
+
+The graphical interface of the feature viewer has been improved so that users can download a .svg image of the positional features they are exploring.
+
+## More traceability of function predictions
+
+All our function predictions are associated with ECO terms reflecting the type of analysis that was performed. These ECO terms are now complemented with the name of the 
+species in which the analysis was perfomed.
+
+Example: [TMEM 53 predictions](../entry/NX_/)
+
+## New SPARQL query
+
+The following query, federated with OMA, retrieves all human proteins with no function that are expressed in human brain and conserved in Drosophila :<br> 
+**NXQ_00300 XXX**<br>
+
