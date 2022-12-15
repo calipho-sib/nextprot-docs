@@ -5,7 +5,7 @@ Users can now download a .svg image of the positional features they are explorin
 ##Improved traceability of function predictions
 
 All our function predictions are associated with ECO terms reflecting the type of data analysis that was performed. 
-In some cases, the analysis was not done with human data but with data from model organisms. This is now clearly specified in the predictions.
+In some cases, the analysis was not done with human data but with data from model organisms. This is now clearly specified.
 
 Example: [TMEM 53 predictions](../entry/NX_Q6P2H8/function-predictions)
 
