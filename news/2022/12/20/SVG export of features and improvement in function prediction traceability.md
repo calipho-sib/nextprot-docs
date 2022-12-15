@@ -12,4 +12,4 @@ Example: [TMEM 53 predictions](../entry/NX_Q6P2H8/function-predictions)
 ##New SPARQL query
 
 The query **NXQ_00300** available on [the SNORQL interface](https://snorql.nextprot.org/) retrieves all human proteins with protein existence "At protein level" (PE=1) 
-that have no function annotated, are highly expressed in brain and have homologs in Drosophila melanogaster according to [OrthoDB](https://www.orthodb.org/) <br> 
+that have no function annotated, are highly expressed in brain and have homologs in <i>Drosophila melanogaster</i> according to [OrthoDB](https://www.orthodb.org/) <br> 
