@@ -107,13 +107,13 @@
     }, {
       "tag" : "W_DISEASE_MASTER",
       "description" : "Entries with a disease",
-      "count" : 5255,
+      "count" : 5415,
       "categroy" : "Annotations",
       "sortOrder" : 170
     }, {
       "tag" : "W_EXPRESSION_MASTER",
       "description" : "Entries with an expression profile",
-      "count" : 19850,
+      "count" : 20019,
       "categroy" : "Annotations",
       "sortOrder" : 180
     }, {
