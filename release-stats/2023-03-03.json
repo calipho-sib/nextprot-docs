@@ -2,6 +2,130 @@
   "releaseStats" : {
     "databaseRelease" : "2023-03-03",
     "databaseReleaseList" : [ "2022-08-18", "2022-05-19", "2022-02-25", "2021-11-19", "2021-02-18", "2020-11-26", "2020-07-17", "2020-01-17", "2019-08-22", "2019-01-11", "2018-09-03", "2018-01-17", "2017-08-01", "2017-04-12", "2017-01-23", "2016-12-02", "2016-08-25", "2016-01-11", "2015-09-01", "2015-04-28", "2015-01-01", "2014-09-19", "2014-05-27", "2014-02-25", "2013-12-09", "2013-11-01", "2013-10-10", "2013-08-17", "2013-07-15", "2013-06-11", "2013-02-12", "2012-12-20", "2012-10-30", "2012-10-07", "2012-09-11", "2012-07-28", "2012-06-08", "2012-05-07", "2012-02-24", "2011-11-11", "2011-10-20", "2011-08-23" ],
+    "tagQueries" : [ {
+      "tag" : "MASTER",
+      "queryId" : "E5UPVHN5"
+    }, {
+      "tag" : "ISOFORM",
+      "queryId" : "6SNWGF02"
+    }, {
+      "tag" : "NB_MAPPED_PEPTIDES",
+      "queryId" : "J5AADDH7"
+    }, {
+      "tag" : "PUBLI",
+      "queryId" : "B2B3MK50"
+    }, {
+      "tag" : "PROTEIN_LEVEL_MASTER",
+      "queryId" : "GMKPWQYG"
+    }, {
+      "tag" : "TRANSCRIPT_LEVEL_MASTER",
+      "queryId" : "DJX7APYV"
+    }, {
+      "tag" : "HOMOLOGY_MASTER",
+      "queryId" : "KZQGU1VB"
+    }, {
+      "tag" : "PREDICTED_MASTER",
+      "queryId" : "B3WEFXLJ"
+    }, {
+      "tag" : "UNCERTAIN_MASTER",
+      "queryId" : "DAKGCRDA"
+    }, {
+      "tag" : "W_MOLEC_FUNC_MASTER",
+      "queryId" : "W8OQVVNJ"
+    }, {
+      "tag" : "W_DISEASE_MASTER",
+      "queryId" : "7971GN1P"
+    }, {
+      "tag" : "W_EXPRESSION_MASTER",
+      "queryId" : "JASXQ1W1"
+    }, {
+      "tag" : "W_SUBCELL_LOC_MASTER",
+      "queryId" : "PL3W9FDJ"
+    }, {
+      "tag" : "W_PROTEOMICS_MASTER",
+      "queryId" : "LNJJRFO2"
+    }, {
+      "tag" : "W_STRUCT_MASTER",
+      "queryId" : "RUFAVK44"
+    }, {
+      "tag" : "CHR_1_MASTER",
+      "queryId" : "5UCEVZ6S"
+    }, {
+      "tag" : "CHR_2_MASTER",
+      "queryId" : "MYZ2XUNS"
+    }, {
+      "tag" : "CHR_3_MASTER",
+      "queryId" : "4DG6Z85J"
+    }, {
+      "tag" : "CHR_4_MASTER",
+      "queryId" : "T3OGCXWO"
+    }, {
+      "tag" : "CHR_5_MASTER",
+      "queryId" : "AE9NW3K7"
+    }, {
+      "tag" : "CHR_6_MASTER",
+      "queryId" : "BLRS11KD"
+    }, {
+      "tag" : "CHR_7_MASTER",
+      "queryId" : "TVT8X7AC"
+    }, {
+      "tag" : "CHR_8_MASTER",
+      "queryId" : "UO2QH3U9"
+    }, {
+      "tag" : "CHR_9_MASTER",
+      "queryId" : "Z4WA818W"
+    }, {
+      "tag" : "CHR_10_MASTER",
+      "queryId" : "O0R3PPEN"
+    }, {
+      "tag" : "CHR_11_MASTER",
+      "queryId" : "IU07ADCP"
+    }, {
+      "tag" : "CHR_12_MASTER",
+      "queryId" : "N82MW93Y"
+    }, {
+      "tag" : "CHR_13_MASTER",
+      "queryId" : "4O0Q3PDG"
+    }, {
+      "tag" : "CHR_14_MASTER",
+      "queryId" : "3XZDOXDM"
+    }, {
+      "tag" : "CHR_15_MASTER",
+      "queryId" : "WZ6Z5HC7"
+    }, {
+      "tag" : "CHR_16_MASTER",
+      "queryId" : "KVARIQZR"
+    }, {
+      "tag" : "CHR_17_MASTER",
+      "queryId" : "GYXNTS35"
+    }, {
+      "tag" : "CHR_18_MASTER",
+      "queryId" : "CQ8ZB21K"
+    }, {
+      "tag" : "CHR_19_MASTER",
+      "queryId" : "Y4DAA198"
+    }, {
+      "tag" : "CHR_20_MASTER",
+      "queryId" : "WVYG0II5"
+    }, {
+      "tag" : "CHR_21_MASTER",
+      "queryId" : "I4QH5GVG"
+    }, {
+      "tag" : "CHR_22_MASTER",
+      "queryId" : "VM58NMNQ"
+    }, {
+      "tag" : "CHR_X_MASTER",
+      "queryId" : "W5ZS843N"
+    }, {
+      "tag" : "CHR_Y_MASTER",
+      "queryId" : "9HXWPJPL"
+    }, {
+      "tag" : "CHR_MT_MASTER",
+      "queryId" : "B0D3F4X1"
+    }, {
+      "tag" : "CHR_UNKNOWN_MASTER",
+      "queryId" : "WQTUJUIP"
+    } ],
     "tagStatistics" : [ {
       "tag" : "MASTER",
       "description" : "Protein entries",
@@ -125,7 +249,7 @@
     }, {
       "tag" : "W_MUTAGENESIS_MASTER",
       "description" : "Entries with mutagenesis data",
-      "count" : 4986,
+      "count" : 6356,
       "categroy" : "Annotations",
       "sortOrder" : 200
     }, {
