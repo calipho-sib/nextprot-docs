@@ -112,7 +112,7 @@
       "sortOrder" : 170
     }, {
       "tag" : "W_EXPRESSION_MASTER",
-      "description" : "Entries with an expression profile",
+      "description" : "Entries with expression data",
       "count" : 20019,
       "categroy" : "Annotations",
       "sortOrder" : 180
