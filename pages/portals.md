@@ -22,7 +22,7 @@ This portal provides information about the functional impact of genetic variants
 
 * **Relation**: In-house [relations vocabulary](https://download.nextprot.org/pub/current_release/controlled_vocabularies/cv_modification_effect.obo) describing the type of effect of the mutation. 
 
-* **Function**: Object of the annotation triplet, describing: 
+* **Object**: Object of the annotation triplet, describing: 
   * Effect on protein function/biological process/cellular localization, captured with [Gene Ontology](http://www.geneontology.org/) terms.
   * Effect on binding to proteins and protein complexes, captured with neXtProt entry IDs.
   * Effect on binding to chemicals, captured with [ChEBI](https://www.ebi.ac.uk/chebi/) terms.
