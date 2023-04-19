@@ -4,7 +4,7 @@ This release, neXtProt data release 2023-04-18, is the 2023 reference for the HU
 **Peptide data**
 This release incorporates the latest PeptideAtlas human 2023-01 build. Peptides from MassIVE have also been updated. Taken together, this brings the number of natural peptides seen by mass Spectrometry (MS) to 3754276, up from 3280422 in the 2022 HUPO reference release.
 
-Entries for which at least 2 non overlapping proteotypic peptides of 9 aminoacids or more have been reported in a single data source (PeptideAtlas or MassIVE) now have the keyword [KW-1267 Proteomics identification] (https://www.nextprot.org/term/KW-1267/)
+Entries for which at least 2 non overlapping proteotypic peptides of 9 aminoacids or more have been reported in a single data source (PeptideAtlas or MassIVE) now have the keyword [KW-1267 Proteomics identification](https://www.nextprot.org/term/KW-1267/)
  
 **Updated data**
 UniProt release 2022_05 and Ensembl release 107 have also been integrated. Data from the Cellosaurus, GOA, GlyConnect, IntAct and neXtProt has also been updated.
@@ -13,7 +13,7 @@ UniProt release 2022_05 and Ensembl release 107 have also been integrated. Data 
 
 We extended our definition of “disease-associated proteins” to proteins with either a disease annotation OR a UniProt keyword of the disease category, except KW-0656 "Proto-oncogene". This definition is used to compute the Disease yes/no value in protein search results.
 
-For more transparency, the [Release statistics page] (https://www.nextprot.org/about/statistics) now includes links to SPARQL queries to show our users how the numbers were computed. The missing queries will be added in the upcoming releases.
+For more transparency, the [Release statistics page](https://www.nextprot.org/about/statistics) now includes links to SPARQL queries to show our users how the numbers were computed. The missing queries will be added in the upcoming releases.
 
 ## Changes to the SPARQL queries
 
