@@ -13,7 +13,8 @@ UniProt release 2022_05 and Ensembl release 107 have also been integrated. Data 
 
 ## Changes to the user interface
 
-We extended our definition of “disease-associated proteins” to proteins with either a disease annotation OR a UniProt keyword of the disease category, except KW-0656 "Proto-oncogene". This definition is used to compute the Disease yes/no value in protein search results.
+We changed our definition of disease-associated proteins, which is used to compute the *Disease yes/no* value in protein search results. 
+The *Disease* value is now set as *yes* for proteins with either a disease annotation OR a UniProt keyword of the disease category, except KW-0656 "Proto-oncogene".
 
 For more transparency, the [Release statistics page](https://www.nextprot.org/about/statistics) now includes links to SPARQL queries to show our users how the numbers were computed. The missing queries will be added in the upcoming releases.
 
