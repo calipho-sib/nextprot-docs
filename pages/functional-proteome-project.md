@@ -6,7 +6,7 @@ In the current neXtProt release there are:
 
 * ${ENTRY_COUNT} entries
 * ${PROTEIN_WITH_NO_FUNCTION_ANNOTATED_COUNT} proteins with no function annotated
-* 212 entries with a function prediction
+* 239 entries with a function prediction
 
 ##Function prediction submissions
 
@@ -14,7 +14,7 @@ Join neXtProt in the community effort to complete the human functional proteome!
 
 Step 1. Pick a **protein with no function annotated** by running the following SPARQL query [NXQ\_00022](https://www.nextprot.org/proteins/search?mode=advanced&queryId=NXQ_00022).
 
-Step 2.  [Here](https://www.nextprot.org/proteins/search?listId=B39DL206) is the **current list of entries with a function prediction**. To view the predictions for an entry, click on the link to the entry and select **Function prediction** in the Community tool section on the left-hand menu. Similar or different hypotheses for these proteins are welcome.
+Step 2.  [Here](https://www.nextprot.org/proteins/search?listId=3O1KQY7L) is the **current list of entries with a function prediction**. To view the predictions for an entry, click on the link to the entry and select **Function prediction** in the Community tool section on the left-hand menu. Similar or different hypotheses for these proteins are welcome.
 
 Step 3. Send us an [e-mail](mailto:support@nextprot.org) with the accession number of the entry, the proposed function(s) of the protein (preferably GO terms), the type of evidence to support the function(s) (preferably ECO terms and species names) and whenever possible the associated papers, as well as your ORCID number and the paper in which the functional hypothesis has been published, if applicable. Please make sure that the proposed function(s) is/are sufficiently precise to be testable by experimental researchers.
 

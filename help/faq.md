@@ -61,7 +61,7 @@ The data release version is indicated in the footer of all our web pages.
 
 Updates in neXtProt are described in our [news](../news).
 
-You can also follow us on [Twitter](https://twitter.com/nextprot_news) or [ResearchGate](https://www.researchgate.net/project/neXtProt), where you will be kept up to date with all new releases and changes to neXtProt.
+You can also follow us on [Twitter](https://twitter.com/nextprot_news), where you will be kept up to date with all new releases and changes to neXtProt.
 
 <a name="10"></a>**Q10. What is the difference between curated publications and additional publications in nextProt?**
 
