@@ -1,7 +1,3 @@
-**New publication**
-
-The Proceedings of the 14th International Conference on Semantic Web Applications and Tools for Health Care and Life Sciences (SWAT4HCLS2023) have just been published.
-
 Check out our *Data in use* paper describing the query NXQ_00300 (available on the SNORQL interface).
 
 ## Abstract 
