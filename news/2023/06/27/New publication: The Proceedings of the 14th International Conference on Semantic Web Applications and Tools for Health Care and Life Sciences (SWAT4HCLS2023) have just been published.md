@@ -1,6 +1,4 @@
-Check out our *Data in use* paper describing the query NXQ_00300, available on the SNORQL interface.
-
-Lydie Lane, Kasun Samarasinghe and Pierre-André Michel, https://ceur-ws.org/Vol-3415/paper-46.pdf
+Check out the *Data in use* [paper-46](https://ceur-ws.org/Vol-3415/paper-46.pdf) by Lydie Lane, Kasun Samarasinghe and Pierre-André Michel, that describes the query NXQ_00300, available on the SNORQL interface.
 
 ## Abstract 
 
