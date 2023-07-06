@@ -2,6 +2,6 @@ China's growing scientific research strength, notably in the proteomics field, h
 
 Chi-Biotech's main business is related to large-scale sequencing and it is well known in the industry due to its FANSe series of high-precision sequencing comparison algorithms. Chi-Biotech is also very much involved in the proteomics field and has a long-term collaboration with HUPO.
 
-Chi-Biotech(http://www.chi-biotech.com/) and neXtProt joined their forces and are happy to deliver a mirror site of neXtProt in China, www.nextprot.cn.
+[Chi-Biotech](http://www.chi-biotech.com/) and neXtProt joined their forces and are happy to deliver a mirror site of neXtProt in China, www.nextprot.cn.
 
 This mirror site should considerably improve the usability of neXtProt for users located in China.
