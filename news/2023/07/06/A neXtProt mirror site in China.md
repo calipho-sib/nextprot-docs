@@ -4,4 +4,4 @@ Chi-Biotech's main business is related to large-scale sequencing and it is well 
 
 [Chi-Biotech](http://www.chi-biotech.com/) and neXtProt joined their forces and are happy to deliver a mirror site of neXtProt in China, www.nextprot.cn.
 
-This mirror site should considerably improve the usability of neXtProt for users located in China.
+This mirror site should considerably improve the usability of neXtProt for users located in China and other Asian countries.
