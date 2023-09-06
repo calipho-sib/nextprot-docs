@@ -1,6 +1,7 @@
 ## Changes to the data
 
 Subcellular localization and expression data (at RNA and protein levels) from [HPA](https://www.proteinatlas.org/) version 23 has now been integrated. 
+
 As a result from RNAseq data integration, 37 entries whose protein(s) existence was based on homology (PE3) or on a prediction (gene model) (PE4) are now scored PE2 (protein(s) existence based on evidence at transcript level).
 
 ## Changes to the user interface
