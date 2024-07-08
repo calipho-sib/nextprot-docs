@@ -6,7 +6,7 @@ For the past 12 years, neXtProt has played a central role in the HUPO proteomics
 
 Despite these changes, we remain passionate about serving the scientific community. We are eager to contribute our expertise in data modeling and semantics, assigning functions to poorly characterized proteins, and understanding how genetic variations can alter protein properties and contribute to diseases.
 
-As our production release cycle is on hold, we would like to take this opportunity to rethink our priorities and explore solutions to ensure neXtProt can continue in some form, whether through relocation, recycling of components, or other means. We welcome your input! If you have fresh ideas on how our expertise and data models could benefit your projects or suggestions for sustainable paths forward for neXtProt, please contact us at [contact email].
+As our production release cycle is on hold, we would like to take this opportunity to rethink our priorities and explore solutions to ensure neXtProt can continue in some form, whether through relocation, recycling of components, or other means. We welcome your input! If you have fresh ideas on how our expertise and data models could benefit your projects or suggestions for sustainable paths forward for neXtProt, please contact us at [support@nextprot.org](mailto:support@nextprot.org).
 
 Wishing you a pleasant summer break,
 The neXtProt team
